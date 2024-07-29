@@ -1,7 +1,7 @@
 import { ProjectComponent } from '@/components/project.component'
 import { App, Content, DarkModeToggle, Flexer, Header, Heading, Icon, Text, View } from '@fold-dev/core'
 import { project } from '../work.json'
-import { useEffect, useMemo } from 'react'
+import { useEffect, useMemo, useRef } from 'react'
 import { setIsScrolled } from '@/util'
 import { ArrowLeftCircleIcon, ArrowLeftIcon } from '@heroicons/react/16/solid'
 import { useNavigate } from 'react-router'
@@ -25,7 +25,7 @@ export const WorkLayout = (props: any) => {
 
     return (
         <App    
-            style={{ overflow: 'scroll' }}
+            height="fit-content"
             display="block" 
             className="home">
             <Header 
