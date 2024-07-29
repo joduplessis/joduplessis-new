@@ -58,16 +58,6 @@ export const WorkLayout = (props: any) => {
                     gap="2rem"
                     p="0.5rem 1rem 0 1rem">
                     <HeroComponent 
-                        flex={2}  
-                        image="adtriba.png"
-                        notes="Adtriba is a marketing attribution & machine learning company."
-                        project="Adtriba"
-                        slug="adtriba"
-                        year="2022"
-                        url="https://adtriba.com"
-                    />
-
-                    <HeroComponent 
                         flex={1}    
                         image="fold.png"
                         notes="Zero-dependency React components for scaling your product to the next level."
@@ -75,6 +65,24 @@ export const WorkLayout = (props: any) => {
                         slug="fold"
                         year="2024"
                         url="https://fold.dev"
+                    />
+                    <HeroComponent 
+                        flex={1}    
+                        image="plural.png"
+                        notes="The future of insurance on Web3."
+                        project="Plural"
+                        slug="plural"
+                        year="2023"
+                        url="https://plural.fi"
+                    />
+                    <HeroComponent 
+                        flex={1} 
+                        image="adtriba.png"
+                        notes="Future-proof marketing measurement and optimization."
+                        project="Adtriba"
+                        slug="adtriba"
+                        year="2022"
+                        url="https://adtriba.com"
                     />
                 </View>
 
@@ -84,33 +92,41 @@ export const WorkLayout = (props: any) => {
                     gap="2rem"
                     p="2rem 1rem 2rem 1rem">
                     <HeroComponent 
+                        flex={1}  
+                        adjust={50}  
+                        image="weekday.png"
+                        notes="Level up your team with a self hosted project collaboration platform."
+                        project="Weekday"
+                        slug="weekday"
+                        year="2020"
+                        url="https://weekday.work"
+                    />
+                    <HeroComponent 
+                        flex={1}  
+                        adjust={50}  
+                        image="teachfolk.png"
+                        notes="Effortlessly drive and scale remote learning from this powerful platform."
+                        project="Teachfolk"
+                        slug="teachfolk"
+                        year="2020"
+                        url="https://teachfolk.com"
+                    />
+                    <HeroComponent 
                         flex={1}    
                         adjust={80}
                         image="wami.png"
-                        notes="Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer."
+                        notes="Whether you are a dietitian, therapist or personal trainer - you can use Wami to connect with your clients."
                         project="Wami"
                         slug="wami"
                         year="2019"
                         url="https://github.com/joduplessis/wami"
-                    />
-
-                    <HeroComponent 
-                        flex={2}  
-                        adjust={50}  
-                        image="weekday.png"
-                        notes="Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps."
-                        project="Weekday"
-                        slug="adtriba"
-                        year="2020"
-                        url="https://weekday.work"
                     />
                 </View>
             </div>
 
             <Content
                 row
-                p="0 1rem"
-                m="1rem 0 0 0"
+                p="1rem"
                 style={{ flexWrap: 'wrap' }}>
                 {projects.map((project, index) => (
                     <ProjectComponent

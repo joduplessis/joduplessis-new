@@ -175,18 +175,6 @@ export const ProjectLayout = (props: any) => {
                                 ))}
                             </View>
                         </Stack>
-
-
-                        {/* 
-                        <span
-                            v-for="(link, index) in getFirstElement(item).links"
-                            v-if="getFirstElement(item).links[0]"
-                        >
-                            <a className="link" target="_blank" v-bind:href="link">
-                                → {{ link.replace("http://", "").replace("https://", "") }}
-                            </a>
-                            <br />
-                        </span> */}
                     </View>
                 </View>
             </Content>
