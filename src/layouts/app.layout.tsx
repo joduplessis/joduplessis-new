@@ -43,7 +43,7 @@ export const AppLayout = (props: any) => {
                         colorToken="text"
                         target="_blank"
                         m="0 1.5rem 0 0"
-                        href="https://calendly.com/jo-fold/30min">
+                        href="https://calendar.app.google/HLkZmvp3sS9kSFrt7">
                         Book a Meet
                     </Link>
                     <Link 
