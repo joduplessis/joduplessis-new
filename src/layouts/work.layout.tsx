@@ -1,5 +1,5 @@
 import { ProjectComponent } from '@/components/project.component'
-import { App, Content, Flexer, Header, Heading, Icon, Text, View } from '@fold-dev/core'
+import { App, Content, DarkModeToggle, Flexer, Header, Heading, Icon, Text, View } from '@fold-dev/core'
 import { project } from '../work.json'
 import { useEffect, useMemo } from 'react'
 import { setIsScrolled } from '@/util'
@@ -44,7 +44,7 @@ export const WorkLayout = (props: any) => {
                     <Heading color="inherit">Work</Heading>
                     <Text color="inherit">2004 - Present</Text>
                 </View>
-                <View width={30} />
+                <DarkModeToggle />
             </Header>
             <Content
                 row

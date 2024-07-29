@@ -3,6 +3,7 @@ import {
     App,
     Badge,
     Content,
+    DarkModeToggle,
     Flexer,
     Header,
     Heading,
@@ -61,7 +62,7 @@ export const ProjectLayout = (props: any) => {
                     <Heading color="inherit">{project_name}</Heading>
                     <Text color="inherit">{year}</Text>
                 </View>
-                <View width={30} />
+                <DarkModeToggle />
             </Header>
             {isPrivate && (
                 <Notification
@@ -98,17 +99,17 @@ export const ProjectLayout = (props: any) => {
                     <View className="project-info">
                         <Stack
                             direction="vertical"
-                            spacing="0.5rem">
+                            spacing="0.7rem">
                             <Heading
                                 as="h4"
-                                fontWeight="bold">
+                                colorToken="accent">
                                 Partner
                             </Heading>
                             <Text>{partner || 'None'}</Text>
                             <div />
                             <Heading
                                 as="h4"
-                                fontWeight="bold">
+                                colorToken="accent">
                                 Notes
                             </Heading>
                             <Heading as="h2">
@@ -117,21 +118,21 @@ export const ProjectLayout = (props: any) => {
                             <div />
                             <Heading
                                 as="h4"
-                                fontWeight="bold">
+                                colorToken="accent">
                                 Project Type
                             </Heading>
                             <Text>{project_type}</Text>
                             <div />
                             <Heading
                                 as="h4"
-                                fontWeight="bold">
+                                colorToken="accent">
                                 Role
                             </Heading>
                             <Text>{roles.join(', ')}</Text>
                             <div />
                             <Heading
                                 as="h4"
-                                fontWeight="bold">
+                                colorToken="accent">
                                 Tech & Skillset
                             </Heading>
                             <View
@@ -141,6 +142,8 @@ export const ProjectLayout = (props: any) => {
                                 style={{ flexWrap: 'wrap' }}>
                                 {tags.map((tag, index) => (
                                     <Badge
+                                        bgToken="base-700"
+                                        colorToken="base-300"
                                         variant="neutral"
                                         key={index}>
                                         {tag}
