@@ -1,0 +1,4954 @@
+{
+	"project": [
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/IgnitionGroup/paiment00.png",
+				"store-images/IgnitionGroup/paiment06.png",
+				"store-images/IgnitionGroup/paiment01.png",
+				"store-images/IgnitionGroup/paiment02.png",
+				"store-images/IgnitionGroup/paiment03.png",
+				"store-images/IgnitionGroup/paiment04.png",
+				"store-images/IgnitionGroup/paiment05.png"
+			],
+			"links": ["https://www.paimentplatform.com"],
+			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party API integrations.",
+			"partner": "Ignition Group",
+			"project_type": "Web App Dashboard",
+			"project": "Paiment POS",
+			"private": true,
+			"roles": [
+				"Development",
+				"Design",
+				"Deployment"
+			],
+			"slug": "paiment-pos",
+			"tags": [
+				"Fold",
+				"React",
+				"Docker",
+				"Fastify",
+				"RESTful API",
+				"NodeJS",
+				"TypeScript",
+				"Caddy",
+				"Product Design",
+				"DevOps",
+				"Development",
+				"Design"
+			],
+			"year": 2024
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/ignitiongroup.jpg",
+				"store-images/singles/ignitiongroup.jpg"
+			],
+			"links": ["https://www.ignitiongroup.co.za"],
+			"notes": "Product design, UX strategy & branding management for several of Ignition Group Platform's software products that are internally developed. ",
+			"partner": "Ignition Group",
+			"project_type": "SaaS Enterprise Platforms",
+			"project": "Ignition Group",
+			"private": true,
+			"roles": [
+				"UI/UX Design",
+				"User Journey planning",
+				"UX Audit",
+				"Consulting",
+				"Advising"
+			],
+			"slug": "ignitiongroup",
+			"tags": [
+				"Figma",
+				"UX audit / review",
+				"Product Design",
+				"Product Strategy",
+				"UX advising",
+				"UX persona development",
+				"Technical advisory"
+			],
+			"year": 2024
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Plural/logo.png",
+				"store-images/Plural/dashboard-1.png",
+				"store-images/Plural/dashboard-2.png",
+				"store-images/Plural/dashboard-3.png",
+				"store-images/Plural/dp-1.png",
+				"store-images/Plural/dp-2.png",
+				"store-images/Plural/web-1.png",
+				"store-images/Plural/web-2.png",
+				"store-images/Plural/web-3.png",
+				"store-images/Plural/web-4.png",
+				"store-images/Plural/web-5.png",
+				"store-images/Plural/web-6.png"
+			],
+			"links": ["https://plural.fi"],
+			"notes": "Design System/Tokens, dashboard, website & frontend components design & development.",
+			"partner": "Plural",
+			"project_type": "Web App, Logo & Website",
+			"project": "Plural",
+			"roles": [
+				"UI/UX Development & design",
+				"Frontend direction",
+				"Design System lead"
+			],
+			"slug": "plural",
+			"tags": [
+				"web3",
+				"Javascript",
+				"Typescript",
+				"Chakra",
+				"NextJS",
+				"React",
+				"SASS",
+				"BEM",
+				"Product design",
+				"Design Tokens",
+				"Design Systems",
+				"Figma"
+			],
+			"year": 2023
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/chat-app-boilerplate.png",
+				"store-images/singles/chat-app-boilerplate.png"
+			],
+			"links": ["https://github.com/joduplessis/chat-app-boilerplate"],
+			"notes": "Boilerplate code for a React-based chat app.",
+			"partner": "",
+			"project_type": "Code Boilerplate",
+			"project": "Chat App Boilerplate",
+			"roles": [
+				"UI/UX Development",
+				"Design"
+			],
+			"slug": "chat-app-boilerplate",
+			"tags": [
+				"OSS",
+				"Javascript",
+				"Typescript",
+				"React",
+				"SASS",
+				"BEM",
+				"React Router",
+				"Render optimizations",
+				"Media queries",
+				"Jest",
+				"Enzyme",
+				"Product design",
+				"Context API",
+				"Localization",
+				"Webpack",
+				"Bundle Splitting"
+			],
+			"year": 2018
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/fold.png",
+				"store-images/singles/fold.png"
+			],
+			"links": ["https://fold.dev","https://fold.dev/docs","https://github.com/fold-dev"],
+			"notes": "Zero-dependency React components for scaling your product to the next level.",
+			"partner": "",
+			"project_type": "React components",
+			"project": "Fold",
+			"roles": ["Design", "Development", "DevOps", "Strategy"],
+			"slug": "fold",
+			"tags": [
+				"React",
+				"CSS3",
+				"Monorepo",
+				"Typescript",
+				"React Hooks",
+				"React Context",
+				"Iconography",
+				"Storybook",
+				"Yarn",
+				"Figma",
+				"Design Tokens",
+				"Design System development",
+				"UI/UX development",
+				"DevOps",
+				"UX strategy",
+				"Product Design",
+				"NextJS",
+				"AWS",
+				"GitFlow",
+				"Frontend Architecture",
+				"Branding",
+				"Corporate Identity",
+				"Dev tools",
+				"Web Components",
+				"Design Patterns",
+				"NPM",
+				"GitHub",
+				"Verdaccio"
+			],
+			"year": 2024
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Adlastik/00.png",
+				"store-images/Adlastik/01.png",
+				"store-images/Adlastik/02.png",
+				"store-images/Adlastik/03.png",
+				"store-images/Adlastik/04.png",
+				"store-images/Adlastik/05.png",
+				"store-images/Adlastik/06.png",
+				"store-images/Adlastik/07.png",
+				"store-images/Adlastik/08.png",
+				"store-images/Adlastik/09.png",
+				"store-images/Adlastik/10.png"
+			],
+			"links": ["https://adlastik.com"],
+			"notes": "Frontend app for a German data migration platform. I was responsible for all of the logo design, branding & UI/UX engineering.",
+			"partner": "Adlastik",
+			"project_type": "SaaS App & Branding",
+			"project": "Adlastik",
+			"roles": ["Design", "Development", "DevOps", "Design System", "FE Architecture"],
+			"slug": "adlastik",
+			"tags": [
+				"React",
+				"React Router",
+				"CSS3",
+				"Monorepo",
+				"Typescript",
+				"React Hooks",
+				"React Context",
+				"Iconography",
+				"Sentry",
+				"Storybook",
+				"Yarn",
+				"Figma",
+				"Design Tokens",
+				"Design System development",
+				"UI/UX development",
+				"DevOps",
+				"UX strategy",
+				"Product Design",
+				"ViteJS",
+				"AWS",
+				"Auth0",
+				"GitFlow",
+				"Frontend Architecture",
+				"OAuth",
+				"Branding",
+				"Corporate Identity",
+				"NPM",
+				"GitHub",
+				"Data Migration",
+				"ELT",
+				"Netlify"
+			],
+			"year": 2023
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Adtriba/logo.png",
+				"store-images/Adtriba/logo.png",
+				"store-images/Adtriba/logos.png",
+				"store-images/Adtriba/core1.png",
+				"store-images/Adtriba/core2.png",
+				"store-images/Adtriba/core3.png",
+				"store-images/Adtriba/core4.png",
+				"store-images/Adtriba/core5.png",
+				"store-images/Adtriba/core6.1.png",
+				"store-images/Adtriba/core6.png",
+				"store-images/Adtriba/core7.png",
+				"store-images/Adtriba/core8.png",
+				"store-images/Adtriba/core9.png",
+				"store-images/Adtriba/core10.png",
+				"store-images/Adtriba/core11.png",
+				"store-images/Adtriba/core12.png",
+				"store-images/Adtriba/core13.png",
+				"store-images/Adtriba/core14.png",
+				"store-images/Adtriba/core15.png",
+				"store-images/Adtriba/core16.png",
+				"store-images/Adtriba/core17.png",
+				"store-images/Adtriba/core18.png",
+				"store-images/Adtriba/core19.png",
+				"store-images/Adtriba/core20.png",
+				"store-images/Adtriba/core21.png",
+				"store-images/Adtriba/core22.png",
+				"store-images/Adtriba/core23.png",
+				"store-images/Adtriba/figma1.png",
+				"store-images/Adtriba/figma2.png",
+				"store-images/Adtriba/figma3.png",
+				"store-images/Adtriba/v21.png",
+				"store-images/Adtriba/v22.png",
+				"store-images/Adtriba/23.png",
+				"store-images/Adtriba/v24.png",
+				"store-images/Adtriba/v25.png",
+				"store-images/Adtriba/v26.png",
+				"store-images/Adtriba/rise1.png",
+				"store-images/Adtriba/rise2.png",
+				"store-images/Adtriba/account1.png",
+				"store-images/Adtriba/account2.png",
+				"store-images/Adtriba/account3.png",
+				"store-images/Adtriba/account4.png",
+				"store-images/Adtriba/account5.png",
+				"store-images/Adtriba/account6.png",
+				"store-images/Adtriba/admin1.png",
+				"store-images/Adtriba/admin2.png",
+				"store-images/Adtriba/admin3.png",
+				"store-images/Adtriba/admin4.png",
+				"store-images/Adtriba/admin5.png",
+				"store-images/Adtriba/admin6.png",
+				"store-images/Adtriba/admin7.png",
+				"store-images/Adtriba/admin8.png",
+				"store-images/Adtriba/admin10.png",
+				"store-images/Adtriba/admin11.png",
+				"store-images/Adtriba/admin12.png",
+				"store-images/Adtriba/admin13.png",
+				"store-images/Adtriba/admin14.png",
+				"store-images/Adtriba/sphere1.png",
+				"store-images/Adtriba/sphere2.png",
+				"store-images/Adtriba/sphere3.png",
+				"store-images/Adtriba/sphere4.png",
+				"store-images/Adtriba/sphere5.png",
+				"store-images/Adtriba/sphere6.png",
+				"store-images/Adtriba/sphere7.png",
+				"store-images/Adtriba/sphere8.png",
+				"store-images/Adtriba/sphere9.png",
+				"store-images/Adtriba/storybook1.png",
+				"store-images/Adtriba/storybook2.png",
+				"store-images/Adtriba/storybook3.png",
+				"store-images/Adtriba/storybook4.png",
+				"store-images/Adtriba/storybook5.png",
+				"store-images/Adtriba/storybook6.png",
+				"store-images/Adtriba/storybook7.png",
+				"store-images/Adtriba/storybook8.png",
+				"store-images/Adtriba/storybook9.png",
+				"store-images/Adtriba/storybook10.png",
+				"store-images/Adtriba/storybook11.png",
+				"store-images/Adtriba/storybook12.png",
+				"store-images/Adtriba/website.png"
+			],
+			"links": ["https://adtriba.com"],
+			"notes": "Adtriba is a marketing attribution & machine learning company.",
+			"partner": "Adtriba",
+			"project_type": "B2B Platform",
+			"project": "Adtriba",
+			"roles": [
+				"Director UI/UX"
+			],
+			"slug": "adtriba",
+			"tags": [
+				"Logo Redesign",
+				"Javascript",
+				"Typescript",
+				"GitHub",
+				"React",
+				"Middleware",
+				"Figma",
+				"GitHub",
+				"Sentry",
+				"Responsive",
+				"GitHub Actions",
+				"GitFlow",
+				"SASS",
+				"BEM",
+				"Numeral",
+				"React Router",
+				"Auth0",
+				"Render optimizations",
+				"Media queries",
+				"Photoshop",
+				"Illustrator",
+				"Netlify",
+				"Multi-environment",
+				"Jest",
+				"Enzyme",
+				"Testing Library",
+				"Product design",
+				"Context API",
+				"Localization",
+				"Webpack",
+				"DayJS",
+				"Docker",
+				"Docker Compose",
+				"AWS",
+				"Offline caching",
+				"Storybook",
+				"React Hooks",
+				"Bundle Splitting",
+				"RESTful API",
+				"Swagger",
+				"Prettier",
+				"UI/UX Development",
+				"Frontend Tooling Development",
+				"Product Design",
+				"DevOps",
+				"Branding",
+				"Strategic",
+				"Hiring"
+			],
+			"year": 2022
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Bugable/00.png",
+				"store-images/Bugable/01.png",
+				"store-images/Bugable/02.png",
+				"store-images/Bugable/03.png",
+				"store-images/Bugable/04.png",
+				"store-images/Bugable/05.png",
+				"store-images/Bugable/06.png",
+				"store-images/Bugable/07.png",
+				"store-images/Bugable/08.png"
+			],
+			"links": ["https://github.com/joduplessis/buggable"],
+			"notes": "An embeddable bug reporting & screenshot creation component that integrates rrweb & video/webcam recording. Based on platforms like UserBack & UserSnap.",
+			"partner": "",
+			"project_type": "UI Component",
+			"project": "Buggable",
+			"roles": ["Design", "Development"],
+			"slug": "buggable",
+			"tags": [
+				"React",
+				"Preact",
+				"SVG",
+				"WebRTC",
+				"Webpack",
+				"Babel",
+				"html2canvas",
+				"prettier",
+				"rrweb"
+			],
+			"year": 2022
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HelloUser/00.png",
+				"store-images/HelloUser/01.png",
+				"store-images/HelloUser/02.png",
+				"store-images/HelloUser/03.png"
+			],
+			"links": [],
+			"notes": "Logo, website & app concept designs for a user analytics platform.",
+			"partner": "",
+			"project_type": "App & Website Concept",
+			"project": "HelloUser",
+			"roles": ["Design"],
+			"slug": "hellouser",
+			"tags": ["Affinity", "UX/UI", "Design", "Figma"],
+			"year": 2022
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/noom-tools.png",
+				"store-images/singles/noom-tools.png"
+			],
+			"links": ["https://github.com/joduplessis/noom-tools"],
+			"notes": "Noom Tools is an opinionated boilerplate for creating realtime & component driven JAMStack apps.",
+			"partner": "",
+			"project_type": "Code Boilerplate",
+			"project": "Noom Tools",
+			"roles": ["Development"],
+			"slug": "joduplessis-noomtools",
+			"tags": [
+				"Javascript",
+				"Typescript",
+				"GitHub",
+				"React",
+				"Middleware",
+				"Figma",
+				"GitHub",
+				"Jest",
+				"Sentry",
+				"Responsive",
+				"GitHub Actions",
+				"GitFlow",
+				"SASS",
+				"Webpack",
+				"DayJS",
+				"Docker",
+				"Docker Compose",
+				"AWS",
+				"Offline caching",
+				"Storybook",
+				"React Hooks",
+				"Bundle Splitting",
+				"RESTful API",
+				"Fastify",
+				"Swagger",
+				"websockets",
+				"Socket.io",
+				"Redis",
+				"JWT",
+				"Tenant security",
+				"Postmark",
+				"Secure S3",
+				"TypeOrm",
+				"React Testing Library",
+				"Supertest",
+				"Tap",
+				"PubSub",
+				"BEM",
+				"React Query",
+				"React Hooks"
+			],
+			"year": 2022
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/PDFasaurus/00.png",
+				"store-images/PDFasaurus/01.png",
+				"store-images/PDFasaurus/02.png",
+				"store-images/PDFasaurus/03.png",
+				"store-images/PDFasaurus/04.png",
+				"store-images/PDFasaurus/05.png"
+			],
+			"links": ["https://pdfasaurus.com", "https://github.com/PDFasaurus"],
+			"notes": "PDFasaurus let's you create PDF's using a WYSIWYG editor & an easy to use API. ",
+			"partner": "",
+			"project_type": "Micro-SaaS Product",
+			"project": "PDFasaurus",
+			"roles": ["Design", "Development", "DevOps"],
+			"slug": "pdfasaurus",
+			"tags": [
+				"Dokku",
+				"Angular",
+				"NestJS",
+				"PostgreSQL",
+				"SendGrid",
+				"JWT",
+				"Passport",
+				"TypeORM",
+				"Jest",
+				"ChartJS",
+				"CodeMirror",
+				"TSLib",
+				"Karma",
+				"Protractor",
+				"Typescript"
+			],
+			"year": 2020
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Teachfolk/00.png",
+				"store-images/Teachfolk/01.png",
+				"store-images/Teachfolk/02.png",
+				"store-images/Teachfolk/03.png",
+				"store-images/Teachfolk/04.png",
+				"store-images/Teachfolk/05.png",
+				"store-images/Teachfolk/06.png",
+				"store-images/Teachfolk/07.png",
+				"store-images/Teachfolk/08.png",
+				"store-images/Teachfolk/09.png",
+				"store-images/Teachfolk/10.png",
+				"store-images/Teachfolk/11.png",
+				"store-images/Teachfolk/12.png",
+				"store-images/Teachfolk/13.png",
+				"store-images/Teachfolk/14.png",
+				"store-images/Teachfolk/15.png",
+				"store-images/Teachfolk/16.png",
+				"store-images/Teachfolk/17.png",
+				"store-images/Teachfolk/18.png",
+				"store-images/Teachfolk/19.png",
+				"store-images/Teachfolk/20.png",
+				"store-images/Teachfolk/21.png"
+			],
+			"links": ["https://teachfolk.com"],
+			"notes": "Teachfolk serves as a Learning Platform designed to facilitate the creation and instruction of online courses. Easily generate, upload, and conduct classes while efficiently overseeing and organizing learning within your organization.",
+			"partner": "Yreeka",
+			"project_type": "SaaS Product",
+			"project": "Teachfolk",
+			"roles": ["Design", "Development", "DevOps"],
+			"slug": "teachfolk",
+			"tags": [
+				"Sequelize.js",
+				"Angular 7",
+				"Typescript",
+				"Observables",
+				"Web Fonts",
+				"REST",
+				"NgRx",
+				"EMQ",
+				"Digital Ocean",
+				"DO Spaces",
+				"DO Postgres",
+				"S3 API",
+				"Swagger",
+				"Continuous Deployment",
+				"GitLab CI",
+				"Bootstrap",
+				"Heroku",
+				"Docker",
+				"ExpressJS",
+				"JSDoc",
+				"Passport.js",
+				"NGX Charts",
+				"D3",
+				"Chat messaging",
+				"Surveys",
+				"Javascript",
+				"NodeJS",
+				"PostgreSQL",
+				"GitFlow",
+				"Ansible",
+				"MQTT",
+				"Messaging driven architecture"
+			],
+			"year": 2020
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/YackNew/00.png",
+				"store-images/YackNew/01.png",
+				"store-images/YackNew/02.png",
+				"store-images/YackNew/03.png",
+				"store-images/YackNew/04.png",
+				"store-images/YackNew/05.png",
+				"store-images/YackNew/06.png",
+				"store-images/YackNew/07.png",
+				"store-images/YackNew/08.png",
+				"store-images/YackNew/09.png",
+				"store-images/YackNew/10.png",
+				"store-images/YackNew/11.png"
+			],
+			"links": ["https://yack.app", "https://github.com/joduplessis/yack"],
+			"notes": "Yack is basic helpdesk dashboard & popup widget users can embed in their website. ",
+			"partner": "Yack",
+			"project_type": "Micro-SaaS Product",
+			"project": "Yack",
+			"roles": ["Design", "Development", "DevOps"],
+			"slug": "yack",
+			"tags": [
+				"Ansible",
+				"Angular",
+				"NestJS",
+				"PostgreSQL",
+				"SendGrid",
+				"JWT",
+				"Passport",
+				"TypeORM",
+				"Jest",
+				"TSLib",
+				"WebSockets",
+				"Typescript"
+			],
+			"year": 2019
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/ATF/00.png",
+				"store-images/ATF/01.png",
+				"store-images/ATF/02.png",
+				"store-images/ATF/03.png",
+				"store-images/ATF/04.png",
+				"store-images/ATF/05.png"
+			],
+			"links": ["https://artisantrainingfoundation.com"],
+			"notes": "Wordpress Website",
+			"partner": "Yreeka",
+			"project_type": "Wordpress Website",
+			"project": "Artisan Training Foundation",
+			"roles": ["Wordpress Development"],
+			"slug": "atf",
+			"tags": ["Wordpress", "PHP", "CSS", "Javascript"],
+			"year": 2019
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Weekday/00.png",
+				"store-images/Weekday/01.png",
+				"store-images/Weekday/02.png",
+				"store-images/Weekday/03.png",
+				"store-images/Weekday/04.png",
+				"store-images/Weekday/05.png",
+				"store-images/Weekday/06.png",
+				"store-images/Weekday/07.png",
+				"store-images/Weekday/08.png",
+				"store-images/Weekday/09.png",
+				"store-images/Weekday/10.png",
+				"store-images/Weekday/11.png",
+				"store-images/Weekday/12.png",
+				"store-images/Weekday/13.png",
+				"store-images/Weekday/14.png",
+				"store-images/Weekday/15.png",
+				"store-images/Weekday/16.png",
+				"store-images/Weekday/17.png",
+				"store-images/Weekday/18.png",
+				"store-images/Weekday/19.png",
+				"store-images/Weekday/20.png",
+				"store-images/Weekday/21.png",
+				"store-images/Weekday/22.png",
+				"store-images/Weekday/23.png",
+				"store-images/Weekday/24.png",
+				"store-images/Weekday/25.png",
+				"store-images/Weekday/26.png",
+				"store-images/Weekday/27.png",
+				"store-images/Weekday/28.png",
+				"store-images/Weekday/29.png",
+				"store-images/Weekday/30.png",
+				"store-images/Weekday/31.png",
+				"store-images/Weekday/32.png"
+			],
+			"links": ["https://github.com/joduplessis/weekday", "https://weekday.work"],
+			"notes": "Weekday is a self hosted B2B messaging & project collaboration app. With web, Android, iOS & desktop apps.",
+			"partner": "Weekday",
+			"project_type": "SaaS Product",
+			"project": "Weekday",
+			"roles": [
+				"Architecture",
+				"Design",
+				"Strategy",
+				"Development",
+				"DevOps"
+			],
+			"slug": "weekday",
+			"tags": [
+				"React",
+				"Babel",
+				"Redux",
+				"Middleware",
+				"Express",
+				"Swagger",
+				"Node Child Processes",
+				"Jimp",
+				"JSDoc",
+				"JWT",
+				"SocketIO",
+				"Font Awesome",
+				"Sentry",
+				"Gulp",
+				"MongoDB",
+				"GraphQL",
+				"REST",
+				"Jest",
+				"Enzyme",
+				"App store",
+				"OAuth",
+				"Dev platform",
+				"Electron",
+				"Cordova",
+				"Responsive",
+				"TravisCI",
+				"GitFlow",
+				"Styled Components",
+				"Prop Types",
+				"Markdown",
+				"Webpack",
+				"Chroma-js",
+				"Moment",
+				"RxJS",
+				"Docker",
+				"Docker Compose",
+				"AWS S3",
+				"AWS Lambda",
+				"Jimp",
+				"AWS SQS/SES",
+				"AWS Route53",
+				"Cloudfront",
+				"CircleCI",
+				"Ansible",
+				"Web Workers / Service Workers",
+				"Offline caching",
+				"Lazy loading (React suspense)",
+				"NextJS",
+				"Storybook",
+				"Typescript",
+				"React Hooks",
+				"Bundle Splitting",
+				"OneSignal",
+				"MQTT",
+				"RabbitMQ",
+				"Event Sourced Architecture",
+				"Google Drive integration",
+				"Zapier integration",
+				"Lots of other things - see project on Github"
+			],
+			"year": 2020
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/ChowNew/01.png",
+				"store-images/ChowNew/02.png",
+				"store-images/ChowNew/03.png",
+				"store-images/ChowNew/04.png"
+			],
+			"links": ["http://joduplessis.com/store/CHOW/Concept/"],
+			"notes": "Find Nutrition & Allergen Info Easily. It's peace of mind nutrition. ",
+			"partner": "Chow",
+			"project_type": "Mobile App Concept",
+			"project": "Chow v2",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "chow-new",
+			"tags": ["UX", "UI", "Affinity"],
+			"year": 2019
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/InsuranceClaimsAfrica/01.png",
+				"store-images/InsuranceClaimsAfrica/01.png",
+				"store-images/InsuranceClaimsAfrica/02.jpg"
+			],
+			"links": null,
+			"notes": "Web app concept for an incoming news report aggregator",
+			"partner": "Hatch",
+			"project_type": "Software Product Concept",
+			"project": "Insurance Claims Africa",
+			"roles": ["Design", "Strategy"],
+			"slug": "insurance-claims-africa",
+			"tags": ["UX", "UI", "Affinity"],
+			"year": 2018
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Unsilo/01.png",
+				"store-images/Unsilo/02.png",
+				"store-images/Unsilo/03.png",
+				"store-images/Unsilo/04.png",
+				"store-images/Unsilo/05.png",
+				"store-images/Unsilo/06.png"
+			],
+			"links": ["https://unsilo.me"],
+			"notes": "An integrated solution to unify your business needs. We took ownership of product development & technical direction after it was built offshore.",
+			"partner": "Yreeka",
+			"project_type": "SaaS Product",
+			"project": "UNSILO.me",
+			"roles": ["DevOps", "Development", "Technical Direction"],
+			"slug": "unsilo",
+			"tags": [
+				"PHP",
+				"Apache",
+				"Laravel",
+				"Bootstrap",
+				"VueJS",
+				"ES6/Babel",
+				"MySQL",
+				"Digital Ocean Spaces",
+				"HAProxy",
+				"SendGrid",
+				"Google Cloud",
+				"DropBox API",
+				"CI/CD",
+				"Docker",
+				"MailChimp API",
+				"PayFast",
+				"REST API"
+			],
+			"year": 2018
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Wami/00.png",
+				"store-images/Wami/02.png",
+				"store-images/Wami/03.png",
+				"store-images/Wami/04.png",
+				"store-images/Wami/05.png",
+				"store-images/Wami/06.png",
+				"store-images/Wami/07.png",
+				"store-images/Wami/08.png",
+				"store-images/Wami/09.png",
+				"store-images/Wami/10.png",
+				"store-images/Wami/web01.png",
+				"store-images/Wami/web02.png",
+				"store-images/Wami/web03.png",
+				"store-images/Wami/web04.png",
+				"store-images/Wami/web05.png",
+				"store-images/Wami/web06.png",
+				"store-images/Wami/web07.png",
+				"store-images/Wami/web08.png",
+				"store-images/Wami/web09.png"
+			],
+			"links": [
+				"https://joduplessis.github.io/wami",
+				"https://github.com/joduplessis/wami"
+			],
+			"notes": "Wami is an open source virtual consultation, coaching & messaging platform. Whether you are dietitian, therapist or personal trainer - you can use Wami to connect with your clients. This project was a personal project of myself and a friend where attempted to get funding by building a workable MVP.",
+			"partner": "",
+			"project_type": "Mobile SaaS Platform",
+			"project": "Wami",
+			"roles": ["DevOps", "Design", "Development"],
+			"slug": "wami",
+			"tags": [
+				"Open Source",
+				"AWS Cognito (migrated off of)",
+				"AWS S3",
+				"AWS SNS",
+				"ES6",
+				"TypeScript (web)",
+				"HapiJS",
+				"GraphQL",
+				"Mongo",
+				"Mongoose",
+				"Heroku",
+				"Nginx",
+				"HAProxy",
+				"NodeJS",
+				"React Native",
+				"React",
+				"Redux",
+				"Apollo",
+				"GraphQL",
+				"Android",
+				"iOS",
+				"TestFlight",
+				"Development",
+				"CD",
+				"Sentry",
+				"Reverse geo location",
+				"Google Cloud API",
+				"MQTT",
+				"EMQ",
+				"Realm",
+				"REST API",
+				"PODs (iOS)",
+				"WebRTC",
+				"Peach Payments",
+				"Tokenization",
+				"Instant Messaging"
+			],
+			"year": 2019
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Beiersdorf/00.png",
+				"store-images/Beiersdorf/01.png",
+				"store-images/Beiersdorf/02.png",
+				"store-images/Beiersdorf/03.png",
+				"store-images/Beiersdorf/04.png",
+				"store-images/Beiersdorf/05.png",
+				"store-images/Beiersdorf/06.png",
+				"store-images/Beiersdorf/07.png",
+				"store-images/Beiersdorf/08.png",
+				"store-images/Beiersdorf/09.png",
+				"store-images/Beiersdorf/10.png",
+				"store-images/Beiersdorf/11.png",
+				"store-images/Beiersdorf/12.png",
+				"store-images/Beiersdorf/13.png",
+				"store-images/Beiersdorf/14.png",
+				"store-images/Beiersdorf/15.png"
+			],
+			"links": ["https://github.com/joduplessis/beiersdorf-social-pitch"],
+			"notes": "Concept pitch for building a consumer insights platform where they can engage with their consumer in a more security-aware space.",
+			"partner": "Beiersdorf",
+			"project_type": "Social Platform Concept",
+			"project": "Beiersdorf Consumer Insights Platform",
+			"roles": ["Design", "Strategy"],
+			"private": true,
+			"slug": "beiersdorf",
+			"tags": ["UX", "UI", "HTML", "CSS", "Affinity"],
+			"year": 2018
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CHOW/v2/00.png",
+				"store-images/CHOW/v2/01.jpg",
+				"store-images/CHOW/v2/02.jpg",
+				"store-images/CHOW/v2/03.jpg",
+				"store-images/CHOW/v2/04.jpg",
+				"store-images/CHOW/v2/05.jpg",
+				"store-images/CHOW/v2/06.jpg"
+			],
+			"links": [
+				"https://itunes.apple.com/us/app/chow-approved/id1166458479?ls=1&mt=8",
+				"https://play.google.com/store/apps/details?id=com.chow.chow.chow"
+			],
+			"notes": "Update of the Chow mobile apps using React Native & Firebase.",
+			"partner": "Chow",
+			"project_type": "Mobile Apps",
+			"project": "Chow v1.5",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "chow-next",
+			"tags": [
+				"ES6",
+				"React Native",
+				"React",
+				"Redux",
+				"Firebase",
+				"Android",
+				"iOS",
+				"Development",
+				"CD",
+				"Expo",
+				"Sentry",
+				"Reverse geo location",
+				"Google Cloud"
+			],
+			"year": 2018
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HCSS-Otees/00.png",
+				"store-images/HCSS-Otees/01.png",
+				"store-images/HCSS-Otees/02.png",
+				"store-images/HCSS-Otees/03.png",
+				"store-images/HCSS-Otees/04.png",
+				"store-images/HCSS-Otees/05.png",
+				"store-images/HCSS-Otees/06.png",
+				"store-images/HCSS-Otees/07.png",
+				"store-images/HCSS-Otees/08.png",
+				"store-images/HCSS-Otees/09.jpg"
+			],
+			"links": [
+				"https://www.oteescolouryourworld.co.za/",
+				"https://github.com/joduplessis/FlexVG"
+			],
+			"notes": "SVG editing web app built as part of a promotional campaign. Users are able to color in a SVG, manage designs & submit them to stand a chance of having their design printed on an Otees box.",
+			"partner": "Hirt & Carter Software Solutions",
+			"project_type": "Web App & HTML5/SVG Interactive",
+			"project": "Otees Colour Your World",
+			"roles": ["Development", "Wireframing", "Technical Direction"],
+			"slug": "hcss-otees",
+			"tags": [
+				"Angular.io",
+				"Typescript",
+				"NgRx",
+				"SVG",
+				"Firebase",
+				"Canvas",
+				"Google Cloud",
+				"API",
+				"NodeJS",
+				"Express",
+				"Development",
+				"Wireframing",
+				"Sentry",
+				"Cassandra"
+			],
+			"year": 2018
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HCSS-IRVP/00.png",
+				"store-images/HCSS-IRVP/01.png",
+				"store-images/HCSS-IRVP/02.png"
+			],
+			"links": [
+				"https://play.google.com/store/apps/dev?id=5853310209387831905"
+			],
+			"notes": "Digital catalogue mobile app for SAB. Ommited some more sensitive screens.",
+			"partner": "Hirt & Carter Software Solutions",
+			"project_type": "Mobile Apps",
+			"project": "SAB IRVP",
+			"roles": ["Co-Development", "Technical Direction"],
+			"slug": "hcss-irvp",
+			"tags": [
+				"ES6",
+				"React Native",
+				"React",
+				"Redux",
+				"Android",
+				"iOS",
+				"Development",
+				"CD",
+				"Expo",
+				"Sentry"
+			],
+			"year": 2018
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Luna/00.jpg",
+				"store-images/Luna/01.png",
+				"store-images/Luna/02.png",
+				"store-images/Luna/03.png",
+				"store-images/Luna/04.png",
+				"store-images/Luna/05.png",
+				"store-images/Luna/06.png"
+			],
+			"links": [""],
+			"notes": "Luna reseller system is a web app that enables Luna to manage resellers & orders.",
+			"partner": "Yreeka",
+			"project_type": "Web App",
+			"project": "Luna",
+			"roles": ["Development", "Design", "Technical Direction"],
+			"slug": "luna",
+			"tags": [
+				"Typescript",
+				"React",
+				"Redux",
+				"Symfony",
+				"PHP",
+				"Javascript",
+				"Webpack",
+				"SCSS",
+				"JAM",
+				"API",
+				"Authentication",
+				"Continuous Delivery",
+				"GitLab CI",
+				"Docker",
+				"Apiary"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Hoola/00.png",
+				"store-images/Hoola/01.png",
+				"store-images/Hoola/02.png",
+				"store-images/Hoola/03.png",
+				"store-images/Hoola/04.png",
+				"store-images/Hoola/05.png",
+				"store-images/Hoola/06.png",
+				"store-images/Hoola/07.png",
+				"store-images/Hoola/08.png",
+				"store-images/Hoola/09.png",
+				"store-images/Hoola/10.png",
+				"store-images/Hoola/11.png",
+				"store-images/Hoola/12.png",
+				"store-images/Hoola/13.png",
+				"store-images/Hoola/14.png",
+				"store-images/Hoola/15.png",
+				"store-images/Hoola/16.png",
+				"store-images/Hoola/17.png",
+				"store-images/Hoola/18.png",
+				"store-images/Hoola/19.png",
+				"store-images/Hoola/20.png",
+				"store-images/Hoola/21.png"
+			],
+			"links": [
+				"https://wami.app",
+				"https://github.com/joduplessis/wami",
+				"https://joduplessis.com/work/wami"
+			],
+			"notes": "Original React Native concept & design for Wami (initial name was a decision between Hoola & Yack).",
+			"partner": "",
+			"project_type": "SaaS Platform",
+			"project": "Yack / Hoola",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "hoola",
+			"tags": ["Affinity", "UX/UI", "Design"],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HCSS-THIRSTI/00.png",
+				"store-images/HCSS-THIRSTI/01.png",
+				"store-images/HCSS-THIRSTI/02.png",
+				"store-images/HCSS-THIRSTI/03.png",
+				"store-images/HCSS-THIRSTI/04.png",
+				"store-images/HCSS-THIRSTI/05.png",
+				"store-images/HCSS-THIRSTI/06.png",
+				"store-images/HCSS-THIRSTI/07.png",
+				"store-images/HCSS-THIRSTI/08.png",
+				"store-images/HCSS-THIRSTI/09.png",
+				"store-images/HCSS-THIRSTI/10.jpg"
+			],
+			"links": ["https://github.com/joduplessis/Geronimo"],
+			"notes": "THIRSTI Facebook Messenger bot was built in NodeJS, Express & MongoDB. It lets users schedule water reminders & engage with tips. This project is based off of Geronimo.",
+			"partner": "Hirt & Carter Software Solutions",
+			"project_type": "Messenger App & Bot",
+			"project": "THIRSTI Messenger",
+			"roles": ["Development", "Technical Direction"],
+			"slug": "hcss-thirsti",
+			"tags": [
+				"API",
+				"NodeJS",
+				"MongoDB",
+				"Facebook Messenger",
+				"Bot",
+				"Express",
+				"NodeJS child process",
+				"API"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HCSS-Spar/00.png",
+				"store-images/HCSS-Spar/01.png",
+				"store-images/HCSS-Spar/02.png"
+			],
+			"links": ["https://github.com/joduplessis/Relic"],
+			"notes": "USSD app, API & Angular dashboard for a billboard campaign.",
+			"partner": "Hirt & Carter Software Solutions",
+			"project_type": "USSD & Web App",
+			"project": "Spar",
+			"roles": ["Development", "Technical Direction"],
+			"slug": "hcss-spar-ussd",
+			"tags": [
+				"Angular.io",
+				"Typescript",
+				"MongoDB",
+				"Express",
+				"NodeJS",
+				"USSD",
+				"SOAP",
+				"Development",
+				"Wireframing",
+				"API",
+				"JWT Auth"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HCSS-OneStop/00.png",
+				"store-images/HCSS-OneStop/01.png",
+				"store-images/HCSS-OneStop/02.png",
+				"store-images/HCSS-OneStop/03.png",
+				"store-images/HCSS-OneStop/04.png",
+				"store-images/HCSS-OneStop/05.png"
+			],
+			"links": [
+				"https://play.google.com/store/apps/dev?id=5853310209387831905"
+			],
+			"notes": "React Native mobile app, enabling Hirt & Carter reps to keep track of meetings.",
+			"partner": "Hirt & Carter Software Solutions",
+			"project_type": "Mobile Apps",
+			"project": "OneStop",
+			"roles": ["Co-Development", "Technical Direction"],
+			"slug": "hcss-onestop",
+			"tags": [
+				"ES6",
+				"React Native",
+				"React",
+				"Redux",
+				"Firebase",
+				"Android",
+				"iOS",
+				"Development",
+				"CD",
+				"Expo",
+				"Sentry"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HCSS-GuestApp/00.png",
+				"store-images/HCSS-GuestApp/01.png",
+				"store-images/HCSS-GuestApp/02.png",
+				"store-images/HCSS-GuestApp/03.png",
+				"store-images/HCSS-GuestApp/04.png",
+				"store-images/HCSS-GuestApp/05.png",
+				"store-images/HCSS-GuestApp/06.png"
+			],
+			"links": [
+				"https://play.google.com/store/apps/dev?id=5853310209387831905"
+			],
+			"notes": "Inspection app for reps from BuildIt, includes task management & social elements. Core development by Dale French (KZN), assisted in technical issues & dev on initial authentication system.",
+			"partner": "Hirt & Carter Software Solutions",
+			"project_type": "Mobile Apps",
+			"project": "BuildIt Inspection",
+			"roles": ["Co-Development", "Technical Support", "Technical Advising"],
+			"slug": "hcss-buildit",
+			"tags": [
+				"ES6",
+				"React Native",
+				"React",
+				"Redux",
+				"Android",
+				"iOS",
+				"Development",
+				"Wireframing",
+				"CD",
+				"Expo",
+				"Sentry"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HCSS-BrandUp/00.png",
+				"store-images/HCSS-BrandUp/01.png",
+				"store-images/HCSS-BrandUp/02.png",
+				"store-images/HCSS-BrandUp/03.png"
+			],
+			"links": [
+				"https://play.google.com/store/apps/dev?id=5853310209387831905"
+			],
+			"notes": "Mobile app for Hirt & Carter for keeping track of installations in store. Includes scanning QR codes & image management. Ommited some more sensitive screens.",
+			"partner": "Hirt & Carter Software Solutions",
+			"project_type": "Mobile Apps",
+			"project": "BrandUp",
+			"roles": [
+				"Co-Development",
+				"Technical Support",
+				"Technical Direction (mobile)"
+			],
+			"slug": "hcss-brandup",
+			"tags": [
+				"ES6",
+				"React Native",
+				"React",
+				"Redux",
+				"Android",
+				"iOS",
+				"Development",
+				"CD",
+				"Expo",
+				"Sentry"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": ["store-images/Seymour/00.jpg", "store-images/Seymour/01.png"],
+			"links": ["https://github.com/joduplessis/seymour"],
+			"notes": "Seymour is an easy to use HTML/CSS scaffolding tool written in Golang",
+			"partner": "",
+			"project_type": "CLI Tool",
+			"project": "Seymour",
+			"roles": ["Development"],
+			"slug": "seymour",
+			"tags": ["Golang", "HTML", "CSS"],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Hive/Twitter/00.jpg",
+				"store-images/Hive/Twitter/01.jpg"
+			],
+			"links": ["https://github.com/joduplessis/hive-twitter"],
+			"notes": "Sales conference Twitter feed for Hive Connect.",
+			"partner": "Hive",
+			"project_type": "Web App & Interative",
+			"project": "Hive Live Event",
+			"roles": ["Development", "design"],
+			"slug": "hive-twitter",
+			"tags": ["Node", "Heroku", "ES6", "Javascript"],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Hive/SAB/00.jpg",
+				"store-images/Hive/SAB/01.png",
+				"store-images/Hive/SAB/02.png",
+				"store-images/Hive/SAB/03.png"
+			],
+			"links": ["https://github.com/joduplessis/sab-event-app"],
+			"notes": "Realtime Ember & Firebase web app to draw prize winners & check guests into the SAB Extravaganza event.",
+			"partner": "Hive",
+			"project_type": "Web App & HTML5 Interactive",
+			"project": "SAB Extravaganza",
+			"roles": ["Development", "design"],
+			"slug": "hive-sab",
+			"tags": [
+				"Ember",
+				"WebSocket",
+				"Javascript",
+				"Heroku",
+				"Realtime",
+				"Continuous Delivery"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": ["store-images/Max/00.jpg", "store-images/Max/01.png"],
+			"links": [
+				"https://bot.joduplessis.com",
+				"https://github.com/joduplessis/max"
+			],
+			"notes": "Max is an open source bot experiment that talks back, helps you shop Amazon & identify images using Google Vision API. It is built with BotBuilder, Azure, NodeJS & Google.",
+			"partner": "",
+			"project_type": "Bot",
+			"project": "Max",
+			"roles": ["Development", "design"],
+			"slug": "max",
+			"tags": [
+				"Bot",
+				"Microsoft BotBuilder",
+				"Node",
+				"ES6",
+				"Google Vision",
+				"LUIS",
+				"Natural Language",
+				"Heroku",
+				"Continuous Delivery",
+				"Scraping"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Erudio/00.jpg",
+				"store-images/Erudio/01.png",
+				"store-images/Erudio/02.png"
+			],
+			"links": ["https://www.erudio.global/"],
+			"notes": "Erudio Global is the industry leader of ISO related training and coaching services. We helped migrate to new version of Moodle and also assisted in creating custom theme.",
+			"partner": "Michael Griffiths",
+			"project_type": "LMS",
+			"project": "Erudio",
+			"roles": ["Development"],
+			"slug": "erudio",
+			"tags": ["Moodle", "PHP", "CSS", "MySQL", "Docker"],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/ASATA/Members/00.jpg",
+				"store-images/ASATA/Members/01.jpg"
+			],
+			"links": [""],
+			"notes": "Members portal that ASATA use to manage up to 1500 members & integration into Zurmo & MailChimp. Due to the data being sensitive, we unfortunately don't have any screenshots.",
+			"partner": "Yreeka",
+			"project_type": "Web App",
+			"project": "ASATA Member Portal",
+			"roles": ["Development", "Technical Direction"],
+			"slug": "asata-members",
+			"tags": [
+				"Yii 2",
+				"PHP",
+				"MySQL",
+				"MailChimp API",
+				"Docker",
+				"Jquery",
+				"Bootstrap"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Culp/00.jpg",
+				"store-images/Culp/01.png",
+				"store-images/Culp/02.png",
+				"store-images/Culp/03.png"
+			],
+			"links": ["http://www.culp.co.za", "http://culp.co.za/ctisurvey/"],
+			"notes": "Specialized HR survey development for assessment.",
+			"partner": "Yreeka",
+			"project_type": "Wordpress Website",
+			"project": "CULP",
+			"roles": ["Design", "Development"],
+			"slug": "culp",
+			"tags": [
+				"Wordpress",
+				"PHP",
+				"MySQL",
+				"Javascript",
+				"Animation",
+				"Jquery",
+				"Vanilla JS",
+				"MailChimp integration"
+			],
+			"year": 2017
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/fis.png",
+				"store-images/singles/fis.png"
+			],
+			"links": ["https://fisglobal.com"],
+			"notes": "FIS is a global Fintech company. I worked on the globally distributed AngularJS component library team. ",
+			"partner": "FIS",
+			"project_type": "UI Components",
+			"project": "FIS",
+			"roles": ["UI/UX Development"],
+			"slug": "fis",
+			"private": true,
+			"tags": [
+				"Javascript",
+				"Typescript",
+				"Stash",
+				"AngularJS",
+				"jQuery",
+				"Javascript",
+				"Grunt",
+				"Karma",
+				"Testing Library",
+				"CI/CD"
+			],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/VAWaterfront/00.jpg",
+				"store-images/VAWaterfront/01.jpg",
+				"store-images/VAWaterfront/02.jpg",
+				"store-images/VAWaterfront/03.jpg",
+				"store-images/VAWaterfront/04.jpg",
+				"store-images/VAWaterfront/05.jpg",
+				"store-images/VAWaterfront/06.jpg",
+				"store-images/VAWaterfront/07.jpg",
+				"store-images/VAWaterfront/08.jpg"
+			],
+			"links": [""],
+			"notes": "Pitch designs for the VA Waterfront intranet project. Accompanying images for the website",
+			"partner": "Yreeka",
+			"project_type": "Web App Concept",
+			"project": "V&A Waterfront",
+			"roles": ["Design"],
+			"slug": "va-waterfront",
+			"tags": ["Design", "UX", "UI"],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Play/hero.png",
+				"store-images/Play/18.png",
+				"store-images/Play/19.png",
+				"store-images/Play/20.png",
+				"store-images/Play/21.png",
+				"store-images/Play/22.png",
+				"store-images/Play/23.png",
+				"store-images/Play/24.png",
+				"store-images/Play/25.png",
+				"store-images/Play/26.png",
+				"store-images/Play/27.png",
+				"store-images/Play/28.png",
+				"store-images/Play/29.png",
+				"store-images/Play/30.png",
+				"store-images/Play/31.png",
+				"store-images/Play/32.png",
+				"store-images/Play/33.png",
+				"store-images/Play/34.png",
+				"store-images/Play/35.png",
+				"store-images/Play/36.png",
+				"store-images/Play/02.jpg",
+				"store-images/Play/03.jpg",
+				"store-images/Play/04.jpg",
+				"store-images/Play/05.jpg",
+				"store-images/Play/06.jpg",
+				"store-images/Play/07.jpg",
+				"store-images/Play/08.jpg",
+				"store-images/Play/09.jpg",
+				"store-images/Play/10.jpg",
+				"store-images/Play/11.jpg",
+				"store-images/Play/12.jpg",
+				"store-images/Play/13.jpg",
+				"store-images/Play/14.jpg",
+				"store-images/Play/15.jpg",
+				"store-images/Play/16.jpg",
+				"store-images/Play/17.jpg",
+				"store-images/Play/00.jpg"
+			],
+			"links": [
+				"https://joduplessis.com/playfirst",
+				"https://github.com/joduplessis/playfirst"
+			],
+			"notes": "City building educational game & LMS featuring drag/drop buildings, mini-games, displaying in-game web content & path finding cars with custom physics. All screenshots are in-game.",
+			"partner": "Yreeka / others",
+			"project_type": "3D LMS",
+			"project": "Playfirst",
+			"roles": ["DevOps", "Development", "Design", "Strategy"],
+			"slug": "playfirst",
+			"tags": [
+				"Unity3D",
+				"CodeIgnitor",
+				"React",
+				"Bootstrap",
+				"Design",
+				"PHP",
+				"ES6",
+				"Webpack",
+				"C#",
+				"3D",
+				"Java",
+				"Multiplayer",
+				"MySQL",
+				"Continuous Delivery",
+				"Docker"
+			],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/ASATA/Website/00.jpg",
+				"store-images/ASATA/Website/01.png",
+				"store-images/ASATA/Website/02.png"
+			],
+			"links": [""],
+			"notes": "Established in 1956, the Association of Southern African Travel Agents is a representative forum that promotes professional service in the travel industry for both members and their clients.",
+			"partner": "Yreeka",
+			"project_type": "Wordpress Website",
+			"project": "ASATA",
+			"roles": ["Development"],
+			"slug": "asata-website",
+			"tags": ["Wordpress", "PHP", "MySQL", "Javascript", "CSS"],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/ASATA/Classifieds/00.jpg",
+				"store-images/ASATA/Classifieds/01.png",
+				"store-images/ASATA/Classifieds/02.png",
+				"store-images/ASATA/Classifieds/03.png",
+				"store-images/ASATA/Classifieds/04.png"
+			],
+			"links": [""],
+			"notes": "Classifieds is a bespoke web app ASATA members can leverage to post stock that needs to move quickly.",
+			"partner": "Yreeka",
+			"project_type": "Web App",
+			"project": "ASATA Classifieds",
+			"roles": ["Development", "design"],
+			"slug": "asata-classifieds",
+			"tags": [
+				"PHP",
+				"CodeIgnitor",
+				"MySQL",
+				"React",
+				"Webpack",
+				"ES6",
+				"LESS",
+				"Docker",
+				"Continuous Delivery"
+			],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/ASATA/APP/01.jpg",
+				"store-images/ASATA/APP/01.jpg"
+			],
+			"links": [""],
+			"notes": "Concept for the ASATA Professional Programme learning management system",
+			"partner": "Yreeka",
+			"project_type": "Web App Concept",
+			"project": "ASATA Professional Programme",
+			"roles": ["Design"],
+			"slug": "asata-app",
+			"tags": ["Learnpress", "Design", "Photoshop"],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Scicorp/00.jpg",
+				"store-images/Scicorp/01.png",
+				"store-images/Scicorp/02.png",
+				"store-images/Scicorp/03.png"
+			],
+			"links": ["http://scicorplab.com/"],
+			"notes": "Leading, dynamic, inter-disciplinary life sciences laboratories.",
+			"partner": "Cassandra Kidson",
+			"project_type": "Wordpress Website",
+			"project": "SciCorp",
+			"roles": ["Development"],
+			"slug": "scicorp",
+			"tags": ["Wordpress", "PHP", "MySQL", "Javascript"],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/Website/02.jpg",
+				"store-images/Mrphome/Website/01.jpg",
+				"store-images/Mrphome/Website/02.jpg",
+				"store-images/Mrphome/Website/03.jpg",
+				"store-images/Mrphome/Website/04.jpg"
+			],
+			"links": ["http://www.mrphome.com/en_za/"],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "Website",
+			"project": "Mrphome",
+			"roles": ["Development"],
+			"slug": "mrphomewebsite",
+			"tags": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Maintenence",
+				"Updates",
+				"CDN",
+				"PHP",
+				"Oracle ATG",
+				"BCC",
+				"Jquery"
+			],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Micron/01.jpg",
+				"store-images/Micron/02.jpg",
+				"store-images/Micron/03.jpg",
+				"store-images/Micron/04.jpg"
+			],
+			"links": [
+				"https://github.com/joduplessis/micron",
+				"http://joduplessis.com/store/Micron/public/"
+			],
+			"notes": "Micron is a simple and straightforward PHP MVC framework that uses 3rd party libraries (Plates, Laravel's Eloquent, etc.). Username: admin & password: admin",
+			"partner": "",
+			"project_type": "PHP Framework",
+			"project": "Micron MVC",
+			"roles": ["Development", "design"],
+			"slug": "micronmvc",
+			"tags": [
+				"Ongoing development",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Bootstrap",
+				"Composer",
+				"Bower",
+				"Plates",
+				"Eloquent",
+				"Carbon",
+				"MySQL"
+			],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/logocargocult.png",
+				"store-images/singles/logocargocult.png"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "Branding",
+			"project": "Cargo Cult Logo",
+			"roles": ["Design"],
+			"slug": "cargocult",
+			"tags": ["Affinity Design"],
+			"year": 2016
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Crafted/00.jpg",
+				"store-images/Crafted/01.jpg",
+				"store-images/Crafted/02.jpg",
+				"store-images/Crafted/03.jpg",
+				"store-images/Crafted/04.jpg",
+				"store-images/Crafted/05.jpg",
+				"store-images/Crafted/06.jpg",
+				"store-images/Crafted/07.jpg",
+				"store-images/Crafted/08.jpg",
+				"store-images/Crafted/09.jpg",
+				"store-images/Crafted/10.jpg"
+			],
+			"links": [""],
+			"notes": "Concept for a social craft beer app.",
+			"partner": "",
+			"project_type": "Mobile App Concept",
+			"project": "Crafted",
+			"roles": ["Design"],
+			"slug": "crafted",
+			"tags": ["Design", "UX", "UI", "Mobile", "Photoshop"],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CHOW/MobileApp/01.jpg",
+				"store-images/CHOW/MobileApp/02.jpg",
+				"store-images/CHOW/MobileApp/03.jpg",
+				"store-images/CHOW/MobileApp/04.jpg",
+				"store-images/CHOW/MobileApp/05.jpg",
+				"store-images/CHOW/MobileApp/06.jpg",
+				"store-images/CHOW/MobileApp/07.jpg"
+			],
+			"links": [
+				"http://www.chowsolutions.com",
+				"https://github.com/joduplessis/ChowAndroid",
+				"https://github.com/joduplessis/ChowiOS"
+			],
+			"notes": "Version 1 mobile app for iOS & Android. code now retired to GitHub.",
+			"partner": "",
+			"project_type": "Mobile App",
+			"project": "Chow",
+			"roles": ["Strategy", "Development"],
+			"slug": "chowmobileapp",
+			"tags": [
+				"Android",
+				"Native",
+				"iOS",
+				"Xcode",
+				"Swift 2",
+				"Java",
+				"JUnit",
+				"Facebook SDK",
+				"Google Map services",
+				"Google Play services",
+				"REST",
+				"Gradle",
+				"Ninja Mock",
+				"Git"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CHOW/Website/01.jpg",
+				"store-images/CHOW/Website/02.jpg",
+				"store-images/CHOW/Website/03.jpg",
+				"store-images/CHOW/Website/04.jpg",
+				"store-images/CHOW/Website/05.jpg"
+			],
+			"links": ["http://joduplessis.com/store/CHOW/Website/"],
+			"notes": "Initial static website for Chow.",
+			"partner": "",
+			"project_type": "Static Website",
+			"project": "Chow",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "chowhtmlwebsite",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Jquery",
+				"Bower",
+				"Ninja Mock"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CHOW/Website/01.jpg",
+				"store-images/CHOW/Website/02.jpg",
+				"store-images/CHOW/Website/03.jpg",
+				"store-images/CHOW/Website/04.jpg",
+				"store-images/CHOW/Website/05.jpg"
+			],
+			"links": ["http://joduplessis.com/store/CHOW/WebsiteWordpress/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "Chow",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "chowwebsite",
+			"tags": ["Archive", "HTML", "CSS", "PHP", "Javascript", "Wordpress"],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Trainiac-DimensionDataSentinels/02.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/01.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/02.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/03.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/04.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/05.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/06.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/07.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/08.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/09.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/10.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/11.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/12.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/13.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/14.jpg",
+				"store-images/Trainiac-DimensionDataSentinels/15.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Trainiac-DimensionDataSentinels/"
+			],
+			"notes": "Dimension Data Sentinels is an HTML5 learning MMO crafted in PixiJS. It incorporates achievable quests, interactive NPCs, in-game maps, and quizzes for an engaging educational experience.",
+			"partner": "Trainiac",
+			"project_type": "HTML5 Game",
+			"project": "Dimension Data Sentinels",
+			"roles": ["Development", "Technical Direction"],
+			"slug": "trainiac-dimensiondatasentinels",
+			"tags": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Node",
+				"Npm",
+				"Jquery",
+				"Gulp",
+				"Socket.io",
+				"Multiplayer",
+				"Pathfinding",
+				"Isometric",
+				"PIXI.js",
+				"SCORM",
+				"ExtendScript JSX artwork pipeline"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/Summer2015Parallax/01.jpg",
+				"store-images/Mrphome/Summer2015Parallax/01.jpg",
+				"store-images/Mrphome/Summer2015Parallax/03.jpg",
+				"store-images/Mrphome/Summer2015Parallax/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Mrphome/Summer2015/"],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "HTML5 Interactive",
+			"project": "Mrphome Summer",
+			"roles": ["Development"],
+			"slug": "mrphomesummer2015parallax",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"Javascipt",
+				"Jquery",
+				"Bower",
+				"PHP",
+				"Instagram API"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/BuyersGuide/01.jpg",
+				"store-images/Mrphome/BuyersGuide/01.jpg",
+				"store-images/Mrphome/BuyersGuide/02.jpg",
+				"store-images/Mrphome/BuyersGuide/03.jpg",
+				"store-images/Mrphome/BuyersGuide/04.jpg",
+				"store-images/Mrphome/BuyersGuide/05.jpg"
+			],
+			"links": [
+				"https://github.com/joduplessis/micron",
+				"http://www.joduplessis.com/mrphome/buyersguide/public/landing/0/",
+				"http://www.mrphome.com/en_za/browse/hotTrends.jsp?categoryId=cat860015&subCategoryId=cat920012"
+			],
+			"notes": "Buyer's Guide CMS platform built using Micron",
+			"partner": "MRP Home",
+			"project_type": "Web App",
+			"project": "Mrphome Buyers Guide",
+			"roles": ["Design", "Development", "UX", "Technical Direction"],
+			"slug": "mrphomebuyersguide",
+			"tags": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"PHP",
+				"Composer",
+				"Bower",
+				"Gulp",
+				"Npm",
+				"Less",
+				"Git",
+				"Jquery",
+				"Micron MVC",
+				"Ninja Mock",
+				"CMS"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Paper/05.jpg",
+				"store-images/Paper/05.jpg",
+				"store-images/Paper/03.jpg",
+				"store-images/Paper/02.jpg",
+				"store-images/Paper/01.jpg",
+				"store-images/Paper/04.jpg",
+				"store-images/Paper/06.jpg",
+				"store-images/Paper/07.jpg",
+				"store-images/Paper/01.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Paper/public",
+				"http://joduplessis.com/store/Mrphome/CatalogueHomewareWinter2014/editor.php#",
+				"https://github.com/joduplessis/paper"
+			],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "HTML5 Interactive & Web App",
+			"project": "Paper",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "paper",
+			"tags": [
+				"Ongoing development",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"PHP",
+				"Composer",
+				"Bower",
+				"Less",
+				"Git",
+				"Jquery",
+				"Micron MVC"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Scout/00.jpg",
+				"store-images/Scout/01.jpg",
+				"store-images/Scout/02.jpg"
+			],
+			"links": [
+				"https://play.google.com/store/apps/details?id=com.robotmonsterlabs.scout",
+				"https://github.com/joduplessis/scout"
+			],
+			"notes": "Close range wifi hotspot & bluetooth signal detection Android app.",
+			"partner": "",
+			"project_type": "Android App",
+			"project": "Scout",
+			"roles": ["Development", "Design", "UX"],
+			"slug": "scout",
+			"tags": [
+				"Android",
+				"Native",
+				"Java",
+				"Bluetooth",
+				"Wifi",
+				"Gradle",
+				"Git"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Bookshelf/00.jpg",
+				"store-images/Bookshelf/01.jpg",
+				"store-images/Bookshelf/02.jpg",
+				"store-images/Bookshelf/03.jpg"
+			],
+			"links": ["https://github.com/joduplessis/bookshelf"],
+			"notes": "Bookshelf is a React/Flux Chrome extension that makes it straight-forward to keep temporary bookmarks.",
+			"partner": "",
+			"project_type": "Chrome Extension",
+			"project": "Bookshelf",
+			"roles": ["Development", "Design", "UX"],
+			"slug": "bookshelf",
+			"tags": [
+				"HTML",
+				"Javascript",
+				"CSS",
+				"Chrome Extension API",
+				"React",
+				"Flux",
+				"Webpack"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Ping/00.jpg",
+				"store-images/Ping/app/01.jpg",
+				"store-images/Ping/app/02.jpg",
+				"store-images/Ping/app/03.jpg",
+				"store-images/Ping/app/04.jpg",
+				"store-images/Ping/app/05.jpg",
+				"store-images/Ping/app/06.jpg",
+				"store-images/Ping/website/01.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Ping/app/Ping.apk",
+				"http://joduplessis.com/store/Ping/website/",
+				"https://github.com/joduplessis/Ping-legacy"
+			],
+			"notes": "Ping is a social alarm clock app idea that got around 60% into development. Heavy restrictions imposed on alarms in iOS & Android caused development to go dormant. You can install the latest build apk & download the source code.",
+			"partner": "",
+			"project_type": "Android App",
+			"project": "Ping",
+			"roles": ["Development", "Design", "UX"],
+			"slug": "pingapp",
+			"tags": [
+				"Alpha",
+				"Android",
+				"Native",
+				"Java",
+				"Bower",
+				"Facebook SDK",
+				"Google Play services",
+				"NodeJS",
+				"REST",
+				"API",
+				"Gradle",
+				"PHP",
+				"Laravel",
+				"MySQL",
+				"Blade",
+				"Composer",
+				"Digital Ocean",
+				"Git"
+			],
+			"year": 2015
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Avalanche/Website2014/00.jpg",
+				"store-images/Avalanche/Website2014/01.jpg",
+				"store-images/Avalanche/Website2014/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Avalanche/Website2014/"],
+			"notes": "Avalanche is a South Africa based digital creative agency obsessed with building websites, games and digital experiences that engage and connect brands and products with people.",
+			"partner": "Avalanche",
+			"project_type": "Wordpress Website",
+			"project": "Avalanche 2014",
+			"roles": ["Development", "design"],
+			"slug": "avalanchewebsite2014",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2014
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CHOW/WebAppAPI/01.jpg",
+				"store-images/CHOW/WebAppAPI/02.jpg",
+				"store-images/CHOW/WebAppAPI/03.jpg",
+				"store-images/CHOW/WebAppAPI/04.jpg",
+				"store-images/CHOW/WebAppAPI/05.jpg",
+				"store-images/CHOW/WebAppAPI/06.jpg"
+			],
+			"links": [],
+			"notes": "Due to the data being sensitive, we don't have a live login. PHP/MySQL restaurant management web application.",
+			"partner": "",
+			"project_type": "Web App",
+			"project": "Chow",
+			"roles": ["Development,Design"],
+			"slug": "chowwebappapi",
+			"tags": [
+				"PHP",
+				"MySQL",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Jquery",
+				"Google Maps",
+				"Composer",
+				"Bower",
+				"Git"
+			],
+			"year": 2014
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/Homepages/01.jpg",
+				"store-images/Mrphome/Homepages/02.jpg",
+				"store-images/Mrphome/Homepages/03.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Mrphome/HomepageMandela/",
+				"http://joduplessis.com/store/Mrphome/HomepageSearch/"
+			],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "Website & UI/UX Design",
+			"project": "Mrphome Homepages",
+			"roles": ["Development", "design"],
+			"slug": "mrphomehomepages",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Jquery"],
+			"year": 2014
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/CataloguesPaper/01.jpg",
+				"store-images/Mrphome/CataloguesPaper/01.jpg",
+				"store-images/Mrphome/CataloguesPaper/02.jpg",
+				"store-images/Mrphome/CataloguesPaper/03.jpg",
+				"store-images/Mrphome/CataloguesPaper/04.jpg",
+				"store-images/Mrphome/CataloguesPaper/05.jpg",
+				"store-images/Paper/02.jpg",
+				"store-images/Paper/03.jpg"
+			],
+			"links": [
+				"https://github.com/joduplessis/micron",
+				"https://github.com/joduplessis/paper",
+				"http://joduplessis.com/store/Mrphome/CatalogueFurnitureSpring2014/engine.php?pages=5",
+				"http://joduplessis.com/store/Mrphome/CatalogueFurnitureWinter2014/engine.php?pages=15",
+				"http://joduplessis.com/store/Mrphome/CatalogueHomewareSpring2014/engine.php?pages=9",
+				"http://joduplessis.com/store/Mrphome/CatalogueHomewareWinter2014/engine.php?pages=15",
+				"http://joduplessis.com/store/Mrphome/CatalogueSpring2014/engine.php?pages=13"
+			],
+			"notes": "Lightweight presentation builder for the web that runs off of JS/Micron, with support for basic animations & embedding via iFrames.",
+			"partner": "MRP Home",
+			"project_type": "Web App",
+			"project": "Mrphome Catalogues",
+			"roles": ["Development", "Technical Direction"],
+			"slug": "mrphomecataloguespaper",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"PHP",
+				"Composer",
+				"Bower",
+				"Micron MVC",
+				"Paper",
+				"Jquery",
+				"Git",
+				"Less"
+			],
+			"year": 2014
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/logogrow.png",
+				"store-images/singles/logogrow.png"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "Branding",
+			"project": "Grow Logo",
+			"roles": ["Design"],
+			"slug": "grow",
+			"tags": ["Affinity Design"],
+			"year": 2014
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/logohologramshark.png",
+				"store-images/singles/logohologramshark.png"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "Branding",
+			"project": "Hologram Shark Logo",
+			"roles": ["Design"],
+			"slug": "hologramshark",
+			"tags": ["Adobe Illustrator"],
+			"year": 2014
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Avalanche/Hardline/00.jpg",
+				"store-images/Avalanche/Hardline/01.jpg",
+				"store-images/Avalanche/Hardline/02.jpg",
+				"store-images/Avalanche/Hardline/03.jpg",
+				"store-images/Avalanche/Hardline/04.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Avalanche/Hardline/hardline.apk",
+				"https://github.com/joduplessis/Hardline"
+			],
+			"notes": "Giving Avalanche clients a platform for checking in on their projects",
+			"partner": "Avalanche",
+			"project_type": "HTML5 Mobile Apps",
+			"project": "Hardline",
+			"roles": ["Development", "design"],
+			"slug": "avalanche-hardline",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Ember.js",
+				"Jquery mobile",
+				"JUnit",
+				"Phonegap",
+				"Cordova",
+				"Android",
+				"REST"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CreativeWisdom-AgriNet/00.jpg",
+				"store-images/CreativeWisdom-AgriNet/01.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "CreativeWisdom",
+			"project_type": "Web App Concept",
+			"project": "AgriNet",
+			"roles": ["Design", "UX"],
+			"slug": "creativewisdom-agrinet",
+			"tags": ["Dashboard", "Web app", "Photoshop"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Ethos/00.jpg",
+				"store-images/Ethos/01.jpg",
+				"store-images/Ethos/02.jpg",
+				"store-images/Ethos/03.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Branding & Design",
+			"project": "Ethos",
+			"roles": ["Design"],
+			"slug": "ethos",
+			"tags": ["Photoshop", "Flyer", "Logo"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/IUA/02.png",
+				"store-images/IUA/02.png",
+				"store-images/IUA/03.jpg",
+				"store-images/IUA/04.jpg",
+				"store-images/IUA/05.jpg",
+				"store-images/IUA/01.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Branding",
+			"project": "IUA",
+			"roles": ["Design", "UX", "Design Direction"],
+			"slug": "iua",
+			"tags": ["Photoshop"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/KateBainEvents/01.jpg",
+				"store-images/KateBainEvents/01.jpg",
+				"store-images/KateBainEvents/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/KateBainEvents"],
+			"notes": "",
+			"partner": "Cassandra Kidson",
+			"project_type": "Wordpress Website",
+			"project": "Kate Bain Events",
+			"roles": ["Development", "design"],
+			"slug": "katebainevents",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/KidsonMedia/01.jpg",
+				"store-images/KidsonMedia/01.jpg",
+				"store-images/KidsonMedia/02.jpg",
+				"store-images/KidsonMedia/03.jpg",
+				"store-images/KidsonMedia/04.jpg",
+				"store-images/KidsonMedia/05.jpg",
+				"store-images/KidsonMedia/06.jpg",
+				"store-images/KidsonMedia/07.jpg",
+				"store-images/KidsonMedia/08.jpg",
+				"store-images/KidsonMedia/09.jpg",
+				"store-images/KidsonMedia/10.jpg",
+				"store-images/KidsonMedia/11.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "Cassandra Kidson",
+			"project_type": "Wordpress Website",
+			"project": "Kidson Media",
+			"roles": ["Design", "Development"],
+			"slug": "kidsonmedia",
+			"tags": ["Photoshop"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-BirdingEcotours/00.jpg",
+				"store-images/TempleCreative-BirdingEcotours/01.jpg",
+				"store-images/TempleCreative-BirdingEcotours/02.jpg",
+				"store-images/TempleCreative-BirdingEcotours/03.jpg",
+				"store-images/TempleCreative-BirdingEcotours/04.jpg"
+			],
+			"links": ["http://www.birdingecotours.com/"],
+			"notes": "Welcome to our website, where we will present to you some spectacular birding tours around the world.",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website & Flash Interactive",
+			"project": "Birding Ecotours",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-birdingecotours",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Flash",
+				"AS3",
+				"XML",
+				"REST"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-BirdingSafaris/00.jpg",
+				"store-images/TempleCreative-BirdingSafaris/01.jpg",
+				"store-images/TempleCreative-BirdingSafaris/02.jpg",
+				"store-images/TempleCreative-BirdingSafaris/03.jpg"
+			],
+			"links": ["http://www.birdingsafaris.com/"],
+			"notes": "Based in the renowned Okavango Delta, we offer birding safaris within Botswana as well as beyond our borders where our birding adventures take us to the remote west coast of Namibia, Zambia’s great north, the fabled Eastern Highlands of Zimbabwe, magnificent Mocambique and Angola.",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Birding Safaris",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-birdingsafaris",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				",Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-CorporateWildman/01.jpg",
+				"store-images/TempleCreative-CorporateWildman/01.jpg",
+				"store-images/TempleCreative-CorporateWildman/02.jpg",
+				"store-images/TempleCreative-CorporateWildman/03.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/TempleCreative-CorporateWildman/index.php?type=wildlife",
+				"http://joduplessis.com/store/TempleCreative-CorporateWildman/index.php?type=birds",
+				"http://joduplessis.com/store/TempleCreative-CorporateWildman/index.php?type=fish"
+			],
+			"notes": "Interactive wildlife scorecard for a local tour company.",
+			"partner": "Temple Creative",
+			"project_type": "Flash Interactive",
+			"project": "Corporate Wildman",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "templecreative-corporatewildman",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress integration",
+				"Flash",
+				"AS3",
+				"XML",
+				"REST"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-Flux/01.jpg",
+				"store-images/TempleCreative-Flux/01.jpg",
+				"store-images/TempleCreative-Flux/02.jpg",
+				"store-images/TempleCreative-Flux/03.jpg",
+				"store-images/TempleCreative-Flux/04.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-Flux/"],
+			"notes": "Pay-to-view video platform for a local kettle-bell fitness company.",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website & Web App",
+			"project": "FLUX.tv E-commerce",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "templecreative-flux",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Paypal",
+				"E-commerce"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-GregMinnaar/01.jpg",
+				"store-images/TempleCreative-GregMinnaar/01.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Website Concept",
+			"project": "Greg Minnaar",
+			"roles": ["Design"],
+			"slug": "templecreative-gregminnaar",
+			"tags": ["Photoshop"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-KevinTrench/01.jpg",
+				"store-images/TempleCreative-KevinTrench/01.jpg",
+				"store-images/TempleCreative-KevinTrench/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-KevinTrench/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Kevin Trench",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-kevintrench",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-LetakaSafaris/01.jpg",
+				"store-images/TempleCreative-LetakaSafaris/01.jpg",
+				"store-images/TempleCreative-LetakaSafaris/02.jpg",
+				"store-images/TempleCreative-LetakaSafaris/03.jpg"
+			],
+			"links": ["http://www.letakasafaris.com/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Letaka Safaris",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-letakasafaris",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-TalentWindowAfrica/01.jpg",
+				"store-images/TempleCreative-TalentWindowAfrica/02.jpg",
+				"store-images/TempleCreative-TalentWindowAfrica/03.jpg"
+			],
+			"links": ["http://www.talentwindowafrica.com/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Talent Window Africa",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "templecreative-talentwindowafrica",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Google Chart API"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-InteractiveVirtualAudi/00.jpg",
+				"store-images/Test-InteractiveVirtualAudi/01.jpg",
+				"store-images/Test-InteractiveVirtualAudi/02.jpg",
+				"store-images/Test-InteractiveVirtualAudi/03.jpg",
+				"store-images/Test-InteractiveVirtualAudi/04.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Test-InteractiveVirtualAudi/"],
+			"notes": "",
+			"partner": "Avalanche",
+			"project_type": "Unity3D Interactive",
+			"project": "Interactive Audi",
+			"roles": ["Development", "design"],
+			"slug": "test-interactivevirtualaudi",
+			"tags": ["Unity 3D", "3ds max", "Javascript"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-InteractiveVirtualCondo/01.jpg",
+				"store-images/Test-InteractiveVirtualCondo/01.jpg",
+				"store-images/Test-InteractiveVirtualCondo/02.jpg",
+				"store-images/Test-InteractiveVirtualCondo/03.jpg",
+				"store-images/Test-InteractiveVirtualCondo/05.jpg",
+				"store-images/Test-InteractiveVirtualCondo/06.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Test-InteractiveVirtualCondo/"],
+			"notes": "",
+			"partner": "Avalanche",
+			"project_type": "Unity3D Interactive",
+			"project": "Interactive Condo",
+			"roles": ["Development", "design"],
+			"slug": "test-interactivevirtualcondo",
+			"tags": ["Unity 3D", "3ds max", "Javascript"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-Singularity/00.jpg",
+				"store-images/Test-Singularity/01.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Test-Singularity/",
+				"https://github.com/joduplessis/singularity"
+			],
+			"notes": "",
+			"partner": "",
+			"project_type": "Flash Game",
+			"project": "Singularity",
+			"roles": ["Development", "design"],
+			"slug": "test-singularity",
+			"tags": ["AS3", "Flash"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Trainiac-SAB/01.jpg",
+				"store-images/Trainiac-SAB/02.jpg",
+				"store-images/Trainiac-SAB/03.jpg",
+				"store-images/Trainiac-SAB/04.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Trainiac-SAB/"],
+			"notes": "Interactive educational map for SAB.",
+			"partner": "Trainiac",
+			"project_type": "Flash Interactive",
+			"project": "SAB",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "trainiac-sab",
+			"tags": ["Archive", "HTML", "CSS", "Flash", "AS3"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/WinterStyleGuide/01.jpg",
+				"store-images/Mrphome/WinterStyleGuide/02.jpg",
+				"store-images/Mrphome/WinterStyleGuide/03.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Mrphome/Winter2013/"],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "Flash Interactive",
+			"project": "Mrphome Winter Style Guide",
+			"roles": ["Development", "design"],
+			"slug": "mrphomewinterstyleguide",
+			"tags": ["Archive", "HTML", "CSS", "AS3", "Flash"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/SummerInspiration2013/01.jpg",
+				"store-images/Mrphome/SummerInspiration2013/02.jpg",
+				"store-images/Mrphome/SummerInspiration2013/03.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Mrphome/Summer2013/"],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "HTML5 Interactive",
+			"project": "Mrphome Summer Inspiration",
+			"roles": ["Development", "UX"],
+			"slug": "mrphomesummerinspiration2013",
+			"tags": ["Archive", "HTML", "CSS", "Javascipt", "Jquery", "Bower"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/LaunchEvent/01.jpg",
+				"store-images/Mrphome/LaunchEvent/01.jpg",
+				"store-images/Mrphome/LaunchEvent/02.jpg",
+				"store-images/Mrphome/LaunchEvent/03.jpg",
+				"store-images/Mrphome/LaunchEvent/04.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Mrphome/LaunchEvent/tweet.black.html",
+				"http://joduplessis.com/store/Mrphome/LaunchEvent/tweet.darkred.html",
+				"http://joduplessis.com/store/Mrphome/LaunchEvent/tweet.red.html",
+				"http://joduplessis.com/store/Mrphome/LaunchEvent/tweet.wall.html"
+			],
+			"notes": "Realtime twitter feed projected on several locations at a live event.",
+			"partner": "MRP Home",
+			"project_type": "HTML5 Interactive",
+			"project": "Mrphome Online Launch",
+			"roles": ["Development", "design"],
+			"slug": "mrphomelaunchevent",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Jquery",
+				"Twitter API",
+				"PHP",
+				"Twitter Auth",
+				"Live event screens"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/GameSpring/01.jpg",
+				"store-images/Mrphome/GameSpring/02.jpg",
+				"store-images/Mrphome/GameSpring/03.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Mrphome/GameSpring/"],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "HTML5 Game",
+			"project": "Mrphome Spring Campaign",
+			"roles": ["Development", "design"],
+			"slug": "mrphomegamespring",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Jquery", "Facebook"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/GameKitchen/01.jpg",
+				"store-images/Mrphome/GameKitchen/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Mrphome/GameKitchen/"],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "HTML5 Game",
+			"project": "Mrphome Kitchen Promotion",
+			"roles": ["Development", "design"],
+			"slug": "mrphomegamekitchen",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Jquery"],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mrphome/Blog/01.jpg",
+				"store-images/Mrphome/Blog/02.jpg"
+			],
+			"links": ["http://welcomehome.mrphome.com/"],
+			"notes": "",
+			"partner": "MRP Home",
+			"project_type": "Website",
+			"project": "Mrphome",
+			"roles": ["Development", "Technical Direction"],
+			"slug": "mrphomeblog",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"Premium Theme"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TaskFu/00.jpg",
+				"store-images/TaskFu/app/01.jpg",
+				"store-images/TaskFu/app/02.jpg",
+				"store-images/TaskFu/app/03.jpg",
+				"store-images/TaskFu/app/04.jpg",
+				"store-images/TaskFu/app/05.jpg",
+				"store-images/TaskFu/website/01.jpg",
+				"store-images/TaskFu/website/02.jpg",
+				"store-images/TaskFu/test/01.jpg",
+				"store-images/TaskFu/test/02.jpg"
+			],
+			"links": [
+				"https://github.com/joduplessis/task-fu",
+				"http://joduplessis.com/store/TaskFu/test/",
+				"http://joduplessis.com/store/TaskFu/website/",
+				"https://itunes.apple.com/us/app/task-fu/id640165887?ls=1&mt=8",
+				"http://joduplessis.com/store/TaskFu/website/"
+			],
+			"notes": "Mindmap-based task management iOS app.",
+			"partner": "",
+			"project_type": "iOS App",
+			"project": "Task Fu",
+			"roles": ["Development", "Design", "UX"],
+			"slug": "taskfuapp",
+			"tags": [
+				"Ongoing development",
+				"Objective C",
+				"Native",
+				"iOS",
+				"CoreData",
+				"CoreGraphics",
+				"Social Framework",
+				"UIKit",
+				"CoreText",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Jquery",
+				"EaselJS"
+			],
+			"year": 2013
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Avalanche/AugmentedReality/00.jpg",
+				"store-images/Avalanche/AugmentedReality/01.jpg",
+				"store-images/Avalanche/AugmentedReality/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Avalanche/AugmentedReality/"],
+			"notes": "AR powered business cards built with Flash, using a webcam.",
+			"partner": "Avalanche",
+			"project_type": "AR Flash App & Business Cards",
+			"project": "Avalanche Augmented Reality",
+			"roles": ["Design", "Development", "3D design"],
+			"slug": "avalancheaugmentedreality",
+			"tags": [
+				"Archive",
+				"Flash",
+				"AS3",
+				"HTML",
+				"CSS",
+				"FLARTooklit",
+				"Away3d",
+				"3ds max"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Avalanche/Website2012/00.jpg",
+				"store-images/Avalanche/Website2012/00.jpg",
+				"store-images/Avalanche/Website2012/01.jpg",
+				"store-images/Avalanche/Website2012/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Avalanche/Website2012/"],
+			"notes": "Avalanche is a South Africa based digital creative agency obsessed with building websites, games and digital experiences that engage and connect brands and products with people.",
+			"partner": "Avalanche",
+			"project_type": "Website",
+			"project": "Avalanche 2012",
+			"roles": ["Development", "design"],
+			"slug": "avalanchewebsite2012",
+			"tags": ["Archive", "HTML", "CSS", "PHP", "Javascript", "Jquery"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Blindsight/00.jpg",
+				"store-images/Blindsight/01.jpg"
+			],
+			"links": [""],
+			"notes": "UK based metalcore band",
+			"partner": "",
+			"project_type": "Branding",
+			"project": "Blindsight",
+			"roles": ["Design"],
+			"slug": "blindsight",
+			"tags": ["Album", "Concept"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CassandraKidsonDesign/00.jpg",
+				"store-images/CassandraKidsonDesign/01.jpg",
+				"store-images/CassandraKidsonDesign/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/CassandraKidsonDesign/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website Concept",
+			"project": "Cassandra Kidson Design",
+			"roles": ["Development", "design"],
+			"slug": "cassandrakidsondesign",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"Premium Theme"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Dinkelmans/00.jpg",
+				"store-images/Dinkelmans/01.jpg",
+				"store-images/Dinkelmans/02.jpg"
+			],
+			"links": ["http://www.dinkelmans.co.za/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "Dinkelmans",
+			"roles": ["Design", "Development"],
+			"slug": "dinkelmans",
+			"tags": ["HTML", "CSS", "PHP", "Javascript", "Jquery", "Wordpress"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Eyedrills/00.jpg",
+				"store-images/Eyedrills/01.jpg",
+				"store-images/Eyedrills/02.jpg",
+				"store-images/Eyedrills/03.jpg",
+				"store-images/Eyedrills/04.jpg",
+				"store-images/Eyedrills/05.jpg",
+				"store-images/Eyedrills/06.jpg",
+				"store-images/Eyedrills/07.jpg",
+				"store-images/Eyedrills/08.jpg",
+				"store-images/Eyedrills/09.jpg",
+				"store-images/Eyedrills/10.jpg",
+				"store-images/Eyedrills/11.jpg",
+				"store-images/Eyedrills/12.jpg",
+				"store-images/Eyedrills/13.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Eyedrills/Console/"],
+			"notes": "Eyedrills is a motor skills (hand/eye) & coordination training platform geared toward sportsmen. The platform consisted of multiple Flash games & user/management portal built with Wordpress & Pods.",
+			"partner": "",
+			"project_type": "Flash Games & Web App",
+			"project": "Eyedrills",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "eyedrills",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"PODS (extensive)",
+				"Flash",
+				"AS3",
+				"REST",
+				"XML",
+				"Wordpress integration"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/IndigoFields/01.jpg",
+				"store-images/IndigoFields/01.jpg",
+				"store-images/IndigoFields/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/IndigoFields/"],
+			"notes": "The legend of this soulful retreat spreads far over the foothills of the Drakensberg. Even from across the seas, people flock to the gates of Indigo Fields.",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "Indigo Fields",
+			"roles": ["Development", "design"],
+			"slug": "indigofields",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/LittleMunchkins/01.jpg",
+				"store-images/LittleMunchkins/01.jpg",
+				"store-images/LittleMunchkins/02.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website & Branding",
+			"project": "Little Munchkins",
+			"roles": ["Design"],
+			"slug": "littlemunchkins",
+			"tags": ["Photoshop", "Flyer", "Website"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Mushrush/00.jpg",
+				"store-images/Mushrush/00.jpg",
+				"store-images/Mushrush/01.jpg",
+				"store-images/Mushrush/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Mushrush/"],
+			"notes": "Mushrush South Africa supply mushroom grow kits, exotic spawn and truffles, oyster and shiitake home growing supplies.",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "Mush Rush",
+			"roles": ["Development", "design"],
+			"slug": "mushrush",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-AAMKZN/00.jpg",
+				"store-images/TempleCreative-AAMKZN/01.jpg",
+				"store-images/TempleCreative-AAMKZN/02.jpg",
+				"store-images/TempleCreative-AAMKZN/03.jpg"
+			],
+			"links": ["http://www.aamkzn.co.za/"],
+			"notes": "AAM Livestock Agents & Auctioneers conduct commercial, special/stud and dispersal sales throughout the year at various venues across KZN.",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "AAM KZN",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-aamkzn",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-AfricaHolidaysAndSafaris/01.jpg",
+				"store-images/TempleCreative-AfricaHolidaysAndSafaris/01.jpg",
+				"store-images/TempleCreative-AfricaHolidaysAndSafaris/02.jpg",
+				"store-images/TempleCreative-AfricaHolidaysAndSafaris/03.jpg"
+			],
+			"links": ["http://www.africaholidaysandsafaris.com/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Africa Holidays and Safaris",
+			"roles": ["Design", "Development", "Technical Direction", "Training"],
+			"slug": "templecreative-africaholidaysandsafaris",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Premium Theme"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-CEBA/00.jpg",
+				"store-images/TempleCreative-CEBA/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-CEBA/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website & Mobile Site",
+			"project": "CEBA",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-ceba",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-DriveSmart/00.jpg",
+				"store-images/TempleCreative-DriveSmart/01.jpg",
+				"store-images/TempleCreative-DriveSmart/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-DriveSmart/"],
+			"notes": "Interactive voice-driven presentation for a long distance trucking product.",
+			"partner": "Temple Creative",
+			"project_type": "Flash Interactive",
+			"project": "Drive Smart Presentation",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "templecreative-drivesmart",
+			"tags": ["Archive", "HTML", "CSS", "Flash", "AS3"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-HillsEquipment/01.jpg",
+				"store-images/TempleCreative-HillsEquipment/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-HillsEquipment/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Hills Equipment",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-hillsequipment",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-Indri/01.jpg",
+				"store-images/TempleCreative-Indri/01.jpg",
+				"store-images/TempleCreative-Indri/02.jpg",
+				"store-images/TempleCreative-Indri/03.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-Indri/"],
+			"notes": "The Indri site was dulpicated from the Rockjumper website",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Indri",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "templecreative-indri",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Website duplication",
+				"Flash",
+				"AS3",
+				"REST",
+				"XML"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-InmanProductions/01.jpg",
+				"store-images/TempleCreative-InmanProductions/01.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/TempleCreative-InmanProductions/"
+			],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Inman Productions",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-inmanproductions",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-KZNSlots/01.jpg",
+				"store-images/TempleCreative-KZNSlots/01.jpg",
+				"store-images/TempleCreative-KZNSlots/02.jpg",
+				"store-images/TempleCreative-KZNSlots/03.jpg"
+			],
+			"links": ["http://www.kznslots.co.za/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "KZN Slots",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-kznslots",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Google Map API"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-MaxCluer/01.jpg",
+				"store-images/TempleCreative-MaxCluer/01.jpg",
+				"store-images/TempleCreative-MaxCluer/02.jpg",
+				"store-images/TempleCreative-MaxCluer/03.jpg"
+			],
+			"links": ["http://www.maxcluer.com/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Max Cluer",
+			"roles": ["Design", "Development", "Training"],
+			"slug": "templecreative-maxcluer",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"Facebook API",
+				"Twitter API"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-MidmarMile/01.jpg",
+				"store-images/TempleCreative-MidmarMile/02.jpg"
+			],
+			"links": ["http://www.midmarmile.co.za/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Midmar Mile",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-midmarmile",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-Natship/01.jpg",
+				"store-images/TempleCreative-Natship/01.jpg",
+				"store-images/TempleCreative-Natship/02.jpg"
+			],
+			"links": ["http://www.natship.net/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "NatShip",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-natship",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-OrganicForAfrica/01.jpg",
+				"store-images/TempleCreative-OrganicForAfrica/01.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/TempleCreative-OrganicForAfrica/"
+			],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Organic for Africa",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-organicforafrica",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Premium Theme"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-TheEstonShow/00.jpg",
+				"store-images/TempleCreative-TheEstonShow/01.jpg",
+				"store-images/TempleCreative-TheEstonShow/02.jpg",
+				"store-images/TempleCreative-TheEstonShow/03.jpg"
+			],
+			"links": ["http://www.theestonshow.co.za/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website & Flash Interactive",
+			"project": "Eston Show",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-theestonshow",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Flash",
+				"AS3",
+				"XML",
+				"REST"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-Treemes/01.jpg",
+				"store-images/TempleCreative-Treemes/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-Treemes/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Treemes",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-treemes",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Premium Theme"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-Wildlands/00.jpg",
+				"store-images/TempleCreative-Wildlands/01.jpg",
+				"store-images/TempleCreative-Wildlands/02.jpg",
+				"store-images/TempleCreative-Wildlands/03.jpg",
+				"store-images/TempleCreative-Wildlands/04.jpg"
+			],
+			"links": ["http://www.wildlands.co.za/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Wildlands",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "templecreative-wildlands",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-AirBall/01.jpg",
+				"store-images/Test-AirBall/01.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Test-AirBall/ZeroBounce.apk",
+				"https://github.com/joduplessis/no-bounce"
+			],
+			"notes": "Prototype game made with Corona SDK.",
+			"partner": "",
+			"project_type": "Corona SDK Game",
+			"project": "Air Ball",
+			"roles": ["Development", "design"],
+			"slug": "test-airball",
+			"tags": ["Corona SDK", "Lua", "Android"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-TheForgotten/01.jpg",
+				"store-images/Test-TheForgotten/02.jpg",
+				"store-images/Test-TheForgotten/03.jpg",
+				"store-images/Test-TheForgotten/04.jpg",
+				"store-images/Test-TheForgotten/05.jpg",
+				"store-images/Test-TheForgotten/06.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Test-TheForgotten/"],
+			"notes": "The assets from The Forgotten Island was re-used to try re-imagine the demo",
+			"partner": "Avalanche",
+			"project_type": "Unity3D Game",
+			"project": "The Forgotten - Prototype",
+			"roles": ["Development", "design"],
+			"slug": "test-theforgotten",
+			"tags": ["Unity 3D", "3ds max", "Javascript"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-TheForgottenIsland/00.jpg",
+				"store-images/Test-TheForgottenIsland/01.jpg",
+				"store-images/Test-TheForgottenIsland/02.jpg",
+				"store-images/Test-TheForgottenIsland/03.jpg",
+				"store-images/Test-TheForgottenIsland/04.jpg",
+				"store-images/Test-TheForgottenIsland/05.jpg",
+				"store-images/Test-TheForgottenIsland/06.jpg",
+				"store-images/Test-TheForgottenIsland/07.jpg",
+				"store-images/Test-TheForgottenIsland/08.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Test-TheForgottenIsland/"],
+			"notes": "",
+			"partner": "Avalanche",
+			"project_type": "Unity3D Game",
+			"project": "The Forgotten Island - Prototype",
+			"roles": ["Development", "design"],
+			"slug": "test-theforgottenisland",
+			"tags": ["Unity 3D", "3ds max", "Javascript"],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Trainiac-DimensionDataCasino/00.jpg",
+				"store-images/Trainiac-DimensionDataCasino/01.jpg",
+				"store-images/Trainiac-DimensionDataCasino/02.jpg",
+				"store-images/Trainiac-DimensionDataCasino/03.jpg",
+				"store-images/Trainiac-DimensionDataCasino/04.jpg",
+				"store-images/Trainiac-DimensionDataCasino/05.jpg",
+				"store-images/Trainiac-DimensionDataCasino/06.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Trainiac-DimensionDataCasino/"],
+			"notes": "Casino themed educational Flash game for Dimension Data. Artwork was mostly provided by Trainiac.",
+			"partner": "Trainiac",
+			"project_type": "Flash Game",
+			"project": "Dimension Data Casino",
+			"roles": ["Development", "UX"],
+			"slug": "trainiac-dimensiondatacasino",
+			"tags": [
+				"HTML",
+				"CSS",
+				"Flash",
+				"AS3",
+				"Papervision",
+				"Javascript",
+				"PHP"
+			],
+			"year": 2012
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/AllSaintsChurch/00.jpg",
+				"store-images/AllSaintsChurch/01.jpg",
+				"store-images/AllSaintsChurch/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/AllSaintsChurch/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "All Saints Church",
+			"roles": ["Development", "design"],
+			"slug": "allsaintschurch",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/BPDrakensberg/00.jpg",
+				"store-images/BPDrakensberg/01.jpg",
+				"store-images/BPDrakensberg/02.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/BPDrakensberg/",
+				"http://www.samuels.co.za/about/"
+			],
+			"notes": "Fuel, oil and gas company based in Pietermaritzburg, now called Samuels.",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "BP Drakensberg",
+			"roles": ["Development", "design"],
+			"slug": "bpdrakensberg",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"Google Map API"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Carrifreight/00.jpg",
+				"store-images/Carrifreight/00.jpg",
+				"store-images/Carrifreight/01.jpg",
+				"store-images/Carrifreight/02.jpg"
+			],
+			"links": ["http://www.carrifreight.co.za/"],
+			"notes": "Carrifreight is a Cape Town based Customs Clearing and Forwarding company.",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "Carrifreight",
+			"roles": ["Development", "design"],
+			"slug": "carrifreight",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"Google Map API"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Gwahumbe/00.jpg",
+				"store-images/Gwahumbe/01.jpg",
+				"store-images/Gwahumbe/02.jpg",
+				"store-images/Gwahumbe/03.jpg",
+				"store-images/Gwahumbe/04.jpg",
+				"store-images/Gwahumbe/05.jpg",
+				"store-images/Gwahumbe/06.jpg",
+				"store-images/Gwahumbe/07.jpg",
+				"store-images/Gwahumbe/08.jpg",
+				"store-images/Gwahumbe/09.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Gwahumbe/"],
+			"notes": "Website & print materials for a Game Lodge & conference centre.",
+			"partner": "",
+			"project_type": "Branding & Wordpress Website",
+			"project": "Gwahumbe",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "gwahumbe",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"Photoshop"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/HellaHella/01.jpg",
+				"store-images/HellaHella/01.jpg",
+				"store-images/HellaHella/02.jpg"
+			],
+			"links": ["http://www.hellahella.co.za/"],
+			"notes": "Hella Hella Outdoor Centre offers a world of diverse activities and cherished lifelong memories for all ages and levels of fitness - less than two hours from Durban and Pietermaritzburg. ",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "Hella Hella",
+			"roles": ["Development", "design"],
+			"slug": "hellahella",
+			"tags": ["HTML", "CSS", "PHP", "Javascript", "Jquery", "Wordpress"],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/MusicMate/01.jpg",
+				"store-images/MusicMate/02.jpg",
+				"store-images/MusicMate/03.jpg"
+			],
+			"links": ["http://joduplessis.com/store/MusicMate/"],
+			"notes": "Instrument & audio visual shop based out of Johannesburg.",
+			"partner": "",
+			"project_type": "Website",
+			"project": "Music Mate",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "music mate",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Jquery", "PHP"],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-WeddingExpo/00.jpg",
+				"store-images/OnePlanet-WeddingExpo/00.jpg",
+				"store-images/OnePlanet-WeddingExpo/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-WeddingExpo/"],
+			"notes": "Save the date for the SA bride’s favourite wedding show, The Wedding Expo.",
+			"partner": "One Planet",
+			"project_type": "Wordpress Website",
+			"project": "Wedding Expo",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "oneplanet-weddingexpo",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-WeddingInspirations/00.jpg",
+				"store-images/OnePlanet-WeddingInspirations/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-WeddingInspirations/"],
+			"notes": "Wedding insperations magazine website.",
+			"partner": "One Planet",
+			"project_type": "Wordpress Website",
+			"project": "Wedding Inpspirations",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "oneplanet-weddinginspirations",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-ArborCare/01.jpg",
+				"store-images/TempleCreative-ArborCare/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-ArborCare/"],
+			"notes": "Arbor-care specialises in hands-on management of forestry and agricultural projects in sub-Saharan Africa.",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Arbor Care",
+			"roles": ["Development"],
+			"slug": "templecreative-arborcare",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-LibertyLife/00.jpg",
+				"store-images/TempleCreative-LibertyLife/01.jpg",
+				"store-images/TempleCreative-LibertyLife/02.jpg",
+				"store-images/TempleCreative-LibertyLife/03.jpg",
+				"store-images/TempleCreative-LibertyLife/04.jpg",
+				"store-images/TempleCreative-LibertyLife/05.jpg"
+			],
+			"links": ["http://joduplessis.com/store/TempleCreative-LibertyLife/"],
+			"notes": "Animated Flash banners for Liberty Life.",
+			"partner": "Temple Creative",
+			"project_type": "Flash Animations",
+			"project": "Liberty Life Banners",
+			"roles": ["Development", "design"],
+			"slug": "templecreative-libertylife",
+			"tags": ["Flash", "AS3", "HTML", "CSS", "XML"],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TempleCreative-TopEvents/01.jpg",
+				"store-images/TempleCreative-TopEvents/02.jpg",
+				"store-images/TempleCreative-TopEvents/03.jpg"
+			],
+			"links": ["http://www.topevents.co.za/"],
+			"notes": "",
+			"partner": "Temple Creative",
+			"project_type": "Wordpress Website",
+			"project": "Top Events",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "templecreative-topevents",
+			"tags": [
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"Wordpress",
+				"GatherContent",
+				"Flash",
+				"AS3",
+				"Weather API"
+			],
+			"year": 2011
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/45Madison/00.jpg",
+				"store-images/45Madison/01.jpg",
+				"store-images/45Madison/02.jpg",
+				"store-images/45Madison/03.jpg"
+			],
+			"links": [""],
+			"notes": "Marketing drive for a high end gated estate in Cape Town.",
+			"partner": "",
+			"project_type": "3D Vis & Branding",
+			"project": "45 Madison",
+			"roles": ["Design"],
+			"slug": "45madison",
+			"tags": ["Archive", "Photoshop", "Website", "Logo", "Concept"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": ["store-images/DuBoirs/00.jpg", "store-images/DuBoirs/01.jpg"],
+			"links": ["http://joduplessis.com/store/DuBoirs/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website",
+			"project": "Du Boirs",
+			"roles": ["Development"],
+			"slug": "duboirs",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Gus-En/01.jpg",
+				"store-images/Gus-En/02.jpg",
+				"store-images/Gus-En/03.jpg",
+				"store-images/Gus-En/04.jpg",
+				"store-images/Gus-En/05.jpg",
+				"store-images/Gus-En/06.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website Concept",
+			"project": "Gus-En",
+			"roles": ["Design"],
+			"slug": "gus-en",
+			"tags": ["Photoshop"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/LesothoAdventures/00.jpg",
+				"store-images/LesothoAdventures/01.jpg",
+				"store-images/LesothoAdventures/02.jpg",
+				"store-images/LesothoAdventures/03.jpg",
+				"store-images/LesothoAdventures/04.jpg",
+				"store-images/LesothoAdventures/05.jpg",
+				"store-images/LesothoAdventures/06.jpg",
+				"store-images/LesothoAdventures/07.jpg",
+				"store-images/LesothoAdventures/08.jpg",
+				"store-images/LesothoAdventures/09.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/LesothoAdventures/",
+				"http://joduplessis.com/store/LesothoAdventures/admin"
+			],
+			"notes": "Wesite, custom CMS & print designs for a Lesotho tours company.",
+			"partner": "",
+			"project_type": "Website, Web App & Branding",
+			"project": "Lesotho Adventures",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "lesothoadventures",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Jquery",
+				"PHP",
+				"MySQL",
+				"CMS",
+				"Photoshop"
+			],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": ["store-images/Noise/01.jpg", "store-images/Noise/01.jpg"],
+			"links": [""],
+			"notes": "",
+			"partner": "Music Mate",
+			"project_type": "Website Concept",
+			"project": "Noise",
+			"roles": ["Development", "design"],
+			"slug": "noise",
+			"tags": ["HTMl", "CSS", "Javascript", "CMS integration"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-AfroDeli/01.jpg",
+				"store-images/OnePlanet-AfroDeli/01.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Branding",
+			"project": "Afro Deli Logo",
+			"roles": ["Design"],
+			"slug": "oneplanet-afrodeli",
+			"tags": ["Photoshop"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-Afrokwazi/01.jpg",
+				"store-images/OnePlanet-Afrokwazi/01.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website Concept",
+			"project": "AfroKwazi",
+			"roles": ["Design", "UX"],
+			"slug": "oneplanet-afrokwazi",
+			"tags": ["Photoshop"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-DesperateHouseholds/01.jpg",
+				"store-images/OnePlanet-DesperateHouseholds/02.jpg",
+				"store-images/OnePlanet-DesperateHouseholds/03.jpg",
+				"store-images/OnePlanet-DesperateHouseholds/04.jpg",
+				"store-images/OnePlanet-DesperateHouseholds/05.jpg",
+				"store-images/OnePlanet-DesperateHouseholds/06.jpg",
+				"store-images/OnePlanet-DesperateHouseholds/07.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website",
+			"project": "Desperate Households",
+			"roles": ["Design", "UX"],
+			"slug": "oneplanet-desperatehouseholds",
+			"tags": ["Photoshop"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-Gwaragwara/01.jpg",
+				"store-images/OnePlanet-Gwaragwara/02.jpg",
+				"store-images/OnePlanet-Gwaragwara/03.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-Gwaragwara/"],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website",
+			"project": "GwaraGwara",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "oneplanet-gwaragwara",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-NuHealth/00.jpg",
+				"store-images/OnePlanet-NuHealth/01.jpg",
+				"store-images/OnePlanet-NuHealth/02.jpg",
+				"store-images/OnePlanet-NuHealth/03.jpg",
+				"store-images/OnePlanet-NuHealth/04.jpg",
+				"store-images/OnePlanet-NuHealth/05.jpg",
+				"store-images/OnePlanet-NuHealth/06.jpg",
+				"store-images/OnePlanet-NuHealth/07.jpg",
+				"store-images/OnePlanet-NuHealth/08.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website & Branding",
+			"project": "Nu Health",
+			"roles": ["Design", "UX"],
+			"slug": "oneplanet-nuhealth",
+			"tags": ["Photoshop", "Logo", "Flyer", "Website"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-OffTheChart/01.jpg",
+				"store-images/OnePlanet-OffTheChart/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-OffTheChart/"],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website",
+			"project": "Off The Chart",
+			"roles": ["Development", "design"],
+			"slug": "oneplanet-offthechart",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-Outdoors365/01.jpg",
+				"store-images/OnePlanet-Outdoors365/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-Outdoors365/"],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website",
+			"project": "Outdoors 365",
+			"roles": ["Development", "design"],
+			"slug": "oneplanet-outdoors365",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-SolesForAfrica/01.jpg",
+				"store-images/OnePlanet-SolesForAfrica/01.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Branding",
+			"project": "Soles For Africa Logo",
+			"roles": ["Design"],
+			"slug": "oneplanet-solesforafrica",
+			"tags": ["Photoshop"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-SparksOutdoors/00.jpg",
+				"store-images/OnePlanet-SparksOutdoors/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-SparksOutdoors/"],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website",
+			"project": "Sparks Outdoors",
+			"roles": ["Development", "design"],
+			"slug": "oneplanet-sparksoutdoors",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Platine/00.jpg",
+				"store-images/Platine/01.jpg",
+				"store-images/Platine/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Platine/"],
+			"notes": "French cuisine restaurant that was based in Cape Town.",
+			"partner": "",
+			"project_type": "Flash Website",
+			"project": "Platine",
+			"roles": ["Development", "design"],
+			"slug": "platine",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS3"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/StringTheory/01.jpg",
+				"store-images/StringTheory/01.jpg",
+				"store-images/StringTheory/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/StringTheory/"],
+			"notes": "Digital design studio & portfolio based in Pietermaritzburg.",
+			"partner": "",
+			"project_type": "Website",
+			"project": "String Theory",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "stringtheory",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Jquery"],
+			"year": 2010
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Amplehosting/00.jpg",
+				"store-images/Amplehosting/01.jpg",
+				"store-images/Amplehosting/02.jpg",
+				"store-images/Amplehosting/03.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website Concept",
+			"project": "Ample Hosting",
+			"roles": ["Design"],
+			"slug": "amplehosting",
+			"tags": ["Photoshop"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/ContrastTheWater/00.jpg",
+				"store-images/ContrastTheWater/01.jpg",
+				"store-images/ContrastTheWater/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/ContrastTheWater/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Flash Website",
+			"project": "Contrast The Water",
+			"roles": ["Development", "Design"],
+			"slug": "contrastthewater",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS3", "PHP"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/DenyTheEmpire/00.jpg",
+				"store-images/DenyTheEmpire/01.jpg",
+				"store-images/DenyTheEmpire/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/DenyTheEmpire/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website & Branding",
+			"project": "Deny The Empire",
+			"roles": ["Development", "design"],
+			"slug": "denytheempire",
+			"tags": ["Archive", "HTML", "CSS", "PHP", "Javascript", "Jquery"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Greendoor/01.jpg",
+				"store-images/Greendoor/01.jpg",
+				"store-images/Greendoor/02.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Greendoor/",
+				"http://joduplessis.com/store/Greendoor/admin"
+			],
+			"notes": "Custom built CMS & website.",
+			"partner": "",
+			"project_type": "Website & Web App",
+			"project": "Greendoor",
+			"roles": ["Development", "design"],
+			"slug": "greendoor",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"PHP",
+				"Javascript",
+				"Jquery",
+				"MySQL",
+				"CMS"
+			],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/LeatherFromHart/00.jpg",
+				"store-images/LeatherFromHart/01.jpg",
+				"store-images/LeatherFromHart/02.jpg",
+				"store-images/LeatherFromHart/03.jpg"
+			],
+			"links": ["http://joduplessis.com/store/LeatherFromHart/"],
+			"notes": "Website & custom CMS for a local leather tannery.",
+			"partner": "",
+			"project_type": "Website & Web App",
+			"project": "Leather From Hart",
+			"roles": ["Development", "design"],
+			"slug": "leatherfromhart",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Jquery",
+				"PHP",
+				"MySQL"
+			],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet/02.jpg",
+				"store-images/OnePlanet/01.jpg",
+				"store-images/OnePlanet/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet/"],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Wordpress Website & Flash Interactive",
+			"project": "One Planet",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "oneplanet",
+			"tags": [
+				"Archive",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Flash",
+				"AS3",
+				"Away3d"
+			],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-Asmalls/01.jpg",
+				"store-images/OnePlanet-Asmalls/02.jpg",
+				"store-images/OnePlanet-Asmalls/03.jpg",
+				"store-images/OnePlanet-Asmalls/04.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website Concept",
+			"project": "Asmalls",
+			"roles": ["Design", "UX"],
+			"slug": "oneplanet-asmalls",
+			"tags": ["Photoshop"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-JeanJunction/01.jpg",
+				"store-images/OnePlanet-JeanJunction/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-JeanJunction/"],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website",
+			"project": "Jean Junction",
+			"roles": ["Development", "design"],
+			"slug": "oneplanet-jeanjunction",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-ReebokBreastCancer/01.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/02.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/03.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/04.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/05.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/07.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/08.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/09.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/10.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/11.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/12.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/13.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/14.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/15.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/17.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/18.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/19.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/20.jpg",
+				"store-images/OnePlanet-ReebokBreastCancer/16.jpg"
+			],
+			"links": [""],
+			"notes": "Reebok breast cancer campaign pitch - for print & web.",
+			"partner": "One Planet",
+			"project_type": "Print",
+			"project": "Reebok breast cancer campaign",
+			"roles": ["Design", "UX"],
+			"slug": "oneplanet-reebokbreastcancer",
+			"tags": ["Photoshop"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/OnePlanet-SensesDaySpa/01.jpg",
+				"store-images/OnePlanet-SensesDaySpa/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/OnePlanet-SensesDaySpa/"],
+			"notes": "",
+			"partner": "One Planet",
+			"project_type": "Website",
+			"project": "Senses Day Spa",
+			"roles": ["Development", "design"],
+			"slug": "oneplanet-sensesdayspa",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Debonairs/00.jpg",
+				"store-images/Debonairs/01.jpg"
+			],
+			"links": [""],
+			"notes": "Unfortunately there are no screenshots of this project.",
+			"partner": "Clyral",
+			"project_type": "Mobile Site",
+			"project": "Debonairs",
+			"roles": ["Development", "UX"],
+			"slug": "debonairsmobi",
+			"tags": ["Archive", "Microsoft Sketchup", "HTML", "CSS"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-Condo/00.jpg",
+				"store-images/Test-Condo/00.jpg",
+				"store-images/Test-Condo/01.jpg",
+				"store-images/Test-Condo/02.jpg",
+				"store-images/Test-Condo/03.jpg"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "3D Vis",
+			"project": "Condo",
+			"roles": ["3D Vis"],
+			"slug": "3dcondo",
+			"tags": ["3dsmax", "Adobe Photoshop"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-Furniture/01.jpg",
+				"store-images/Test-Furniture/01.jpg",
+				"store-images/Test-Furniture/02.jpg",
+				"store-images/Test-Furniture/03.jpg",
+				"store-images/Test-Furniture/04.jpg",
+				"store-images/Test-Furniture/05.jpg",
+				"store-images/Test-Furniture/06.jpg",
+				"store-images/Test-Furniture/main.jpg"
+			],
+			"links": [],
+			"notes": "Working proof of concept for an interactive furniture customizer.",
+			"partner": "",
+			"project_type": "Unity3D Interactive",
+			"project": "Interactive Furniture Customizer",
+			"roles": ["3D", "Design", "Dev"],
+			"slug": "test-furniture",
+			"tags": ["3dsmax", "Adobe Photoshop", "Unity3D"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-GameConcepts/nobounce.jpg",
+				"store-images/Test-GameConcepts/car.jpg",
+				"store-images/Test-GameConcepts/ball.jpg",
+				"store-images/Test-GameConcepts/nobounce.jpg"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "Concept Design",
+			"project": "Unity3D game concepts",
+			"roles": ["3D", "Design", "Dev"],
+			"slug": "test-gameconcepts",
+			"tags": ["3dsmax", "Adobe Photoshop", "Unity3D"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Test-VirtualCar/01.jpg",
+				"store-images/Test-VirtualCar/01.jpg",
+				"store-images/Test-VirtualCar/02.jpg",
+				"store-images/Test-VirtualCar/03.jpg",
+				"store-images/Test-VirtualCar/04.jpg",
+				"store-images/Test-VirtualCar/05.jpg",
+				"store-images/Test-VirtualCar/06.jpg",
+				"store-images/Test-VirtualCar/main.jpg"
+			],
+			"links": [],
+			"notes": "Working proof of concept for a Unity3D interactive car customizer",
+			"partner": "",
+			"project_type": "Unity3D Interactive",
+			"project": "Virtual Car Customizer",
+			"roles": ["3D", "Design", "Dev"],
+			"slug": "test-virtualcar",
+			"tags": ["3dsmax", "Adobe Photoshop", "Unity3D"],
+			"year": 2009
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/CreativeWisdom-CFIS/00.jpg",
+				"store-images/CreativeWisdom-CFIS/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/CreativeWisdom-CFIS/"],
+			"notes": "",
+			"partner": "CreativeWisdom",
+			"project_type": "Website & Branding",
+			"project": "CFIS",
+			"roles": ["Development", "Design"],
+			"slug": "creativewisdom-cfis",
+			"tags": ["Archive", "HTML", "CSS", "PHP", "Javascript"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/DirectMarketingSuccess/00.jpg",
+				"store-images/DirectMarketingSuccess/00.jpg",
+				"store-images/DirectMarketingSuccess/01.jpg",
+				"store-images/DirectMarketingSuccess/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/DirectMarketingSuccess/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Flash Website",
+			"project": "Direct Marketing Success",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "directmarketingsuccess",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS3"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/Brochure/00.jpg",
+				"store-images/NCFChurch/Brochure/01.jpg",
+				"store-images/NCFChurch/Brochure/02.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Print",
+			"project": "NCF Church brochure",
+			"roles": ["Design"],
+			"slug": "ncfchurchbrochure",
+			"tags": ["Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/DestinyProjectCorporateIdentity/00.jpg",
+				"store-images/NCFChurch/DestinyProjectCorporateIdentity/01.jpg",
+				"store-images/NCFChurch/DestinyProjectCorporateIdentity/02.jpg",
+				"store-images/NCFChurch/DestinyProjectCorporateIdentity/03.jpg",
+				"store-images/NCFChurch/DestinyProjectCorporateIdentity/04.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Branding & Design",
+			"project": "NCF Church Destiny Project",
+			"roles": ["Design"],
+			"slug": "ncfchurchdestinyprojectcorporateidentity",
+			"tags": ["Photoshop", "Poster", "Flyer", "Logo"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/DestinyProjectWebsite/00.jpg",
+				"store-images/NCFChurch/DestinyProjectWebsite/01.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/NCFChurch/DestinyProjectWebsite/"
+			],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website",
+			"project": "NCF Church Destiny Project",
+			"roles": ["Development", "design"],
+			"slug": "ncfchurchdestinyprojectwebsite",
+			"tags": ["Archive", "HTML", "CSS", "Javascript"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/FrontiersFlyer/00.jpg",
+				"store-images/NCFChurch/FrontiersFlyer/01.jpg",
+				"store-images/NCFChurch/FrontiersFlyer/02.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Print",
+			"project": "NCF Church Fronteirs",
+			"roles": ["Design"],
+			"slug": "ncfchurchfrontiersflyer",
+			"tags": ["Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/FrontiersWebsite/00.jpg",
+				"store-images/NCFChurch/FrontiersWebsite/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/NCFChurch/FrontiersWebsite/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website",
+			"project": "NCF Church Fronteirs",
+			"roles": ["Development", "design"],
+			"slug": "ncfchurchfrontierswebsite",
+			"tags": ["Archive", "XHTML", "CSS", "Javascript"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/Intranet/00.jpg",
+				"store-images/NCFChurch/Intranet/01.jpg",
+				"store-images/NCFChurch/Intranet/02.jpg",
+				"store-images/NCFChurch/Intranet/03.jpg",
+				"store-images/NCFChurch/Intranet/04.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/NCFChurch/Intranet/",
+				"https://github.com/joduplessis/member-manager"
+			],
+			"notes": "Intranet member management portal. Username: admin & password: admin",
+			"partner": "",
+			"project_type": "Web App",
+			"project": "NCF Church Member Management",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "ncfchurchintranet",
+			"tags": [
+				"Archive",
+				"Legacy",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"PHP",
+				"MySQL",
+				"PDF API"
+			],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/LadiesMeeting/00.jpg",
+				"store-images/NCFChurch/LadiesMeeting/01.jpg",
+				"store-images/NCFChurch/LadiesMeeting/02.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Print",
+			"project": "NCF Church Ladies Meeting",
+			"roles": ["Design"],
+			"slug": "ncfchurchladiesmeeting",
+			"tags": ["Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/MensCamp/00.jpg",
+				"store-images/NCFChurch/MensCamp/01.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Print",
+			"project": "NCF Church Mens Camp",
+			"roles": ["Design"],
+			"slug": "ncfchurchmenscamp",
+			"tags": ["Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/NCFChurch/Posters/00.jpg",
+				"store-images/NCFChurch/Posters/01.jpg",
+				"store-images/NCFChurch/Posters/02.jpg",
+				"store-images/NCFChurch/Posters/03.jpg",
+				"store-images/NCFChurch/Posters/04.jpg",
+				"store-images/NCFChurch/Posters/05.jpg",
+				"store-images/NCFChurch/Posters/06.jpg"
+			],
+			"links": [""],
+			"notes": "",
+			"partner": "",
+			"project_type": "Various",
+			"project": "NCF Church",
+			"roles": ["Design"],
+			"slug": "ncfchurchposters",
+			"tags": ["Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/SarahKang/01.jpg",
+				"store-images/SarahKang/01.jpg"
+			],
+			"links": [""],
+			"notes": "Logo design competition",
+			"partner": "",
+			"project_type": "Branding",
+			"project": "Sarah Kang logo",
+			"roles": ["Design"],
+			"slug": "sarahkang",
+			"tags": ["Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": ["store-images/SLOT/01.jpg", "store-images/SLOT/01.jpg"],
+			"links": ["http://joduplessis.com/store/SLOT/"],
+			"notes": "School Leavers Opportunity Training (SLOT) is a registered Non Government Organization (NGO) founded in 1990 by Pauline Greene.",
+			"partner": "",
+			"project_type": "Flash Website",
+			"project": "SLOT",
+			"roles": ["Development", "design"],
+			"slug": "slot",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS3"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/UFETCollege/00.jpg",
+				"store-images/UFETCollege/01.jpg",
+				"store-images/UFETCollege/02.jpg"
+			],
+			"links": ["http://www.ufetcollege.co.za/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Wordpress Website",
+			"project": "UFET College",
+			"roles": ["Development", "design"],
+			"slug": "ufetcollege",
+			"tags": ["HTML", "CSS", "PHP", "Javascript", "Jquery", "Wordpress"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/WaterPS/01.jpg",
+				"store-images/WaterPS/01.jpg",
+				"store-images/WaterPS/02.jpg",
+				"store-images/WaterPS/03.jpg",
+				"store-images/WaterPS/04.jpg"
+			],
+			"links": ["http://www.waterps.co.za/", "http://www.waterps.co.za/admin"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website & Web App",
+			"project": "Water PS",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "waterps",
+			"tags": ["HTML", "CSS", "PHP", "Javascript", "Jquery", "MySQL", "CMS"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/sally.png",
+				"store-images/singles/sally.png"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website Concept",
+			"project": "Sally-ann Boshoff",
+			"roles": ["Design"],
+			"slug": "sallyannboshoff",
+			"tags": ["Adobe Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/shirley.png",
+				"store-images/singles/shirley.png"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "Website Concept",
+			"project": "Shirley Dalton",
+			"roles": ["Design"],
+			"slug": "shirleydalton",
+			"tags": ["Adobe Photoshop"],
+			"year": 2008
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Firefly/iAssist/01.jpg",
+				"store-images/Firefly/iAssist/01.jpg",
+				"store-images/Firefly/iAssist/02.jpg",
+				"store-images/Firefly/iAssist/03.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/Firefly/iAssist/",
+				"https://github.com/joduplessis/iassist"
+			],
+			"notes": "iAssist was an extension platform for Pastel Accounting that added additional features.",
+			"partner": "Firefly",
+			"project_type": "Web App",
+			"project": "iAssist",
+			"roles": ["Design", "Development", "Technical Direction"],
+			"slug": "fireflyiassist",
+			"tags": [
+				"Archive",
+				"Legacy",
+				"HTML",
+				"CSS",
+				"Javascript",
+				"PHP",
+				"Pastel",
+				"ODBC",
+				"Purvasive DB"
+			],
+			"year": 2007
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Firefly/website/01.jpg",
+				"store-images/Firefly/website/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Firefly/website/"],
+			"notes": "",
+			"partner": "Firefly",
+			"project_type": "Flash Website & Branding",
+			"project": "Firefly",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "fireflywebsite",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS3"],
+			"year": 2007
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/GussyAdventures/01.jpg",
+				"store-images/GussyAdventures/01.jpg",
+				"store-images/GussyAdventures/02.jpg"
+			],
+			"links": ["http://joduplessis.com/store/GussyAdventures/"],
+			"notes": "Flash based travel website.",
+			"partner": "",
+			"project_type": "Flash Website",
+			"project": "Gussy Adventures",
+			"roles": ["Development", "design"],
+			"slug": "gussyadventures",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS2"],
+			"year": 2007
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/KZN2010/Map/01.jpg",
+				"store-images/KZN2010/Map/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/KZN2010/Map/"],
+			"notes": "Interactive Flash map for a 2010 world cup website.",
+			"partner": "KZN2010",
+			"project_type": "Flash Interactive",
+			"project": "KZN2010",
+			"roles": ["Development", "design"],
+			"slug": "kzn2010map",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS2", "XML"],
+			"year": 2007
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/KZN2010/Soccer/00.jpg",
+				"store-images/KZN2010/Soccer/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/KZN2010/Soccer game/"],
+			"notes": "Promotional Flash game for the 2010 world cup.",
+			"partner": "KZN2010",
+			"project_type": "Flash Game",
+			"project": "KZN2010 Soccer",
+			"roles": ["Development", "design"],
+			"slug": "kzn2010soccergame",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS2", "XML"],
+			"year": 2007
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/newmedia.png",
+				"store-images/singles/newmedia.png"
+			],
+			"links": [],
+			"notes": "",
+			"partner": "",
+			"project_type": "Digital",
+			"project": "Wallpaper",
+			"roles": ["Design"],
+			"slug": "wallpaper",
+			"tags": ["Adobe Photoshop"],
+			"year": 2007
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/TathamWilkes/00.jpg",
+				"store-images/TathamWilkes/Website2006/01.jpg",
+				"store-images/TathamWilkes/Website2006/02.jpg",
+				"store-images/TathamWilkes/Website2006/03.jpg",
+				"store-images/TathamWilkes/Website2007/01.jpg",
+				"store-images/TathamWilkes/Website2007/02.jpg"
+			],
+			"links": [
+				"http://joduplessis.com/store/TathamWilkes/Website2006/",
+				"http://joduplessis.com/store/TathamWilkes/Website2007/"
+			],
+			"notes": "Tatham Wilkes inc. is a prominent law firm based in Pietermaritzburg, KwaZulu-Natal. ",
+			"partner": "Firefly",
+			"project_type": "Flash Website & Website",
+			"project": "Tatham Wilkes 2006 & 2007",
+			"roles": ["Design", "Development", "UX"],
+			"slug": "tathamwilkeswebsite",
+			"tags": ["Archive", "HTML", "CSS", "Javascript", "Flash", "AS3"],
+			"year": 2006
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Urent/05.jpg",
+				"store-images/Urent/00.jpg",
+				"store-images/Urent/01.jpg",
+				"store-images/Urent/02.jpg",
+				"store-images/Urent/03.jpg",
+				"store-images/Urent/04.jpg"
+			],
+			"links": [],
+			"notes": "Urent was a portal for listing properties to rent in the local market. If never got passed MVP / pitching phase. The portal was built in vanilla PHP.",
+			"partner": "Firefly",
+			"project_type": "Web App",
+			"project": "Urent",
+			"roles": ["Development", "Design"],
+			"slug": "urent",
+			"tags": [
+				"Archive",
+				"Adobe Photoshop",
+				"PHP",
+				"HTML",
+				"CSS",
+				"Shared hosting"
+			],
+			"year": 2006
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Apexmedia/00.jpg",
+				"store-images/Apexmedia/01.jpg"
+			],
+			"links": ["http://joduplessis.com/store/Apexmedia/"],
+			"notes": "",
+			"partner": "",
+			"project_type": "Flash Website",
+			"project": "Apexmedia",
+			"roles": ["Development", "design"],
+			"slug": "apexmedia",
+			"tags": ["Archive", "Flash", "AS2", "PHP", "HTML", "CSS"],
+			"year": 2005
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/singles/website-ascotinn.jpg",
+				"store-images/singles/website-ascotinn.jpg"
+			],
+			"links": ["https://web.archive.org/web/20060401000000*/ascot-inn.co.za"],
+			"notes": "Website for Ascot Inn lodge in Pietermaritzburg.",
+			"partner": "Xposure",
+			"project_type": "Website",
+			"project": "Ascot Inn",
+			"roles": ["Design", "Dev"],
+			"slug": "ascot",
+			"tags": ["Adobe Photoshop", "HTML", "CSS"],
+			"year": 2005
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Xposure/00.png",
+				"store-images/Xposure/01.png",
+				"store-images/Xposure/02.png",
+				"store-images/Xposure/03.png"
+			],
+			"links": [
+				"http://joduplessis.com/store/Xposure/07.html",
+				"http://joduplessis.com/store/Xposure/16.html",
+				"http://joduplessis.com/store/Xposure/17.html"
+			],
+			"notes": "Various interactive Flash content for promotions & interfaces.",
+			"partner": "Xposure",
+			"project_type": "Flash Interactive & Animation",
+			"project": "Xposure",
+			"roles": ["Development", "Design", "Illustration", "Animation"],
+			"slug": "xpoosure",
+			"tags": [
+				"Archive",
+				"Adobe Photoshop",
+				"Macromedia Flash",
+				"Actionscript 2",
+				"Swift 3D"
+			],
+			"year": 2004
+		}
+	]
+}

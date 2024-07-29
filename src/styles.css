@@ -1,0 +1,118 @@
+:root {
+    /* --f-font-body: 'DM Sans';
+    --f-font-heading: 'DM Sans'; */
+    --f-radius: 1rem;
+}
+
+html, body {
+    background: var(--f-color-background);
+    font-size: 14px;
+    text-rendering: optimizeLegibility;
+}
+
+.home {
+    background-image: radial-gradient(var(--f-color-border-strong) 1px, transparent 0);    
+    background-size: 9px 9px;
+    background-position: -19px -19px;
+}
+
+.home-main {
+    padding: 6rem 10rem;
+}
+
+.project {
+    width: calc(100% / 6);
+    height: 200px;
+    padding: 5px;
+	position: relative;
+}
+
+.project__container {
+    background-color: var(--f-color-surface-inverse);
+    height: 100%;
+    width: 100%;
+	border-radius: var(--f-radius);
+	overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+	transition: outline 0.1s;
+}
+
+.project__container:hover {
+    outline: 4px solid var(--f-color-accent);
+    outline-offset: 3px;  
+    opacity: 1;  
+}
+
+.project__details {
+	padding: 0.5rem;
+	background: var(--f-color-base-950);
+	color: var(--f-color-base-50);
+	height: fit-content;
+    width: fit-content;
+}
+
+.project__details > .f-text {
+    color: inherit;
+}
+
+.project-images {
+    flex: 1;
+}
+
+.project-info {
+    flex: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 900px) {
+    .project {
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .project {
+        width: calc(100% / 3);
+    }
+}
+
+@media (max-width: 480px) {
+    .home-main {
+        padding: 2rem;
+        display: block;
+        line-height: 3rem;
+    }
+
+    .home-main > h1 {
+        font-size: 3rem !important;
+        display: inline !important;
+    }
+
+    .project {
+        width: 50%;
+    }
+
+    .project-panels {
+        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+
+    .project-images {
+        width: 100%;
+    }
+
+    .project-info {
+        width: 100%;
+    }
+}
