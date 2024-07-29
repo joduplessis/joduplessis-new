@@ -152,12 +152,12 @@ export const WorkLayout = (props: any) => {
                         url="https://github.com/joduplessis/wami"
                     />
                 </View>
-
+{/* 
                 <View
                     row
                     gap="2rem"
                     p="0.5rem 1.5rem 2rem 1.5rem">
-                   {/*  <HeroComponent 
+                    <HeroComponent 
                         flex={1} 
                         image="beiersdorf.png"
                         notes="Beiersdorf consumer insights platform concept."
@@ -175,8 +175,8 @@ export const WorkLayout = (props: any) => {
                         slug="chow-next"
                         year="2018"
                         url="https://www.chowsolutions.com"
-                    /> */}
-                </View>
+                    />
+                </View> */}
             </div>
 
             <Content

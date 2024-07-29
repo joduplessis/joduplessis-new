@@ -37,6 +37,23 @@ export const AppLayout = (props: any) => {
                         />
                     </a>
                     <Flexer />
+                    <Link 
+                        size="lg"
+                        className="f-underline hide-on-mobile"
+                        colorToken="text"
+                        target="_blank"
+                        m="0 1.5rem 0 0"
+                        href="https://calendly.com/jo-fold/30min">
+                        Book a Meet
+                    </Link>
+                    <Link 
+                        size="lg"
+                        className="f-underline"
+                        colorToken="text"
+                        m="0 1.5rem 0 0"
+                        href="mailto:jo@joduplessis.com">
+                        Contact
+                    </Link>
                     <SocialIcon
                         url="https://github.com/joduplessis"
                         target="_blank"

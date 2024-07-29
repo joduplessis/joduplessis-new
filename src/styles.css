@@ -1,6 +1,4 @@
 :root {
-    /* --f-font-body: 'DM Sans';
-    --f-font-heading: 'DM Sans'; */
     --f-radius: 1rem;
 }
 
@@ -164,15 +162,27 @@ html, body {
     .project {
         width: 25%;
     }
+
+    .hide-on-mobile {
+        display: none;
+    }
 }
 
 @media only screen and (max-width: 600px) {
     .project {
         width: calc(100% / 3);
     }
+    
+    .hide-on-mobile {
+        display: none;
+    }
 }
 
 @media (max-width: 480px) {
+    .hide-on-mobile {
+        display: none;
+    }
+
     .home-main {
         padding: 2rem;
         display: block;
