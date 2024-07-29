@@ -130,17 +130,6 @@ export const WorkLayout = (props: any) => {
                         url="https://weekday.work"
                     />
                     <HeroComponent 
-                        flex={1}  
-                        adjustY={50}
-                        image="teachfolk.png"
-                        adjustX={-20}
-                        notes="Effortlessly drive and scale remote learning from one powerful platform."
-                        project="Teachfolk"
-                        slug="teachfolk"
-                        year="2020"
-                        url="https://teachfolk.com"
-                    />
-                    <HeroComponent 
                         flex={1}    
                         adjustY={50}
                         adjustX={-50}
@@ -150,6 +139,17 @@ export const WorkLayout = (props: any) => {
                         slug="wami"
                         year="2019"
                         url="https://github.com/joduplessis/wami"
+                    />
+                    <HeroComponent 
+                        flex={1}  
+                        adjustY={50}
+                        image="teachfolk.png"
+                        adjustX={-20}
+                        notes="Effortlessly drive and scale remote learning from one powerful platform."
+                        project="Teachfolk"
+                        slug="teachfolk"
+                        year="2024"
+                        url="https://teachfolk.com"
                     />
                 </View>
 {/* 
