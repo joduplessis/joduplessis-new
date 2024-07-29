@@ -39,7 +39,7 @@ export const AppLayout = (props: any) => {
                     <Flexer />
                     <Link 
                         size="lg"
-                        className="f-underline hide-on-mobile"
+                        className="f-underline"
                         colorToken="text"
                         target="_blank"
                         m="0 1.5rem 0 0"
@@ -48,7 +48,7 @@ export const AppLayout = (props: any) => {
                     </Link>
                     <Link 
                         size="lg"
-                        className="f-underline"
+                        className="f-underline hide-on-mobile"
                         colorToken="text"
                         m="0 1.5rem 0 0"
                         href="mailto:jo@joduplessis.com">
@@ -75,6 +75,7 @@ export const AppLayout = (props: any) => {
                     flex={1}
                     gap="1.5rem">
                     <Heading huge>UI/UX guy. </Heading>
+                    <Heading huge>Fullstack engineer. </Heading>
                     <Heading huge>Design systems geek. </Heading>
                     <Heading huge>Building{' '}
                         <Link
