@@ -28,9 +28,12 @@ export const AppLayout = (props: any) => {
                         <Avatar
                             src="./avatar.png"
                             name="Jo du Plessis"
-                            className="f-buttonize-outline"
+                            className="f-buttonize"
                             size="xl"
-                            style={{ outlineOffset: 2 }}
+                            style={{ 
+                                outlineOffset: 2,
+                                outline: '2px solid var(--f-color-surface-inverse)', 
+                            }}
                         />
                     </a>
                     <Flexer />

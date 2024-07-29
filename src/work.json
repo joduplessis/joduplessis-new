@@ -7,9 +7,9 @@
 				"store-images/IgnitionGroup/paiment00.png"
 			],
 			"links": ["https://www.paimentplatform.com"],
-			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party API integrations.",
+			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party payments API integrations.",
 			"partner": "Ignition Group",
-			"project_type": "Web App Dashboard",
+			"project_type": "Web App Dashboard & API Integration",
 			"project": "Paiment POS",
 			"private": true,
 			"roles": [
@@ -43,7 +43,7 @@
 			"links": ["https://www.ignitiongroup.co.za"],
 			"notes": "Product design, UX strategy & branding management for several of Ignition Group Platform's software products that are internally developed. ",
 			"partner": "Ignition Group",
-			"project_type": "SaaS Enterprise Platforms",
+			"project_type": "SaaS Enterprise Platform",
 			"project": "Ignition Group",
 			"private": true,
 			"roles": [
@@ -153,7 +153,7 @@
 			"links": ["https://fold.dev","https://fold.dev/docs","https://github.com/fold-dev"],
 			"notes": "Zero-dependency React components for scaling your product to the next level.",
 			"partner": "",
-			"project_type": "React components",
+			"project_type": "UI Library",
 			"project": "Fold",
 			"roles": ["Design", "Development", "DevOps", "Strategy"],
 			"slug": "fold",
