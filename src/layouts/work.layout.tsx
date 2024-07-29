@@ -56,7 +56,6 @@ export const WorkLayout = (props: any) => {
                 <View 
                     row
                     width="100%"
-                    bgToken="base-900"
                     bg="transparent"
                     style={{ borderTop: '1px solid var(--f-color-base-700)' }}
                     p="1.5rem 0 1rem 0">
@@ -73,9 +72,8 @@ export const WorkLayout = (props: any) => {
 
                 <View
                     row
-                    bgToken="base-900"
                     gap="2rem"
-                    p="0.5rem 1rem 0 1rem">
+                    p="0.5rem 1.5rem 0 1.5rem">
                     <HeroComponent 
                         flex={1}    
                         image="fold.png"
@@ -107,9 +105,8 @@ export const WorkLayout = (props: any) => {
 
                 <View
                     row
-                    bgToken="base-900"
                     gap="2rem"
-                    p="2rem 1rem 2rem 1rem">
+                    p="2rem 1.5rem 2rem 1.5rem">
                     <HeroComponent 
                         flex={1}  
                         adjust={50}  
