@@ -76,6 +76,17 @@ export const WorkLayout = (props: any) => {
                     p="0.5rem 1.5rem 0 1.5rem">
                     <HeroComponent 
                         flex={1}    
+                        adjustY={0}
+                        adjustX={0}
+                        image="paiment.png"
+                        notes="In-store device payment platform."
+                        project="Paiment POS"
+                        slug="paiment-pos"
+                        year="2024"
+                        url=""
+                    />
+                    <HeroComponent 
+                        flex={1}    
                         image="fold.png"
                         notes="Zero-dependency React components for scaling your product to the next level."
                         project="Fold"
@@ -86,12 +97,19 @@ export const WorkLayout = (props: any) => {
                     <HeroComponent 
                         flex={1}    
                         image="plural.png"
+                        adjustX={-20}
                         notes="The future of insurance on Web3."
                         project="Plural"
                         slug="plural"
                         year="2023"
                         url="https://plural.fi"
                     />
+                </View>
+
+                <View
+                    row
+                    gap="2rem"
+                    p="2rem 1.5rem 1.5rem 1.5rem">
                     <HeroComponent 
                         flex={1} 
                         image="adtriba.png"
@@ -101,15 +119,9 @@ export const WorkLayout = (props: any) => {
                         year="2022"
                         url="https://adtriba.com"
                     />
-                </View>
-
-                <View
-                    row
-                    gap="2rem"
-                    p="2rem 1.5rem 2rem 1.5rem">
                     <HeroComponent 
                         flex={1}  
-                        adjust={50}  
+                        adjustY={50}  
                         image="weekday.png"
                         notes="Level up your team with a self hosted project collaboration platform."
                         project="Weekday"
@@ -119,23 +131,50 @@ export const WorkLayout = (props: any) => {
                     />
                     <HeroComponent 
                         flex={1}  
-                        adjust={50}  
+                        adjustY={50}
                         image="teachfolk.png"
+                        adjustX={-20}
                         notes="Effortlessly drive and scale remote learning from one powerful platform."
                         project="Teachfolk"
                         slug="teachfolk"
                         year="2020"
                         url="https://teachfolk.com"
                     />
+                </View>
+
+                <View
+                    row
+                    gap="2rem"
+                    p="0.5rem 1.5rem 2rem 1.5rem">
                     <HeroComponent 
                         flex={1}    
-                        adjust={80}
+                        adjustY={50}
+                        adjustX={-50}
                         image="wami.png"
                         notes="Whether you are a dietitian, therapist or personal trainer - you can use Wami to connect with your clients."
                         project="Wami"
                         slug="wami"
                         year="2019"
                         url="https://github.com/joduplessis/wami"
+                    />
+                    <HeroComponent 
+                        flex={1} 
+                        image="beiersdorf.png"
+                        notes="Beiersdorf consumer insights platform concept."
+                        project="Beiersdorf CI Platform"
+                        slug="beiersdorf"
+                        year="2019"
+                        url=""
+                    />
+                    <HeroComponent 
+                        flex={1}    
+                        image="chow.jpg"
+                        adjustX={-20}
+                        notes="Find healthy meal options around you."
+                        project="Chow"
+                        slug="chow-next"
+                        year="2018"
+                        url="https://www.chowsolutions.com"
                     />
                 </View>
             </div>

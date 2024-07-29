@@ -6,7 +6,8 @@ export const HeroComponent = (props: any) => {
     const navigate = useNavigate()
     const {
         bg = 'transparent',
-        adjust = 0,
+        adjustY = 0,
+        adjustX = 0,
         flex,
         image,
         notes,
@@ -68,7 +69,7 @@ export const HeroComponent = (props: any) => {
 
                 <View
                     bg={bg}
-                    style={{ marginTop: adjust }}
+                    style={{ marginTop: adjustY, marginLeft: adjustX }}
                     flex={2}
                     height={500}
                     position="relative">
