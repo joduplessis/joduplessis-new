@@ -9,6 +9,7 @@ import {
     Heading,
     Icon,
     Image,
+    Link,
     Notification,
     NotificationContent,
     Stack,
@@ -47,7 +48,7 @@ export const ProjectLayout = (props: any) => {
             <Header
                 gap="1rem"
                 p="1rem"
-                bgToken="base-950"
+                bgToken="base-900"
                 colorToken="accent">
                 <Icon
                     onClick={() => navigate('/work')}
@@ -150,7 +151,32 @@ export const ProjectLayout = (props: any) => {
                                     </Badge>
                                 ))}
                             </View>
+                            <div />
+                            <Heading
+                                as="h4"
+                                colorToken="accent">
+                                Links
+                            </Heading>
+                            <View
+                                column
+                                gap="0.5rem"
+                                justifyContent="flex-start"
+                                alignContent="flex-start"
+                                alignItems="flex-start">
+                                {links.map((link, index) => (
+                                    <Link 
+                                        key={index}
+                                        href={link}
+                                        target="_blank"
+                                        textDecoration="none"
+                                        className="f-underline">
+                                        {link}
+                                    </Link>
+                                ))}
+                            </View>
                         </Stack>
+
+
                         {/* 
                         <span
                             v-for="(link, index) in getFirstElement(item).links"
