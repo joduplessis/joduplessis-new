@@ -41,6 +41,7 @@ export const WorkLayout = (props: any) => {
                     icon={ArrowLeftIcon}
                     size="xl" 
                     color="inherit"
+                    style={{ marginRight: 15 }}
                 />
                 <View
                     column
@@ -52,6 +53,24 @@ export const WorkLayout = (props: any) => {
             </Header>
 
             <div className="heroes">
+                <View 
+                    row
+                    width="100%"
+                    bgToken="base-900"
+                    bg="transparent"
+                    style={{ borderTop: '1px solid var(--f-color-base-700)' }}
+                    p="1.5rem 0 1rem 0">
+                    <Heading 
+                        as="h5"
+                        colorToken="accent-500"
+                        style={{ textTransform: 'uppercase' }}
+                        fontWeight={400}
+                        letterSpacing={3}
+                        color="inherit">
+                        Featured Work
+                    </Heading>
+                </View>
+
                 <View
                     row
                     bgToken="base-900"
@@ -105,7 +124,7 @@ export const WorkLayout = (props: any) => {
                         flex={1}  
                         adjust={50}  
                         image="teachfolk.png"
-                        notes="Effortlessly drive and scale remote learning from this powerful platform."
+                        notes="Effortlessly drive and scale remote learning from one powerful platform."
                         project="Teachfolk"
                         slug="teachfolk"
                         year="2020"
