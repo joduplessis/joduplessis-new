@@ -4,12 +4,7 @@
 			"author": "Jo du Plessis",
 			"images": [
 				"store-images/IgnitionGroup/paiment00.png",
-				"store-images/IgnitionGroup/paiment06.png",
-				"store-images/IgnitionGroup/paiment01.png",
-				"store-images/IgnitionGroup/paiment02.png",
-				"store-images/IgnitionGroup/paiment03.png",
-				"store-images/IgnitionGroup/paiment04.png",
-				"store-images/IgnitionGroup/paiment05.png"
+				"store-images/IgnitionGroup/paiment00.png"
 			],
 			"links": ["https://www.paimentplatform.com"],
 			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party API integrations.",
@@ -952,7 +947,6 @@
 			"project_type": "Social Platform Concept",
 			"project": "Beiersdorf Consumer Insights Platform",
 			"roles": ["Design", "Strategy"],
-			"private": true,
 			"slug": "beiersdorf",
 			"tags": ["UX", "UI", "HTML", "CSS", "Affinity"],
 			"year": 2019

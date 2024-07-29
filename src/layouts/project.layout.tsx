@@ -70,7 +70,7 @@ export const ProjectLayout = (props: any) => {
                     bottomAccent
                     variant="highlight">
                     <NotificationContent textAlign="center">
-                        More information available on request.
+                        Due to the nature of the work, more information is only available on request.
                     </NotificationContent>
                 </Notification>
             )}
