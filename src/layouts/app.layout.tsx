@@ -38,6 +38,7 @@ export const AppLayout = (props: any) => {
                     </a>
                     <Flexer />
                     <Link 
+                        display="none"
                         size="lg"
                         className="f-underline"
                         colorToken="text"
