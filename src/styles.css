@@ -9,13 +9,16 @@ html, body {
 }
 
 .home {
-    background-image: radial-gradient(var(--f-color-border-strong) 1px, transparent 0);    
     background-size: 9px 9px;
     background-position: -19px -19px;
 }
 
+[data-theme="light"] .home {
+    background-image: radial-gradient(var(--f-color-base-300) 1px, transparent 0);       
+}
+
 [data-theme="dark"] .home {
-    background-image: radial-gradient(var(--f-color-surface-strong) 1px, transparent 0);    
+    background-image: radial-gradient(var(--f-color-base-800) 1px, transparent 0);    
 }
 
 .home-main {
@@ -65,8 +68,6 @@ html, body {
 .project__details > .f-text {
     color: inherit;
 }
-
-
 
 .heroes {
     background: linear-gradient(15deg, var(--f-color-base-800), var(--f-color-base-900));
@@ -124,7 +125,7 @@ html, body {
     top: 0;
     left: 0;
     position: absolute;
-    background-image: radial-gradient(var(--f-color-base-700) 1px, transparent 0);      
+    background-image: radial-gradient(var(--f-color-base-800) 1px, transparent 0);    
     background-size: 9px 9px;
     background-position: -19px -19px;
     z-index: 0;
