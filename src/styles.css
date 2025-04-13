@@ -14,7 +14,7 @@ html, body {
 }
 
 [data-theme="light"] .home {
-    background-image: radial-gradient(var(--f-color-base-300) 1px, transparent 0);       
+    background-image: radial-gradient(var(--f-color-base-200) 1px, transparent 0);       
 }
 
 [data-theme="dark"] .home {
@@ -31,6 +31,13 @@ html, body {
 
 .project-info {
     flex: 1.5;
+}
+
+.projects {
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 3;
+    padding-top: 5px;
 }
 
 .project {
@@ -51,10 +58,16 @@ html, body {
 	transition: outline 0.1s;
 }
 
+.project:hover {
+    z-index: 10000;
+}
+
 .project__container:hover {
-    outline: 4px solid var(--f-color-accent);
-    outline-offset: 3px;  
+    outline: 5px solid var(--f-color-accent);
+    outline-offset: 0px;  
     opacity: 1;  
+    transition: outline 0.2s ease-out;
+    background-blend-mode: normal;
 }
 
 .project__details {
@@ -63,6 +76,10 @@ html, body {
 	color: var(--f-color-base-50);
 	height: fit-content;
     width: fit-content;
+}
+
+.project__container:hover .project__details {
+    display: block;
 }
 
 .project__details > .f-text {
@@ -89,7 +106,6 @@ html, body {
     background-size: cover;
     background-position: center center;
     position: relative;
-    z-index: 1;
 }
 
 .hero-image {

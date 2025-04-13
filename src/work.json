@@ -4,7 +4,14 @@
 			"author": "Jo du Plessis",
 			"images": [
 				"store-images/IgnitionGroup/paiment00.png",
-				"store-images/IgnitionGroup/paiment00.png"
+				"store-images/IgnitionGroup/paiment01.png",
+				"store-images/IgnitionGroup/paiment02.png",
+				"store-images/IgnitionGroup/paiment03.png",
+				"store-images/IgnitionGroup/paiment04.png",
+				"store-images/IgnitionGroup/paiment05.png",
+				"store-images/IgnitionGroup/paiment06.png",
+				"store-images/IgnitionGroup/07.png",
+				"store-images/IgnitionGroup/08.png"
 			],
 			"links": ["https://www.paimentplatform.com"],
 			"notes": "Frontend and backend development of the Paiment POS dashboard, enabling the visualization of transactional data via third-party payments API integrations.",
@@ -189,6 +196,58 @@
 				"Verdaccio"
 			],
 			"year": 2024
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
+				"store-images/Fronteer/00.png",
+				"store-images/Fronteer/01.png"
+			],
+			"links": ["https://fronteer.app"],
+			"notes": "Fronteer is a project collaboration app for planning your next big thing - or small thing - or anything. Level your team up with easy-to-use lists, boards, calendars & chat. Built for actually getting things done, Fronteer will get you where you need to go.",
+			"partner": "Fronteer",
+			"project_type": "SaaS",
+			"private": true,
+			"project": "Fronteer",
+			"roles": ["Fullstack Development", "Design", "DevOps", "Architecture"],
+			"slug": "fronteer",
+			"tags": [
+				"React",
+				"React Router",
+				"CSS3",
+				"Monorepo",
+				"Typescript",
+				"React Hooks",
+				"React Context",
+				"Iconography",
+				"Sentry",
+				"Storybook",
+				"Yarn",
+				"Figma",
+				"Design Tokens",
+				"Design System development",
+				"UI/UX development",
+				"DevOps",
+				"UX strategy",
+				"Product Design",
+				"ViteJS",
+				"AWS",
+				"Auth0",
+				"GitFlow",
+				"Frontend Architecture",
+				"OAuth",
+				"Branding",
+				"Corporate Identity",
+				"NPM",
+				"Fastify",
+				"REST",
+				"Postgres",
+				"GitHub",
+				"Data Migration",
+				"ELT",
+				"Netlify"
+			],
+			"year": 2025
 		},
 		{
 			"author": "Jo du Plessis",
@@ -3553,7 +3612,10 @@
 			"images": [
 				"store-images/AllSaintsChurch/00.jpg",
 				"store-images/AllSaintsChurch/01.jpg",
-				"store-images/AllSaintsChurch/02.jpg"
+				"store-images/AllSaintsChurch/02.jpg",
+				"store-images/AllSaintsChurch/03.png",
+				"store-images/AllSaintsChurch/04.png",
+				"store-images/AllSaintsChurch/05.png"
 			],
 			"links": ["http://joduplessis.com/store/AllSaintsChurch/"],
 			"notes": "",

@@ -86,6 +86,15 @@ export const WorkLayout = (props: any) => {
                         url=""
                     /> */}
                     <HeroComponent 
+                        flex={1} 
+                        image="fronteer.png"
+                        notes="The journey of a thousand miles begins with a team."
+                        project="Fronteer"
+                        slug="fronteer"
+                        year="2024"
+                        url="https://fronteer.app"
+                    />
+                    <HeroComponent 
                         flex={1}    
                         image="fold.png"
                         notes="Zero-dependency React components for scaling your product to the next level."
@@ -104,6 +113,12 @@ export const WorkLayout = (props: any) => {
                         year="2023"
                         url="https://plural.fi"
                     />
+                </View>
+
+                <View
+                    row
+                    gap="2rem"
+                    p="2rem 1.5rem 1.5rem 1.5rem">
                     <HeroComponent 
                         flex={1} 
                         image="adtriba.png"
@@ -113,12 +128,6 @@ export const WorkLayout = (props: any) => {
                         year="2022"
                         url="https://adtriba.com"
                     />
-                </View>
-
-                <View
-                    row
-                    gap="2rem"
-                    p="2rem 1.5rem 1.5rem 1.5rem">
                     <HeroComponent 
                         flex={1}  
                         adjustY={50}  
@@ -140,6 +149,12 @@ export const WorkLayout = (props: any) => {
                         year="2019"
                         url="https://github.com/joduplessis/wami"
                     />
+                </View>
+
+                <View
+                    row
+                    gap="2rem"
+                    p="0.5rem 1.5rem 2rem 1.5rem">
                     <HeroComponent 
                         flex={1}  
                         adjustY={50}
@@ -151,21 +166,6 @@ export const WorkLayout = (props: any) => {
                         year="2024"
                         url="https://teachfolk.com"
                     />
-                </View>
-{/* 
-                <View
-                    row
-                    gap="2rem"
-                    p="0.5rem 1.5rem 2rem 1.5rem">
-                    <HeroComponent 
-                        flex={1} 
-                        image="beiersdorf.png"
-                        notes="Beiersdorf consumer insights platform concept."
-                        project="Beiersdorf CI Platform"
-                        slug="beiersdorf"
-                        year="2019"
-                        url=""
-                    />
                     <HeroComponent 
                         flex={1}    
                         image="chow.jpg"
@@ -176,13 +176,21 @@ export const WorkLayout = (props: any) => {
                         year="2018"
                         url="https://www.chowsolutions.com"
                     />
-                </View> */}
+                    <HeroComponent 
+                        flex={1} 
+                        image="beiersdorf.png"
+                        notes="Beiersdorf consumer insights platform concept."
+                        project="Beiersdorf Social Platform"
+                        slug="beiersdorf"
+                        year="2018"
+                        url=""
+                    />
+                </View>
             </div>
 
             <Content
                 row
-                p="1rem"
-                style={{ flexWrap: 'wrap' }}>
+                className="projects">
                 {projects.map((project, index) => (
                     <ProjectComponent
                         key={index}
