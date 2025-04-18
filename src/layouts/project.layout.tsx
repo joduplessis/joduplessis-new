@@ -67,10 +67,12 @@ export const ProjectLayout = (props: any) => {
             </Header>
             {isPrivate && (
                 <Notification
-                    bottomAccent
-                    variant="highlight">
-                    <NotificationContent textAlign="center">
-                        Due to the nature of the work, more information is only available on request.
+                    m="-1px 0 0 0"
+                    bgToken="neonpink-500">
+                    <NotificationContent 
+                        textAlign="center"
+                        colorToken="surface">
+                        Due to the nature of the project, more information is only available on request.
                     </NotificationContent>
                 </Notification>
             )}
@@ -106,51 +108,34 @@ export const ProjectLayout = (props: any) => {
                                 colorToken="accent">
                                 Partner
                             </Heading>
-                            <Text>{partner || 'None'}</Text>
+                            <Text size="lg">
+                                {partner || 'None'}
+                            </Text>
                             <div />
                             <Heading
                                 as="h4"
                                 colorToken="accent">
                                 Notes
                             </Heading>
-                            <Heading as="h2">
+                            <Text size="lg">
                                 {notes}
-                            </Heading>
+                            </Text>
                             <div />
                             <Heading
                                 as="h4"
                                 colorToken="accent">
                                 Project Type
                             </Heading>
-                            <Text>{project_type}</Text>
+                            <Text size="lg">{project_type}</Text>
                             <div />
                             <Heading
                                 as="h4"
                                 colorToken="accent">
                                 Role
                             </Heading>
-                            <Text>{roles.join(', ')}</Text>
-                            <div />
-                            <Heading
-                                as="h4"
-                                colorToken="accent">
-                                Tech & Skillset
-                            </Heading>
-                            <View
-                                row
-                                gap={3}
-                                justifyContent="flex-start"
-                                style={{ flexWrap: 'wrap' }}>
-                                {tags.map((tag, index) => (
-                                    <Badge
-                                        bgToken="base-700"
-                                        colorToken="base-300"
-                                        variant="neutral"
-                                        key={index}>
-                                        {tag}
-                                    </Badge>
-                                ))}
-                            </View>
+                            <Text size="lg">
+                                {roles.join(', ')}
+                            </Text>
                             <div />
                             <Heading
                                 as="h4"
@@ -165,6 +150,7 @@ export const ProjectLayout = (props: any) => {
                                 alignItems="flex-start">
                                 {links.map((link, index) => (
                                     <Link 
+                                        size="lg"
                                         key={index}
                                         href={link}
                                         target="_blank"
@@ -172,6 +158,28 @@ export const ProjectLayout = (props: any) => {
                                         className="f-underline">
                                         {link}
                                     </Link>
+                                ))}
+                            </View>
+                            <div />
+                            <Heading
+                                as="h4"
+                                colorToken="accent">
+                                Tech & Skillset
+                            </Heading>
+                            <View
+                                row
+                                gap={3}
+                                justifyContent="flex-start"
+                                style={{ flexWrap: 'wrap' }}>
+                                {tags.map((tag, index) => (
+                                    <Badge
+                                        key={index}
+                                        fontWeight={600}
+                                        style={{ textTransform: 'uppercase' }}
+                                        bgToken="base-300"
+                                        colorToken="base-600">
+                                        {tag}
+                                    </Badge>
                                 ))}
                             </View>
                         </Stack>

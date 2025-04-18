@@ -3,6 +3,27 @@
 		{
 			"author": "Jo du Plessis",
 			"images": [
+				"store-images/Lessonspace/00.png",
+				"store-images/Lessonspace/01.png",
+				"store-images/Lessonspace/02.png",
+				"store-images/Lessonspace/03.png",
+				"store-images/Lessonspace/04.png",
+				"store-images/Lessonspace/05.png"
+			],
+			"links": ["https://www.thelessonspace.com"],
+			"notes": "Lessonspace is an online virtual classroom platform. This is a design concept for the whiteboard & standlone Slides module re-design.",
+			"partner": "Lessonspace",
+			"private": true,
+			"project_type": "Tutoring SaaS Platform",
+			"project": "Lessonspace Resign Concept",
+			"roles": ["Design"],
+			"slug": "lessonspace",
+			"tags": ["Affinity", "UX/UI", "Design", "Figma"],
+			"year": 2025
+		},
+		{
+			"author": "Jo du Plessis",
+			"images": [
 				"store-images/IgnitionGroup/paiment00.png",
 				"store-images/IgnitionGroup/paiment01.png",
 				"store-images/IgnitionGroup/paiment02.png",
@@ -195,13 +216,17 @@
 				"GitHub",
 				"Verdaccio"
 			],
-			"year": 2024
+			"year": 2025
 		},
 		{
 			"author": "Jo du Plessis",
 			"images": [
 				"store-images/Fronteer/00.png",
-				"store-images/Fronteer/01.png"
+				"store-images/Fronteer/01.png",
+				"store-images/Fronteer/02.png",
+				"store-images/Fronteer/03.png",
+				"store-images/Fronteer/04.png",
+				"store-images/Fronteer/05.png"
 			],
 			"links": ["https://fronteer.app"],
 			"notes": "Fronteer is a project collaboration app for planning your next big thing - or small thing - or anything. Level your team up with easy-to-use lists, boards, calendars & chat. Built for actually getting things done, Fronteer will get you where you need to go.",

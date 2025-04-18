@@ -45,7 +45,8 @@ export const WorkLayout = (props: any) => {
                 />
                 <View
                     column
-                    flex={1}>
+                    flex={1}
+                    colorToken="accent-500">
                     <Heading color="inherit">Work</Heading>
                     <Text color="inherit">2004 - Present</Text>
                 </View>
@@ -61,7 +62,7 @@ export const WorkLayout = (props: any) => {
                     p="1.5rem 0 1rem 0">
                     <Heading 
                         as="h5"
-                        colorToken="accent-500"
+                        colorToken="accent-700"
                         style={{ textTransform: 'uppercase' }}
                         fontWeight={400}
                         letterSpacing={3}
