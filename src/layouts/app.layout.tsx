@@ -37,7 +37,7 @@ export const AppLayout = (props: any) => {
                         />
                     </a>
                     <Flexer />
-                    <Link 
+                   {/*  <Link 
                         size="lg"
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         className="f-underline"
@@ -46,7 +46,7 @@ export const AppLayout = (props: any) => {
                         m="0 1.5rem 0 0"
                         href="https://calendar.app.google/6AqCs1rtwrh1v8LX7">
                         Book a Meet
-                    </Link>
+                    </Link> */}
                     <Link 
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         size="lg"
