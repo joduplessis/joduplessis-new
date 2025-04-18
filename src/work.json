@@ -14,6 +14,7 @@
 			"notes": "Lessonspace is an online virtual classroom platform. This is a design concept for the whiteboard & standlone Slides module re-design.",
 			"partner": "Lessonspace",
 			"private": true,
+			"hidden": true,
 			"project_type": "Tutoring SaaS Platform",
 			"project": "Lessonspace Redesign Concept",
 			"roles": ["Design"],

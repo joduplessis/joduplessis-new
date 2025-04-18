@@ -192,7 +192,7 @@ export const WorkLayout = (props: any) => {
             <Content
                 row
                 className="projects">
-                {projects.map((project, index) => (
+                {projects.filter((p) => !p.hidden).map((project, index) => (
                     <ProjectComponent
                         key={index}
                         {...project}
