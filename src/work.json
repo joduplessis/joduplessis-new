@@ -886,7 +886,7 @@
 				"store-images/InsuranceClaimsAfrica/01.png",
 				"store-images/InsuranceClaimsAfrica/02.jpg"
 			],
-			"links": null,
+			"links": [],
 			"notes": "Web app concept for an incoming news report aggregator",
 			"partner": "Hatch",
 			"project_type": "Software Product Concept",
