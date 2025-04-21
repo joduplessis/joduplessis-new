@@ -159,6 +159,42 @@ export const WorkLayout = (props: any) => {
                     <HeroComponent 
                         flex={1}  
                         adjustY={50}
+                        image="https://joduplessis.com/store-images/Adlastik/09.png"
+                        adjustX={-20}
+                        notes="Take the guesswork out of your ELT pipeline by leveraging Adlastik's enterprise ready data movement platform."
+                        project="Adlastik"
+                        slug="adlastik"
+                        year="2022"
+                        url=""
+                    />
+                    <HeroComponent 
+                        flex={1}    
+                        image="https://joduplessis.com/store-images/PDFasaurus/01.png"
+                        adjustX={-20}
+                        notes="PDFasaurus lets you create PDFs using a familiar WYSIWYG HTML editor and an easy to use API."
+                        project="PDFasaurus"
+                        slug="pdfasaurus"
+                        year="2018"
+                        url="https://www.pdfasaurus.com"
+                    />
+                    <HeroComponent 
+                        flex={1} 
+                        image="https://joduplessis.com/store-images/Play/hero.png"
+                        notes="A city building educational RPG game & LMS platform."
+                        project="Playfirst"
+                        slug="playfirst"
+                        year="2017"
+                        url=""
+                    />
+                </View>
+
+                <View
+                    row
+                    gap="2rem"
+                    p="0.5rem 1.5rem 2rem 1.5rem">
+                    <HeroComponent 
+                        flex={1}  
+                        adjustY={50}
                         image="teachfolk.png"
                         adjustX={-20}
                         notes="Effortlessly drive and scale remote learning from one powerful platform."
