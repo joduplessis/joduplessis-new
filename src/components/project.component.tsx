@@ -26,7 +26,7 @@ export const ProjectComponent = (props: any) => {
                 style={{ backgroundImage: 'url(' + getFirstImage(images) + ')', }} 
                 className="project__container f-buttonize">
                 <div className="project__details">
-                    <Text>
+                    <Text fontWeight="bold">
                         {project}
                     </Text>
                     <Text size="sm">

@@ -47,7 +47,7 @@ export const HeroComponent = (props: any) => {
                     </Text>
                     <Heading
                         colorToken="base-100"
-                        fontWeight={400}>
+                        fontWeight="bold">
                         {project}
                     </Heading>
                     <Text colorToken="base-500">
