@@ -16,7 +16,7 @@
 			"private": true,
 			"hidden": true,
 			"project_type": "Tutoring SaaS Platform",
-			"project": "Lessonspace Redesign Concept",
+			"project": "Lessonspace",
 			"roles": ["Design"],
 			"slug": "lessonspace",
 			"tags": ["Affinity", "UX/UI", "Design", "Figma"],
@@ -1499,6 +1499,7 @@
 			"links": [""],
 			"notes": "Members portal that ASATA use to manage up to 1500 members & integration into Zurmo & MailChimp. Due to the data being sensitive, we unfortunately don't have any screenshots.",
 			"partner": "Yreeka",
+			"private": true,
 			"project_type": "Web App",
 			"project": "ASATA Member Portal",
 			"roles": ["Development", "Technical Direction"],
@@ -1660,7 +1661,7 @@
 				"Continuous Delivery",
 				"Docker"
 			],
-			"year": 2016
+			"year": 2017
 		},
 		{
 			"author": "Jo du Plessis",

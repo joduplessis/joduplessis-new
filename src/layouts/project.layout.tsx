@@ -176,8 +176,8 @@ export const ProjectLayout = (props: any) => {
                                         key={index}
                                         fontWeight={600}
                                         style={{ textTransform: 'uppercase' }}
-                                        bgToken="base-300"
-                                        colorToken="base-600">
+                                        bg="rgba(from var(--f-color-border) r g b / 50%)"
+                                        colorToken="text-weak">
                                         {tag}
                                     </Badge>
                                 ))}

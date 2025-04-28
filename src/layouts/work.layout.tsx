@@ -92,7 +92,7 @@ export const WorkLayout = (props: any) => {
                         notes="The journey of a thousand miles begins with a team."
                         project="Fronteer"
                         slug="fronteer"
-                        year="2024"
+                        year="2025"
                         url="https://fronteer.app"
                     />
                     <HeroComponent 
@@ -101,7 +101,7 @@ export const WorkLayout = (props: any) => {
                         notes="Zero-dependency React components for scaling your product to the next level."
                         project="Fold"
                         slug="fold"
-                        year="2024"
+                        year="2025"
                         url="https://fold.dev"
                     />
                     <HeroComponent 
@@ -164,7 +164,7 @@ export const WorkLayout = (props: any) => {
                         notes="Take the guesswork out of your ELT pipeline by leveraging Adlastik's enterprise ready data movement platform."
                         project="Adlastik"
                         slug="adlastik"
-                        year="2022"
+                        year="2023"
                         url=""
                     />
                     <HeroComponent 
@@ -174,7 +174,7 @@ export const WorkLayout = (props: any) => {
                         notes="PDFasaurus lets you create PDFs using a familiar WYSIWYG HTML editor and an easy to use API."
                         project="PDFasaurus"
                         slug="pdfasaurus"
-                        year="2018"
+                        year="2020"
                         url="https://www.pdfasaurus.com"
                     />
                     <HeroComponent 

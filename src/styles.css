@@ -37,34 +37,11 @@ h1 {
 
 
 [data-theme="light"] .home {
-    /* background-image: radial-gradient(var(--f-color-base-200) 1px, transparent 0);    */    
-    background: linear-gradient(270deg,
-        var(--f-color-base-50),
-        var(--f-color-base-200),
-        var(--f-color-base-50),
-        var(--f-color-base-200),
-        var(--f-color-base-50)
-    );
-    background-size: 1000% 1000%;
-    animation: gradientAnimation 70s ease infinite;
-
-    /* --f-link-color: var(--f-color-base-800); */
+    background-image: radial-gradient(var(--f-color-base-200) 1px, transparent 0);       
 }
 
 [data-theme="dark"] .home {
-    /* background-image: radial-gradient(var(--f-color-base-800) 1px, transparent 0);     */  
-    background: radial-gradient(270deg,
-        var(--f-color-base-950),
-        var(--f-color-purple-950),
-        var(--f-color-neonpink-950),
-        var(--f-color-teal-950),
-        var(--f-color-electric-950)
-    );
-    background-size: 1000% 1000%;
-    animation: gradientAnimation 50s ease infinite;
-
-    --f-link-color: var(--f-color-text-weak);
-
+    background-image: radial-gradient(var(--f-color-base-800) 1px, transparent 0);      
 }
 
 .home-main {
