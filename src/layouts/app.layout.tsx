@@ -1,4 +1,4 @@
-import { App, Avatar, Content, Flexer, Header, Heading, Link, LogoSolid, Main, Pill, Text, View } from '@fold-dev/core'
+import { App, Avatar, Content, Flexer, Header, Heading, Link, Logo, LogoSolid, Main, Pill, Text, View } from '@fold-dev/core'
 import { useState } from 'react'
 import { SocialIcon } from 'react-social-icons'
 
@@ -57,7 +57,9 @@ export const FronteerLogo = ({ scale = 0.75, color = 'var(--f-color-accent)' }) 
 
 export const AppLayout = (props: any) => {
     return (
-        <App className="home">
+        <App 
+            style={{ overflowY: 'scroll' }}
+            className="home">
             <View
                 bg="linear-gradient(15deg, var(--f-color-purple-50), var(--f-color-accent-50), var(--f-color-purple-100))"
                 position="absolute"
@@ -65,10 +67,10 @@ export const AppLayout = (props: any) => {
                 zIndex={0}
             />
             <Content
-                flexDirection="column"
-                height="100%"
+                style={{ overflowY: 'scroll' }}
+                display="block"
+                height="fit-content"
                 bgToken="zinc-200">
-
                 <Main
                     display="none"
                     column
@@ -109,179 +111,26 @@ export const AppLayout = (props: any) => {
                     <div style={{ height: '4rem' }} />
                 </Main>
 
-                <Main
-                    row
-                    width="100%"
-                    p={20}
-                    alignItems="stretch"
-                    alignContent="stretch"
-                    justifyContent="stretch"
-                    flex={1}
-                    gap={20}>
-                    <View
-                        column
-                        alignItems="flex-start"
-                        justifyContent="flex-end"
-                        radius="var(--f-radius)"
-                        flex={1}
-                        className="fronteer f-buttonize-outline"
-                        style={{ 
-                            outlineColor: '#EA6B5A', 
-                            outlineOffset: 2,
-                            outlineWidth: 4, 
-                        }}
-                        position="relative"
-                        colorToken="slate-800">
-                        <View
-                            position="absolute"
-                            style={{
-                                left: '50%',
-                                transform: 'translateX(-50%)',
-                                top: '40%',
-                            }}>
-                            <FronteerLogo
-                                color="currentColor"
-                                scale={1}
-                            />
-                        </View>
-                        <View
-                            column
-                            alignItems="flex-start"
-                            p="0 0 4rem 4rem"
-                            gap="0.5rem">
-                            <Pill
-                                outline
-                                color="currentColor">
-                                SaaS Platform
-                            </Pill>
-                            <Heading
-                                fontSize="4.5rem"
-                                //style={{ fontFamily: 'ff' }}
-                                colorToken="currentColor">
-                                Fronteer
-                            </Heading>
-                            <Text
-                                colorToken="currentColor"
-                                size="xl">
-                                The journey of a thousand miles begins with a single task.
-                            </Text>
-                        </View>
-                    </View>
-                    <View
-                        column
-                        alignItems="stretch"
-                        alignContent="stretch"
-                        justifyContent="stretch"
-                        gap={20}
-                        flex={1}>
-                        <View
-                            column
-                            alignItems="flex-start"
-                            justifyContent="flex-end"
-                            position="relative"
-                            bgToken="base-900"
-                            flex={1}
-                            radius="var(--f-radius)">
-                            <View
-                                column
-                                alignItems="flex-start"
-                                p="0 4rem 4rem 4rem"
-                                gap="0.5rem"
-                                colorToken="base-50">
-                                <Pill
-                                    outline
-                                    color="currentColor">
-                                    React Components & Design System
-                                </Pill>
-                                <Heading
-                                    fontSize="3.5rem"
-                                    //style={{ fontFamily: 'ff' }}
-                                    colorToken="currentColor">
-                                    Fold
-                                </Heading>
-                                <Text
-                                    colorToken="currentColor"
-                                    size="xl">
-                                    Powerful, fully customizable React components for scaling your project to the next level. 
-                                </Text>
-                            </View>
-                        </View>
-                        <View
-                            row
-                            width="100%"
-                            alignItems="stretch"
-                            alignContent="stretch"
-                            justifyContent="stretch"
-                            flex={1}
-                            gap={20}>
-                            <View
-                                column
-                                alignItems="stretch"
-                                alignContent="stretch"
-                                justifyContent="stretch"
-                                gap={20}
-                                flex={1}>
-                                <View
-                                    position="relative"
-                                    bgToken="base-800"
-                                    flex={1}
-                                    radius="var(--f-radius)">
-                                    <View
-                                        position="absolute"
-                                        style={{
-                                            left: '50%',
-                                            transform: 'translateX(-50%)',
-                                            top: '25%',
-                                        }}>
-                                        <LogoSolid 
-                                            color="var(--f-color-indigo-500)"
-                                            size="xl"
-                                        />
-                                    </View>
-                                </View>
-                                <View
-                                    bgToken="base-800"
-                                    flex={1}
-                                    radius="var(--f-radius)"></View>
-                            </View>
-                            <View
-                                bgToken="base-800"
-                                flex={1}
-                                radius="var(--f-radius)"></View>
-                        </View>
-                    </View>
-                </Main>
                 <Header
                     border="none"
                     bg="transparent"
-                    p="20px"
-                    m="-20px 0 0 0"
+                    p="20px 25px"
+                    m="0 0 -20px 0 "
                     gap="2rem"
-                    colorToken="zinc-700"
+                    colorToken="slate-800"
                     height="fit-content"
                     width="100%">
-                    {/* <a href="mailto:jo@joduplessis.com">
-                        <Avatar
-                            src="./avatar.png"
-                            name="Jo du Plessis"
-                            className="f-buttonize"
-                            size="xl"
-                            style={{ 
-                                outlineOffset: 2,
-                                outline: '2px solid var(--f-color-surface-inverse)', 
-                            }}
-                        />
-                    </a> */}
                     <Text
                         size="xl"
                         fontWeight="bold"
                         color="currentColor">
-                        Fronteer Labs
+                        Articulab
                     </Text>
                     <Flexer />
                     <Link
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         size="lg"
+                        fontWeight={600}
                         className="f-underline hide-on-mobile"
                         color="currentColor"
                         href="mailto:jo@joduplessis.com">
@@ -290,6 +139,7 @@ export const AppLayout = (props: any) => {
                     <Link
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         size="lg"
+                        fontWeight={600}
                         className="f-underline hide-on-mobile"
                         color="currentColor"
                         href="mailto:jo@joduplessis.com">
@@ -298,6 +148,7 @@ export const AppLayout = (props: any) => {
                     <Link
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         size="lg"
+                        fontWeight={600}
                         className="f-underline hide-on-mobile"
                         color="currentColor"
                         href="mailto:jo@joduplessis.com">
@@ -306,6 +157,7 @@ export const AppLayout = (props: any) => {
                     <Link
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         size="lg"
+                        fontWeight={600}
                         className="f-underline hide-on-mobile"
                         color="currentColor"
                         href="mailto:jo@joduplessis.com">
@@ -313,12 +165,13 @@ export const AppLayout = (props: any) => {
                     </Link>
                     <Link
                         size="lg"
+                        fontWeight={600}
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         className="f-underline"
                         color="currentColor"
                         target="_blank"
                         href="https://calendar.app.google/6AqCs1rtwrh1v8LX7">
-                        Book a Meet
+                        Contact
                     </Link>
                     {/*      <SocialIcon
                         url="https://github.com/joduplessis"
@@ -333,6 +186,433 @@ export const AppLayout = (props: any) => {
                         bgColor="var(--f-color-surface)"
                     /> */}
                 </Header>
+
+                <Main
+                    width="100%"
+                    height="fit-content"
+                    p={20}
+                    alignItems="flex-start"
+                    alignContent="flex-start"
+                    justifyContent="flex-start"
+                    gap="0.5rem">
+
+
+                        {/* 
+                    <View
+                        height="calc(100vh - 130px)"
+                        width="100%"
+                        alignItems="flex-start"
+                        justifyContent="flex-end"
+                        radius="var(--f-radius)"
+                        className="fronteer f-buttonize-outline"
+                        style={{ 
+                            outlineColor: 'var(--f-color-stone-200)', 
+                            outlineOffset: 2,
+                            outlineWidth: 4, 
+                        }}
+                        position="relative"
+                        colorToken="slate-800"
+                        shadow="var(--f-shadow-menu)">
+                        <View
+                            column
+                            style={{ top: 0, left: 0 }}
+                            position="absolute"
+                            height="100%"
+                            width="100%"
+                            alignItems="flex-start"
+                            justifyContent="flex-end">
+                            <View
+                                position="absolute"
+                                style={{
+                                    left: '50%',
+                                    transform: 'translate(-50%, -50%)',
+                                    top: '50%',
+                                }}>
+                                <FronteerLogo
+                                    color="currentColor"
+                                    scale={1}
+                                />
+                            </View>
+                            <View
+                                column
+                                alignItems="flex-start"
+                                p="0 0 4rem 4rem"
+                                gap="0.5rem">
+                                <Pill
+                                    outline
+                                    color="currentColor">
+                                    SaaS Platform
+                                </Pill>
+                                <Heading
+                                    fontSize="4.5rem"
+                                    style={{ fontFamily: 'ff' }}
+                                    colorToken="currentColor">
+                                    Fronteer
+                                </Heading>
+                                <Text
+                                    colorToken="currentColor"
+                                    size="xl">
+                                    The journey of a thousand miles begins with a single task.
+                                </Text>
+                            </View>
+                        </View>
+                    </View>
+
+                    <View
+                        width="100%"
+                        height="calc(100vh - 130px)"
+                        alignItems="flex-start"
+                        justifyContent="flex-end"
+                        radius="var(--f-radius)"
+                        className="f-buttonize-outline"
+                        style={{ 
+                            outlineColor: 'var(--f-color-zinc-300)', 
+                            outlineOffset: 2,
+                            outlineWidth: 4, 
+                        }}
+                        position="relative"
+                        bgToken="indigo-600"
+                        //bg="linear-gradient(to top right, var(--f-color-indigo-300), var(--f-color-indigo-200))"
+                        colorToken="indigo-100"
+                        shadow="var(--f-shadow-menu)">
+                        <View
+                            column
+                            style={{ top: 0, left: 0 }}
+                            position="absolute"
+                            height="100%"
+                            width="100%"
+                            alignItems="flex-start"
+                            justifyContent="flex-end">
+                            <View
+                                position="absolute"
+                                style={{
+                                    left: '50%',
+                                    transform: 'translate(-50%, -50%)',
+                                    top: '50%',
+                                }}>
+                                <LogoSolid
+                                    color="currentColor"
+                                    customSize={115}
+                                    
+                                />
+                            </View>
+                            <View
+                                column
+                                alignItems="flex-start"
+                                p="0 0 4rem 4rem"
+                                gap="0.5rem">
+                                <Pill
+                                    outline
+                                    color="currentColor">
+                                    React Components Library & Design System
+                                </Pill>
+                                <Heading
+                                    fontSize="4.5rem"
+                                    style={{ fontFamily: 'DM Sans' }}
+                                    colorToken="currentColor">
+                                    Fold
+                                </Heading>
+                                <Text
+                                    colorToken="currentColor"
+                                    size="xl">
+                                    Powerful, fully customizable React components. 
+                                </Text>
+                            </View>
+                        </View>
+                    </View>
+
+                    <View
+                        width="100%"
+                        height="calc(100vh - 130px)"
+                        alignItems="flex-start"
+                        justifyContent="flex-end"
+                        radius="var(--f-radius)"
+                        className="f-buttonize-outline"
+                        style={{ 
+                            outlineColor: 'var(--f-color-zinc-300)', 
+                            outlineOffset: 2,
+                            outlineWidth: 4, 
+                            backgroundImage: 'url(https://joduplessis.com/store-images/Adtriba/logo.png)',
+                            backgroundSize: '500px auto',
+                            backgroundPosition: 'center center',
+                            backgroundRepeat: 'no-repeat',
+                            backgroundColor: '#1F3950',
+                        }}
+                        position="relative"
+                        bgToken="indigo-600"
+                        //bg="linear-gradient(to top right, var(--f-color-indigo-300), var(--f-color-indigo-200))"
+                        colorToken="indigo-100"
+                        shadow="var(--f-shadow-menu)">
+                        <View
+                            column
+                            style={{ top: 0, left: 0 }}
+                            position="absolute"
+                            height="100%"
+                            width="100%"
+                            alignItems="flex-start"
+                            justifyContent="flex-end">
+                            <View
+                                column
+                                alignItems="flex-start"
+                                p="0 0 4rem 4rem"
+                                gap="0.5rem">
+                                <Pill
+                                    outline
+                                    color="currentColor">
+                                    React Components Library & Design System
+                                </Pill>
+                                <Heading
+                                    fontSize="4.5rem"
+                                    style={{ fontFamily: 'DM Sans' }}
+                                    colorToken="currentColor">
+                                    Adtriba
+                                </Heading>
+                                <Text
+                                    colorToken="currentColor"
+                                    size="xl">
+                                    Powerful, fully customizable React components. 
+                                </Text>
+                            </View>
+                        </View>
+                    </View>
+
+
+
+
+
+
+ */}
+
+
+
+
+
+                    <View
+                        row
+                        width="100%"
+                        gap={5}
+                        height="95vh"
+                        alignItems="stretch"
+                        alignContent="stretch"
+                        justifyContent="stretch"
+                        position="relative">
+                        <View
+                            flex={1}
+                            width="100%"
+                            alignItems="flex-start"
+                            justifyContent="flex-end"
+                            radius="var(--f-radius)"
+                            className="fronteer f-buttonize-outline"
+                            style={{ 
+                                outlineColor: 'var(--f-color-stone-200)', 
+                                outlineOffset: 2,
+                                outlineWidth: 4, 
+                            }}
+                            position="relative"
+                            colorToken="slate-800"
+                            shadow="var(--f-shadow-menu)">
+                            <View
+                                column
+                                style={{ top: 0, left: 0 }}
+                                position="absolute"
+                                height="100%"
+                                width="100%"
+                                alignItems="flex-start"
+                                justifyContent="flex-end">
+                                <View
+                                    position="absolute"
+                                    style={{
+                                        left: '50%',
+                                        transform: 'translate(-50%, -50%)',
+                                        top: '45%',
+                                    }}>
+                                    <FronteerLogo
+                                        color="currentColor"
+                                        scale={1}
+                                    />
+                                </View>
+                                <View
+                                    column
+                                    alignItems="flex-start"
+                                    p="0 0 4rem 4rem"
+                                    gap="0.5rem">
+                                    <Pill
+                                        outline
+                                        color="currentColor">
+                                        SaaS Platform
+                                    </Pill>
+                                    <Heading
+                                        fontSize="4.5rem"
+                                        style={{ fontFamily: 'ff' }}
+                                        colorToken="currentColor">
+                                        Fronteer
+                                    </Heading>
+                                    <Text
+                                        colorToken="currentColor"
+                                        size="xl">
+                                        The journey of a thousand miles begins with a single task.
+                                    </Text>
+                                </View>
+                            </View>
+                        </View>
+
+
+                        <View
+                            column
+                            alignItems="stretch"
+                            alignContent="stretch"
+                            justifyContent="stretch"
+                            gap={5}
+                            flex={0.75}>
+                            <View
+                                column
+                                alignItems="flex-start"
+                                justifyContent="flex-end"
+                                position="relative"
+                                bgToken="stone-50"
+                                flex={1}
+                                radius="var(--f-radius)">
+                                <View
+                                    column
+                                    alignItems="flex-start"
+                                    p="3rem"
+                                    gap="0.5rem"
+                                    colorToken="slate-800">
+                                    <View
+                                        position="absolute"
+                                        style={{
+                                            left: '50%',
+                                            transform: 'translate(-50%, -50%)',
+                                            top: '50%',
+                                        }}>
+                                        <Logo
+                                            color="currentColor"
+                                            size="xl"
+                                        />
+                                    </View>
+                                    {/* <Pill
+                                        outline
+                                        color="currentColor">
+                                        React Component Library & Design System
+                                    </Pill> */}
+                                    {/* <Heading
+                                        fontSize="2.5rem"
+                                        style={{ fontFamily: 'DM Sans' }}
+                                        colorToken="currentColor">
+                                        Fold
+                                    </Heading>
+                                    <Text
+                                        colorToken="currentColor"
+                                        size="lg">
+                                        Powerful, fully customizable React components for scaling your project to the next level. 
+                                    </Text> */}
+                                </View>
+                            </View>
+                            <View
+                                row
+                                width="100%"
+                                alignItems="stretch"
+                                alignContent="stretch"
+                                justifyContent="stretch"
+                                flex={1}
+                                gap={5}>
+                                <View
+                                    column
+                                    alignItems="stretch"
+                                    alignContent="stretch"
+                                    justifyContent="stretch"
+                                    gap={5}
+                                    flex={1}>
+                                    <View
+                                        bgToken="stone-50"
+                                        flex={1}
+                                        position="relative"
+                                        style={{
+                                            //backgroundImage: 'url(https://joduplessis.com/store-images/Adlastik/00.png)',
+                                            backgroundSize: '150px auto',
+                                            backgroundPosition: 'center center',
+                                            backgroundRepeat: 'no-repeat',
+                                            //backgroundColor: '#7D00FF',
+                                        }}
+                                        radius="var(--f-radius)">
+                                        <View
+                                            position="absolute"
+                                            style={{
+                                                left: '50%',
+                                                transform: 'translate(-50%, -50%)',
+                                                top: '50%',
+                                            }}>
+                                            <Heading
+                                                fontSize="2rem"
+                                                style={{ fontFamily: 'DM Serif Display' }}
+                                                colorToken="currentColor">
+                                                teachfolk
+                                            </Heading>                                            
+                                        </View>
+                                    </View>
+                                    <View
+                                        bgToken="stone-50"
+                                        flex={1}
+                                        position="relative"
+                                        style={{
+                                            //backgroundImage: 'url(https://joduplessis.com/store-images/Adlastik/00.png)',
+                                            backgroundSize: '150px auto',
+                                            backgroundPosition: 'center center',
+                                            backgroundRepeat: 'no-repeat',
+                                            //backgroundColor: '#7D00FF',
+                                        }}
+                                        radius="var(--f-radius)">
+                                        <View
+                                            position="absolute"
+                                            style={{
+                                                left: '50%',
+                                                transform: 'translate(-50%, -50%)',
+                                                top: '50%',
+                                            }}>
+                                            <Heading
+                                                fontSize="2rem"
+                                                style={{ fontFamily: 'Chillax' }}
+                                                fontWeight={500}
+                                                colorToken="currentColor">
+                                                plural
+                                            </Heading>                                            
+                                        </View>
+                                    </View>
+                                </View>
+                                    <View
+                                        bgToken="stone-50"
+                                        flex={1}
+                                        position="relative"
+                                        style={{
+                                            //backgroundImage: 'url(https://joduplessis.com/store-images/Adlastik/00.png)',
+                                            backgroundSize: '150px auto',
+                                            backgroundPosition: 'center center',
+                                            backgroundRepeat: 'no-repeat',
+                                            //backgroundColor: '#7D00FF',
+                                        }}
+                                        radius="var(--f-radius)">
+                                        <View
+                                            position="absolute"
+                                            style={{
+                                                left: '50%',
+                                                transform: 'translate(-50%, -50%)',
+                                                top: '50%',
+                                            }}>
+                                            <Heading
+                                                fontSize="2rem"
+                                                style={{ fontFamily: 'Chillax' }}
+                                                fontWeight={500}
+                                                colorToken="currentColor">
+                                                adtriba
+                                            </Heading>                                            
+                                        </View>
+                                    </View>
+                            </View>
+                        </View>
+
+        
+                    </View>
+                </Main>
             </Content>
         </App>
     )

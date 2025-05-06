@@ -3,7 +3,7 @@
 }
 
 html, body {
-    background: var(--f-color-background);
+    background: var(--f-color-stone-100);
     font-size: 14px;
     text-rendering: optimizeLegibility;
     --f-font-body: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
@@ -17,9 +17,21 @@ html, body {
     font-style: normal;
 }
 
+.f-app,
+.f-content {
+    --f-scrollbar-size: 0.3rem;
+    --f-scrollbar-foreground: var(--f-color-stone-400);
+    --f-scrollbar-background: transparent;
+
+    background: var(--f-color-zinc-200);
+    scrollbar-width: thin; 
+    scrollbar-color: var(--f-scrollbar-foreground) var(--f-scrollbar-background);
+
+}
+
 .fronteer {
-    background-color: var(--f-color-zinc-50);
-    background-image: url('../../public/topography.svg');
+    /* background-color: var(--f-color-slate-900); */
+    background-image: url('https://fronteer.app/topography-light.svg');
     background-size: 100% auto !important;
     background-position: center top !important;
 }
@@ -82,9 +94,9 @@ h1 {
 }
 
 .project {
-    width: calc(100% / 6);
-    height: 200px;
-    padding: 5px;
+    width: calc(100% / 5);
+    height: 220px;
+    padding: 2px;
 	position: relative;
 }
 

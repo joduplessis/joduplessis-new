@@ -53,7 +53,7 @@ export const WorkLayout = (props: any) => {
                 <DarkModeToggle />
             </Header>
 
-            <div className="heroes">
+            <div className="heroes" style={{ display: 'none' }}> 
                 <View 
                     row
                     width="100%"
@@ -227,6 +227,7 @@ export const WorkLayout = (props: any) => {
 
             <Content
                 row
+                bgToken="surface"
                 className="projects">
                 {projects.filter((p) => !p.hidden).map((project, index) => (
                     <ProjectComponent
