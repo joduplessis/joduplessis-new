@@ -10,6 +10,20 @@ html, body {
     --f-font-heading: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
+@font-face {
+    font-family: 'ff';
+    src: url('../../public/FF-Regular.woff') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.fronteer {
+    background-color: var(--f-color-zinc-50);
+    background-image: url('../../public/topography.svg');
+    background-size: 100% auto !important;
+    background-position: center top !important;
+}
+
 .project-info h4 {
     font-weight: bold;
 }

@@ -18,8 +18,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@fold-dev/core": "^0.13.0",
-    "@fold-dev/design": "^0.13.0",
+    "@fold-dev/core": "^0.17.0",
+    "@fold-dev/design": "^0.17.0",
     "@heroicons/react": "^2.0.18",
     "@nozbe/watermelondb": "^0.27.1",
     "husky": "^8.0.3",
