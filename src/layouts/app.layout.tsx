@@ -92,7 +92,7 @@ export const AppLayout = (props: any) => {
                         size="xl"
                         fontWeight="bold"
                         color="currentColor">
-                        Cargo Cult Studio
+                        Fronteer Labs
                     </Text>
                     <Flexer />
                     <Link
