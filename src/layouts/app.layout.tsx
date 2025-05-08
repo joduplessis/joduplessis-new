@@ -32,12 +32,12 @@ export const AppLayout = (props: any) => {
                             size="xl"
                             style={{ 
                                 outlineOffset: 2,
-                                outline: '2px solid var(--f-color-surface-inverse)', 
+                                outline: '2px solid var(--f-color-accent)', 
                             }}
                         />
                     </a>
                     <Flexer />
-                   {/*  <Link 
+                    <Link 
                         size="lg"
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         className="f-underline"
@@ -46,7 +46,7 @@ export const AppLayout = (props: any) => {
                         m="0 1.5rem 0 0"
                         href="https://calendar.app.google/6AqCs1rtwrh1v8LX7">
                         Book a Meet
-                    </Link> */}
+                    </Link>
                     <Link 
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         size="lg"
@@ -75,7 +75,7 @@ export const AppLayout = (props: any) => {
                     className="home-main"
                     alignItems="flex-start"
                     flex={1}
-                    gap="1.5rem">
+                    gap="1rem">
                     <Heading huge>UI/UX guy. </Heading>
                     <Heading huge>Fullstack engineer. </Heading>
                     <Heading huge>Design systems geek. </Heading>
