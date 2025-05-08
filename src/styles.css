@@ -3,37 +3,42 @@
 }
 
 html, body {
-    background: var(--f-color-stone-100);
     font-size: 14px;
     text-rendering: optimizeLegibility;
     --f-font-body: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
     --f-font-heading: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    --f-radius: 0.5rem;
 }
 
-@font-face {
-    font-family: 'ff';
-    src: url('../../public/FF-Regular.woff') format('woff2');
+
+.f-accordion__item .f-accordion__content {
+    font-size: 1.5rem;
+}
+
+.f-accordion__item .f-accordion-heading__heading .f-heading {
+    font-size: 3rem;
     font-weight: normal;
-    font-style: normal;
+}
+
+.f-accordion-heading__heading-icon {
+    display: none;
+}
+
+.f-accordion__item {
+    border-bottom: 1px solid var(--f-color-zinc-200) !important;
 }
 
 .f-app,
+.f-main,
 .f-content {
     --f-scrollbar-size: 0.3rem;
     --f-scrollbar-foreground: var(--f-color-stone-400);
     --f-scrollbar-background: transparent;
 
-    background: var(--f-color-zinc-200);
+    background: transparent;
     scrollbar-width: thin; 
     scrollbar-color: var(--f-scrollbar-foreground) var(--f-scrollbar-background);
 
-}
-
-.fronteer {
-    /* background-color: var(--f-color-slate-900); */
-    background-image: url('https://fronteer.app/topography-light.svg');
-    background-size: 100% auto !important;
-    background-position: center top !important;
 }
 
 .project-info h4 {
@@ -63,19 +68,15 @@ h1 {
 
 
 [data-theme="light"] .home {
-    background-image: radial-gradient(var(--f-color-base-200) 1px, transparent 0);       
+    background-image: radial-gradient(var(--f-color-slate-100) 1px, transparent 0);       
 }
 
 [data-theme="dark"] .home {
-    background-image: radial-gradient(var(--f-color-base-800) 1px, transparent 0);      
+    background-image: radial-gradient(var(--f-color-slate-900) 1px, transparent 0);      
 }
 
 .home-main {
     padding: 6rem 10rem;
-}
-
-.home-main h1 {
-    /* color: var(--f-color-surface-inverse); */
 }
 
 .project-images {
@@ -90,7 +91,7 @@ h1 {
     flex-wrap: wrap;
     position: relative;
     z-index: 3;
-    padding-top: 5px;
+    padding: 2px;
 }
 
 .project {
@@ -117,7 +118,7 @@ h1 {
 
 .project__container:hover {
     outline: 5px solid var(--f-color-accent);
-    outline-offset: 0px;  
+    outline-offset: -5px;  
     opacity: 1;  
     transition: outline 0.2s ease-out;
     background-blend-mode: normal;
@@ -168,11 +169,11 @@ h1 {
     background-repeat: no-repeat;
     background-size: auto 100%;
     overflow: hidden;
-    height: 500px;
-    left: 50px;
-    top: -100px;
+    height: 300px;
+    left: 85%;
+    top: -20px;
     width: 100%;
-    position: relative;
+    position: absolute;
 }
 
 .hero-image > img {

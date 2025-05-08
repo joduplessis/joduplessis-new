@@ -41,19 +41,19 @@ export const WorkLayout = (props: any) => {
                     icon={ArrowLeftIcon}
                     size="xl" 
                     color="inherit"
-                    style={{ marginRight: 15 }}
                 />
                 <View
                     column
-                    flex={1}
-                    colorToken="accent-500">
-                    <Heading color="inherit">Work</Heading>
+                    flex={1}>
+                    <Heading color="inherit" as="h3" fontWeight={700}>Work</Heading>
                     <Text color="inherit">2004 - Present</Text>
                 </View>
                 <DarkModeToggle />
             </Header>
 
-            <div className="heroes" style={{ display: 'none' }}> 
+            <div 
+                className="heroes" 
+                style={{ display: 'none' }}> 
                 <View 
                     row
                     width="100%"
@@ -226,8 +226,7 @@ export const WorkLayout = (props: any) => {
             </div>
 
             <Content
-                row
-                bgToken="surface"
+                row                
                 className="projects">
                 {projects.filter((p) => !p.hidden).map((project, index) => (
                     <ProjectComponent

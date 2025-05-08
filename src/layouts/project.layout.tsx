@@ -48,6 +48,7 @@ export const ProjectLayout = (props: any) => {
             <Header
                 gap="1rem"
                 p="1rem"
+                border="none"
                 bgToken="base-900"
                 colorToken="accent">
                 <Icon
@@ -60,7 +61,7 @@ export const ProjectLayout = (props: any) => {
                 <View
                     column
                     flex={1}>
-                    <Heading color="inherit">{project_name}</Heading>
+                    <Heading color="inherit" as="h3" fontWeight={700}>{project_name}</Heading>
                     <Text color="inherit">{year}</Text>
                 </View>
                 <DarkModeToggle />
@@ -68,7 +69,7 @@ export const ProjectLayout = (props: any) => {
             {isPrivate && (
                 <Notification
                     m="-1px 0 0 0"
-                    bgToken="neonpink-500">
+                    bgToken="rose-500">
                     <NotificationContent 
                         textAlign="center"
                         colorToken="surface">
@@ -78,7 +79,8 @@ export const ProjectLayout = (props: any) => {
             )}
             <Content
                 row
-                p="3rem">
+                p="3rem"
+                >
                 <View
                     row
                     gap="2rem"
