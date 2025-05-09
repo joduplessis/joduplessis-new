@@ -83,6 +83,7 @@ export const ProjectLayout = (props: any) => {
                 >
                 <View
                     row
+                    width="100%"
                     gap="2rem"
                     alignItems="flex-start"
                     className="project-panels">
@@ -106,7 +107,8 @@ export const ProjectLayout = (props: any) => {
                             direction="vertical"
                             spacing="0.7rem">
                             <Heading
-                                as="h4"
+                                as="h5"
+                                fontWeight={700}
                                 colorToken="accent">
                                 Partner
                             </Heading>
@@ -115,7 +117,8 @@ export const ProjectLayout = (props: any) => {
                             </Text>
                             <div />
                             <Heading
-                                as="h4"
+                                as="h5"
+                                fontWeight={700}
                                 colorToken="accent">
                                 Notes
                             </Heading>
@@ -124,14 +127,16 @@ export const ProjectLayout = (props: any) => {
                             </Text>
                             <div />
                             <Heading
-                                as="h4"
+                                as="h5"
+                                fontWeight={700}
                                 colorToken="accent">
                                 Project Type
                             </Heading>
                             <Text size="lg">{project_type}</Text>
                             <div />
                             <Heading
-                                as="h4"
+                                as="h5"
+                                fontWeight={700}
                                 colorToken="accent">
                                 Role
                             </Heading>
@@ -140,7 +145,8 @@ export const ProjectLayout = (props: any) => {
                             </Text>
                             <div />
                             <Heading
-                                as="h4"
+                                as="h5"
+                                fontWeight={700}
                                 colorToken="accent">
                                 Links
                             </Heading>
@@ -164,7 +170,8 @@ export const ProjectLayout = (props: any) => {
                             </View>
                             <div />
                             <Heading
-                                as="h4"
+                                as="h5"
+                                fontWeight={700}
                                 colorToken="accent">
                                 Tech & Skillset
                             </Heading>
