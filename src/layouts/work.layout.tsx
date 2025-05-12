@@ -30,11 +30,10 @@ export const WorkLayout = (props: any) => {
             className="home">
             <Header 
                 gap="1rem"
-                bgToken="base-900"
                 bg="transparent"
                 border="0"
                 colorToken="accent"
-                p="1rem">
+                p="1rem 1rem 0 1rem">
                 <Icon
                     onClick={() => navigate('/')}
                     className="f-buttonize"

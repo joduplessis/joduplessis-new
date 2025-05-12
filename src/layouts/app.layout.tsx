@@ -29,7 +29,7 @@ export const AppLayout = (props: any) => {
                             src="./avatar.png"
                             name="Jo du Plessis"
                             className="f-buttonize"
-                            size="xl"
+                            size="lg"
                             style={{ 
                                 outlineOffset: 2,
                                 outline: '2px solid var(--f-color-accent)', 
@@ -47,7 +47,7 @@ export const AppLayout = (props: any) => {
                         href="https://calendar.app.google/6AqCs1rtwrh1v8LX7">
                         Book a Meet
                     </Link> */}
-                    <Link 
+                    {/* <Link 
                         style={{ '--f-underline-size': '2.5px', '--f-underline-position': '100%' }}
                         size="lg"
                         className="f-underline hide-on-mobile"
@@ -55,7 +55,14 @@ export const AppLayout = (props: any) => {
                         m="0 1.5rem 0 0"
                         href="mailto:jo@joduplessis.com">
                         Contact
-                    </Link>
+                    </Link> */}
+                    <SocialIcon
+                        url="mailto:jo@joduplessis.com"
+                        target="_blank"
+                        fgColor="var(--f-color-surface-inverse)"
+                        bgColor="transparent"
+                        style={{ marginRight:5 }}
+                    />
                     <SocialIcon
                         url="https://github.com/joduplessis"
                         target="_blank"
@@ -87,11 +94,20 @@ export const AppLayout = (props: any) => {
                             target="_blank"
                             textDecoration="none"
                             className="f-underline">
-                            Fold
+                            Fold 
+                        </Link> &{' '}
+                        <Link
+                            style={{ '--f-underline-size': '7px', '--f-underline-position': '85%' }}
+                            fontSize="inherit"
+                            href="https://fronteer.app"
+                            target="_blank"
+                            textDecoration="none"
+                            className="f-underline">
+                            Fronteer
                         </Link>
                         .
                     </Heading>
-                    <Text size="xl">
+                    <Text size="xl" m="1rem 0 0 0">
                         You can reach me via{' '}
                         <Link
                             style={{ '--f-underline-size': '3px', '--f-underline-position': '90%' }}

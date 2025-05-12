@@ -91,13 +91,13 @@ h1 {
     flex-wrap: wrap;
     position: relative;
     z-index: 3;
-    padding: 2px;
+    padding: 1rem;
 }
 
 .project {
     width: calc(100% / 5);
-    height: 220px;
-    padding: 2px;
+    height: 200px;
+    padding: 3px;
 	position: relative;
 }
 
@@ -118,7 +118,7 @@ h1 {
 
 .project__container:hover {
     outline: 5px solid var(--f-color-accent);
-    outline-offset: -5px;  
+    outline-offset: 0px;  
     opacity: 1;  
     transition: outline 0.2s ease-out;
     background-blend-mode: normal;

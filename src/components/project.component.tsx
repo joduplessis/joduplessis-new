@@ -32,7 +32,9 @@ export const ProjectComponent = (props: any) => {
                     <Text size="sm">
                         {project_type.toUpperCase()}
                     </Text>
-                    <Text size="xs">
+                    <Text 
+                        size="sm"
+                        colorToken="text-weaker">
                         {year}
                     </Text>
                 </div>
